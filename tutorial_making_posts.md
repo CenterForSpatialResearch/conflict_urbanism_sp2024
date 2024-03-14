@@ -30,7 +30,7 @@ This tutorial accomplishes two things:
 1. to create your post you will compose a plain text document. To do this you can use Notepad on Windows or Text Editor on Mac, however there are a number of great text editors out there that will help make things easier. [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/) are two good options. Download and install one of these if you would like.
 
 #### Step 1: familiarize yourself with the structure of the site
-1. in a browser open both the GitHub repository and the class website (your professor should have given you links to both). The two pages will look something like this:
+1. in a browser open both the GitHub repository and the class website (https://centerforspatialresearch.github.io/conflict_urbanism_sp2024/). The two pages will look something like this:
 ![screenshot of repository and class website]
 1. this GitHub repository is currently hosting a simple website. If you have already been added as a collaborator to the repository, click on the repository's `Settings` and scroll down to the `GitHub Pages` section locate the URL of the site. Or ask the owner of the repository to send you the link. Navigate to this website to take a look at it.
 2. the simple website you just visited above is being hosted by this repository. Scroll up to look at the structure of the folders and files. Key things to note here:
