@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2024-03-14
-image: "/conflict_urbanism_sp2024/images/LAS KIM/cover image-01.jpg"
+image: "/conflict_urbanism_sp2024/images/Course Tutorial/cover image-01.jpg"
 title:  "Those Who Travel and Live in the Dark"
 author: "Wei Xiao"
 ---
