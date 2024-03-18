@@ -2,7 +2,7 @@
 layout: post
 date:   2024-03-14
 image: "/conflict_urbanism_sp2024/images/LAS KIM/cover image-01.jpg"
-title:  "Template Post: Those Who Travel and Live in the Dark"
+title:  "Those Who Travel and Live in the Dark"
 author: "Wei Xiao"
 ---
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
