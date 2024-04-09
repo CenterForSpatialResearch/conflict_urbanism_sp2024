@@ -2,51 +2,21 @@
 layout: post
 date:   2024-04-05
 image: "/conflict_urbanism_sp2024/images/csr_thumbnail.png"
-title:  "Gentrification Map in LA"
+title:  "Is the stadium a catalyst for gentrification?"
 author: "Soichiro Harada"
 ---
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
+#### Abstract 
+This study delves into the intricate relationship between sports stadium developments and the phenomenon of gentrification in surrounding neighborhoods, with a focused investigation on the area around SoFi Stadium in Los Angeles. Employing unsupervised machine learning techniques, particularly K-means clustering, this research aims to discern patterns of gentrification that unfold in the wake of
+sports stadium construction. By analyzing demographic and economic data from the American Community Survey (ACS) spanning before and after the stadium's construction (2016-2022), the study endeavors to offer an objective, data-driven perspective on how such mega-developments influence local communities.
 
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
+#### Data
+Data collection focused on the period from the start of SoFi stadium construction in 2016 through 2022,when the stadium was completed. The study concentrated on census tracts in and around the stadiums that existed within a 20-km radius in order to assess differences in gentrification progression patterns between the newly constructed SoFi stadium and other existing surrounding stadiums. This research uses a dataset of location of sports venues provided by County of Los Angeles and a total of eight sports stadiums and arenas within the area were included in the study. These eight stadiums span the districts of Inglewood, Downtown Los Angeles, and Carson, and differ in terms of construction period and cost, capacity, and indoor or outdoor. This selection reflects the intent to capture a snapshot of diverse public infrastructure investments across different neighborhoods in the study area. The span
+ranges from the LA Memorial Coliseum, opened in 1923, to the technologically advanced SoFi Stadium in 2020. In terms of capacity and cost, the data exhibits a significant range, from the modestly sized Gersten Pavilion, capable of holding 4,156 patrons with $13.5 million cost, to the expansive SoFi Stadium, which can host a crowd of 100,240 with $6 billion construction costs.
 
-#### Please use level 4 headings for major section divisions  
-(make sure to put two spaces after the end of the heading)
 
-Write **words in bold** like this.  
-
-Italics are *similar* and are formatted like this.  
-
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
-
-See this is now a new paragraph.  
-
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
-
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
-
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
-
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
-
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
-
+#### Result
 ![description of image](/conflict_urbanism_sp2024/images/sample_image.png)
-
-If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
-
-<div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
-
-
-All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
-
-<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+The findings shed light on the multifaceted nature of gentrification, underlining the significant role of sports stadiums as catalysts for urban change. Through a meticulous analysis employing K-means clustering and an array of economic and demographic indicators, this study revealed distinct patterns of neighborhood evolution around the SoFi Stadium and other sports venues. The data points towards a pronounced trend of socio-economic upliftment, characterized by an influx of higher income households and an increase in residents with higher educational attainment within close proximity to the stadium. 
+Notably, the study delineates the differential impacts of stadium proximity on neighborhood demographics, showcasing a gradient of gentrification intensity that diminishes with distance from the stadium. This spatial correlation underscores the localized nature of gentrification processes, suggesting that the transformative effects of stadiums on urban fabric are most pronounced within their immediate surroundings.
+In conclusion, as cities continue to evolve under the influence of mega-projects like sports stadiums, it is imperative for urban planners, policymakers, and community stakeholders to navigate the delicate balance between development and displacement. This study lays the groundwork for future research to further dissect the mechanisms of gentrification and explore strategies to foster inclusive urban growth that benefits all residents.
