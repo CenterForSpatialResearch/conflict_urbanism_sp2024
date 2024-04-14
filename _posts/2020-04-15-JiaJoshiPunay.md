@@ -13,12 +13,12 @@ The quest to ensure the safety of our streets is a multifaceted endeavor that tr
 Over the past four months, our collaboration with the Legal Aid Society has been pivotal in addressing significant traffic management issues. Together, we have supported advocacy for sentence mitigation for their clients through innovative methods. Our contribution has produced visual data narratives that enhance their video mitigation projects, which aim for various judicial outcomes, including reduced sentences, case dismissals for justice, and advocating for release on recognizance rather than bail.  
 
 Our work has specifically focused on the critical intersection of Meeker Avenue and McGuinness Boulevard in Brooklyn. Through animated clips and illustrations, we have highlighted the shortcomings in street design at this location. These visual representations underscore the urgent need for improved traffic safety measures to foster a safer urban environment for all.  
-
+  
 
 #### **The Legal Aid Society** 
 
 The Legal Aid Society, a nonprofit organization in the U.S., provides complimentary legal services to individuals and families with limited financial resources who need help to afford legal counsel. Founded in 1876, the organization maintains several offices across the nation, concentrating primarily on the needs of New York City's residents. The scope of their services encompasses legal representation in civil, criminal, and juvenile rights cases, as well as advocacy for structural changes that enhance fairness and justice within the legal system. In the last four months, we have engaged with the Legal Aid Society on one of their active cases about traffic management. Our contributions involve working together to develop visual representations highlighting street design concerns, focusing on crafting empathetic narratives for the focused case about their incarcerated client. It is crucial to mention that the data used in creating these representations is confidential and will be anonymized in our report.  
-
+  
 
 #### **Thematic Concerns**
 
@@ -33,6 +33,7 @@ This approach gains particular relevance in the focal intersection of Meeker Ave
 By examining these dynamics, our research aims to illuminate how existing street conditions and systemic failures in implementing safety measures exacerbate the circumstances. This thematic exploration underscores the need for a holistic approach to road safety that transcends individual blame and focuses on systemic changes to prevent such tragedies. This approach is not just a theoretical proposition but a practical necessity, as outlined in the cited works and the ongoing debates around Vision Zero's implementation and challenges.  
 
 Furthermore, we have crafted narratives illuminating the social and urban challenges the Legal Aid Society's clients face. We aim to bolster the Society’s mission of delivering justice and legal representation to underprivileged and economically disadvantaged groups, especially by highlighting mitigating circumstances in their legal proceedings. Our contributions are designed to make a tangible impact on the video mitigation cases for clients. We also aspire for our outward-facing initiatives to foster wider conversations about restorative justice and to promote movements toward the abolition of prisons.  
+  
 
 #### **Methods**  
 
@@ -43,11 +44,11 @@ Historical Analysis: This initial phase focuses on reviewing past incidents and 
 Streetscape Mapping: The second component involves creating a comprehensive map of the site and its immediate environment. This detailed mapping pinpoints critical street elements such as road markings, sidewalks, and the sites of previous accidents. This visual documentation is crucial for understanding the spatial and environmental factors contributing to the site's safety issues.  
 
 3D Model Reconstruction: The final element of our methodology utilizes 3D modeling to bring a three-dimensional perspective to the analysis. This reconstruction includes critical features such as elevation changes, traffic signal locations, and nearby structures. By simulating the physical context of the street and collision sites, this model highlights systemic design flaws that increase the risk and frequency of accidents. The model also recreates scenarios leading up to collisions, including placeholders for pedestrians and vehicles. Lastly, walkthroughs or fly-through simulations illuminate the site's critical details and environmental conditions.  
-
+  
 
 #### **Case**
 The focal point of this case is a hazardous intersection of Meeker Avenue and McGuinness Boulevard in Brooklyn. It lacks crucial safety features for the protection of pedestrians and motorists. Notable issues at this site include an absence of marked pedestrian crossings, inadequate street lighting that diminishes visibility during nighttime hours, and traffic signals that need to be better positioned on an overhead flyover, making them difficult for drivers to see. Additionally, the design of the parking access under the bridge is fraught with hazards, lacking distinct signals and clear signage. This intersection also suffers from poorly timed traffic lights, which do not allow enough time for safe pedestrian crossings. Despite installing bollards intended to protect designated bike lanes, the absence of proper lane markings and intersection-specific safety measures has led to severe, sometimes fatal, accidents. This case underscores the pressing need for a comprehensive overhaul of safety protocols at this intersection to enhance urban traffic safety effectively.  
-
+  
 
 #### **Takeaways**  
 - Advocacy and Legal Support through Legal Aid Society: Collaboration with the Legal Aid Society has underscored the importance of supporting legal advocacy for traffic-related issues. Our contributions include creating visual narratives that effectively argue for judicial leniency, demonstrating society's role in bridging justice and public safety.  
