@@ -12,7 +12,8 @@ Ensuring the safety of our streets is a multifaceted endeavor that transcends me
 
 Our work focuses on the Greenpoint neighborhood in Brooklyn, at  intersections along McGuinness Boulevard between Newtown Road and Meeker Avenue under the Brooklyn-Queens Expressway, and the intersection at Humboldt and Herbert Streets. Through animated maps, illustrations, and renderings, we have highlighted the shortcomings in street design and adequate investment at these locations to underscore the urgent need for improved traffic safety measures.
 
-![McGuiness Boulevard and Meeker Avenue Intersection](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_McGuinessBlvd.JPG)    
+![McGuiness Boulevard and Meeker Avenue Intersection](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_McGuinessBlvd.JPG)
+Simpson, David, *McGuiness Boulevard and Meeker Avenue Intersection,* February 18, 2024, The Legal Aid Society  
 
 This project was conducted in collaboration with the Legal Aid Society and students at Fordham Law School. Through this multidisciplinary research, we have supported advocacy for sentence mitigation for Legal Aid Society clients through innovative methods, including the production of visual data narratives to enhance Legal Aid Society’s video mitigation projects. These video mitigation efforts aim for various judicial outcomes, including reduced sentences, case dismissals for justice, and advocating for release on recognizance rather than bail.  
 
