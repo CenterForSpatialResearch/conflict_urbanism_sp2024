@@ -65,7 +65,6 @@ The focal point of this case is a hazardous intersection of Meeker Avenue and Mc
 
 *April 15, 2024 Version*
 <iframe src="https://player.vimeo.com/video/934976766?h=b077767e37&title=0&byline=0&portrait=0" width="640" height="359" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/934976766">Dangerous by Design: Assessing Urban Mobility and Traffic Safety along McGuiness Boulevard</a> from <a href="https://vimeo.com/user218164156">Lance Mikhail Roldan Punay</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   
 
 #### **Takeaways**  
