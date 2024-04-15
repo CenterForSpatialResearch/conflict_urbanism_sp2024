@@ -2,7 +2,7 @@
 layout: post
 date:   2024-04-15
 image: "/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_Thumbnail_Test.png"
-title:  "Urban Mobility and Traffic Safety "
+title:  "Dangerous by Design: Assessing Urban Mobility and Traffic Safety along McGuiness Boulevard"
 author: "Olivia Jia, Ruju Joshi, & Lance Mikhail Punay"
 ---
 
