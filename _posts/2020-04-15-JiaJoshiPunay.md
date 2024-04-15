@@ -2,7 +2,7 @@
 layout: post
 date:   2024-04-14
 image: "/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_Thumbnail_Test.png"
-title:  "LAS Batista Test"
+title:  "Urban Mobility and Traffic Safety "
 author: "Olivia Jia, Ruju Joshi, & Lance Mikhail Punay"
 ---
 
@@ -58,6 +58,8 @@ The intersection analysis methodology incorporates a mixed-methods approach of t
 
 #### **Case**
 The focal point of this case is a hazardous intersection of Meeker Avenue and McGuinness Boulevard in Brooklyn. It lacks crucial safety features for the protection of pedestrians and motorists. Notable issues at this site include an absence of marked pedestrian crossings, inadequate street lighting that diminishes visibility during nighttime hours, and traffic signals that need to be better positioned on an overhead flyover, making them difficult for drivers to see. Additionally, the design of the parking access under the bridge is fraught with hazards, lacking distinct signals and clear signage. This intersection also needs better timed traffic lights, which do not allow enough time for safe pedestrian crossings. Despite installing bollards intended to protect designated bike lanes, the absence of proper lane markings and intersection-specific safety measures has led to severe, sometimes fatal, accidents. This case underscores the pressing need for a comprehensive overhaul of safety protocols at this intersection to enhance urban traffic safety effectively.  
+
+[Video](https://vimeo.com)
   
 
 #### **Takeaways**  
@@ -74,10 +76,3 @@ The focal point of this case is a hazardous intersection of Meeker Avenue and Mc
 - **Accuracy and Completeness of Case Data:** The complexity of the cases managed by the Legal Aid Society requires that all utilized data be current and thorough to support case narratives and legal strategies accurately.  
 
 - **Collaborative Communication with Diverse Professionals:** Effective partnerships with various professionals demand clear communication and mutual understanding to ensure that all project outputs are practical, accessible, and meet the varied needs of all project stakeholders.  
-
-
-
-
-[Link to GitHub Repository](https://github.com/CenterForSpatialResearch/conflict_urbanism_sp2024/tree/master)
-
-![2 to 3 Lane](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_Lane_Transition.png)
