@@ -76,3 +76,39 @@ The focal point of this case is a hazardous intersection of Meeker Avenue and Mc
 - **Accuracy and Completeness of Case Data:** The complexity of the cases managed by the Legal Aid Society requires that all utilized data be current and thorough to support case narratives and legal strategies accurately.  
 
 - **Collaborative Communication with Diverse Professionals:** Effective partnerships with various professionals demand clear communication and mutual understanding to ensure that all project outputs are practical, accessible, and meet the varied needs of all project stakeholders.  
+
+#### **Bibliography**  
+
+Chang, Clio. 2023. “Welcome to the McGuinness Boulevard Parking Lot–Bike Lane–Loading Zone.” Curbed. October 27, 2023. https://www.curbed.com/2023/10/mcguinness-boulevard-compromise-bike-lane.html.  
+
+Davey, Emma. 2023. ‘McGuinness Boulevard Driver Causes Severe Injuries and Damages Multiple Cars’. Greenpointers. August 11, 2023. https://greenpointers.com/2023/08/11/mcguinness-boulevard-driver-causes-severe-injuries-and-damages-multiple-cars/.  
+
+Davey, Emma. 2023. “DOT Starts Work on McGuinness Boulevard Bike Lanes.” Greenpointers. October 2, 2023. https://greenpointers.com/2023/10/02/dot-starts-work-on-mcguinness-boulevard-bike-lanes/.  
+
+Duggan , Kevin. 2023. “Outrage on Bloody McGuinness Blvd. as Motorist Severely Injures Moped Rider.” Streetsblog New York City. August 10, 2023. https://nyc.streetsblog.org/2023/08/10/outrage-on-deadly-mcguinness-blvd-as-motorist-severely-injures-moped-rider.  
+
+Ederer, David J., Rachael Thompson Panik, Nisha Botchwey, and Kari Watkins. 2023. “The Safe Systems Pyramid: A New Framework for Traffic Safety.” Transportation Research Interdisciplinary Perspectives 21 (September): 100905. https://doi.org/10.1016/j.trip.2023.100905.  
+
+Hogan, Gwynne. 2023. “How Mayor Adams Took a U-Turn on McGuinness Boulevard Redesign.” THE CITY - NYC News. July 6, 2023. http://www.thecity.nyc/2023/07/06/argento-eric-adams-mcguinness-redesign/.  
+
+“Make McGuinness Safe.” n.d. Instagram. Accessed March 6, 2024. https://www.instagram.com/makemcguinnesssafe/.  
+
+New York City Department of City Planning. 2024. “Digital City Map – Shapefile.” Shapefile. New York City Open Data. https://data.cityofnewyork.us/City-Government/Digital-City-Map-Shapefile/m2vu-mgzw.  
+
+New York City Department of Transportation. 2022. “McGuinness Complete Street Redesign.” June 30.  https://www.nyc.gov/html/dot/downloads/pdf/mcguinness-blvd-complete-street-jun2022.pdf.  
+
+New York City Department of Transportation. 2024. “VZV_Street Improvement Projects (SIPs) Corridor.” Shapefile. New York City Open Data. https://data.cityofnewyork.us/Transportation/VZV_Street-Improvement-Projects-SIPs-Corridor/wqhs-q6wd.  
+
+New York City Department of Transportation. 2024. “VZV_Street Improvement Projects (SIPs) Intersections.” Shapefile. New York City Open Data. https://data.cityofnewyork.us/Transportation/VZV_Street-Improvement-Projects-SIPs-intersections/79sh-heg3.  
+
+New York Police Department. 2021. “Motor Vehicle Collisions - Crashes.” Dataset. New York City Open Data. https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data.  
+
+New York Police Department. 2019. “Motor Vehicle Collisions - Person.” Dataset. New York City Open Data. https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu/about_data.  
+
+Paolicelli, Alyssa. 2023. “City Moves Forward with Scaled-down Redesign of McGuinness Boulevard.” Spectrum News NY1. August, 17 2023. https://ny1.com/nyc/all-boroughs/news/2023/08/17/dot-moves-forward-with-scaled-down-redesign-of-mcguiness-boulevard.  
+
+“Research - Get the Facts.” 2022. The Sentencing Project. September 8, 2022. https://www.sentencingproject.org/research/.  
+
+The Legal Aid Society. “What We Do Archive.” n.d. The Legal Aid Society (blog). Accessed March 6, 2024. https://legalaidnyc.org/what-we-do/.  
+
+“Vision Zero.” n.d. NYC Vision Zero. City of New York. Accessed March 6, 2024. https://www.nyc.gov/content/visionzero/pages/.  
