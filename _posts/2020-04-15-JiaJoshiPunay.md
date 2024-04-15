@@ -40,7 +40,8 @@ Since its implementation in 2014, Vision Zero has aimed to eliminate traffic fat
 
 This approach gains particular relevance in the focal intersection of Meeker Avenue and McGuinness Boulevard—an area historically neglected regarding safety enhancements despite being recognized as one of the borough's most dangerous. A proposed redesign of McGuinness Boulevard, which included protected bike lanes aimed at improving safety for micro-mobility users, was initially supported but ultimately abandoned due to opposition from private interests and Mayor Eric Adams' aide, Ingrid Lewis-Martin. This decision, which contradicted previous approvals and grassroots advocacy for the redesign, has drawn criticism and raised concerns about the commitment to future safety improvements in the area.  
 
-![News Coverage](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_NewsCoverCoverage.png)  
+![News Coverage](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_NewsCoverCoverage.png)
+*Source Format Pending*  
 
 In examining these dynamics, our research aims to illuminate how existing street conditions and systemic failures in implementing safety measures exacerbate circumstances on the road. This thematic exploration underscores the need for a holistic approach to road safety that transcends individual blame and focuses on systemic changes to prevent such tragedies. This approach is not just a theoretical proposition but a practical necessity, as outlined in the cited works and the ongoing debates around Vision Zero's implementation and challenges.  
 
