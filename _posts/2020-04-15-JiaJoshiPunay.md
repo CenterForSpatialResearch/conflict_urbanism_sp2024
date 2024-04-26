@@ -14,10 +14,10 @@ Our work focuses on the Greenpoint neighborhood in Brooklyn, at  intersections a
 
 ![Vision Zero](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_VisionZeroMap.png)  
 
-![McGuiness Boulevard and Meeker Avenue Intersection](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_McGuinessBlvd.JPG)
-Simpson, David. *McGuiness Boulevard and Meeker Avenue Intersection.* February 18, 2024. The Legal Aid Society.  
+This project was conducted in collaboration with the Legal Aid Society and students at Fordham Law School. Through this multidisciplinary research, we have supported advocacy for sentence mitigation for Legal Aid Society clients through innovative methods, including the production of visual data narratives to enhance Legal Aid Society’s video mitigation projects. These video mitigation efforts aim for various judicial outcomes, including reduced sentences, case dismissals for justice, and advocating for release on recognizance rather than bail. 
 
-This project was conducted in collaboration with the Legal Aid Society and students at Fordham Law School. Through this multidisciplinary research, we have supported advocacy for sentence mitigation for Legal Aid Society clients through innovative methods, including the production of visual data narratives to enhance Legal Aid Society’s video mitigation projects. These video mitigation efforts aim for various judicial outcomes, including reduced sentences, case dismissals for justice, and advocating for release on recognizance rather than bail.  
+![McGuiness Boulevard and Meeker Avenue Intersection](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_McGuinessBlvd.JPG)
+Simpson, David. *McGuiness Boulevard and Meeker Avenue Intersection.* February 18, 2024. The Legal Aid Society.   
 
 
 #### **The Legal Aid Society** 
@@ -38,7 +38,7 @@ Ederer et al.’s research views road safety through a systemic lens, arguing th
 
 Since its implementation in 2014, Vision Zero has aimed to eliminate traffic fatalities through comprehensive strategies, including engineering improvements, traffic law enforcement, and public education. The city's efforts have led to some of the safest years on record, yet the initiative's success hinges on continual innovation and rigorous evaluation.  
 
-![Collisions](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_JiaJoshiPunay_CollisionMap.png)  
+![Collisions](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_CollisionMap.png)  
 
 This approach gains particular relevance in the focal intersection of Meeker Avenue and McGuinness Boulevard—an area historically neglected regarding safety enhancements despite being recognized as one of the borough's most dangerous. A proposed redesign of McGuinness Boulevard, which included protected bike lanes aimed at improving safety for micro-mobility users, was initially supported but ultimately abandoned due to opposition from private interests and Mayor Eric Adams' aide, Ingrid Lewis-Martin. This decision, which contradicted previous approvals and grassroots advocacy for the redesign, has drawn criticism and raised concerns about the commitment to future safety improvements in the area.  
 
