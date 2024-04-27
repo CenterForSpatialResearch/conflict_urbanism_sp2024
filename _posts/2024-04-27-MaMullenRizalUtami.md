@@ -13,7 +13,7 @@ body {
 }
 </style>
 
-#### Introduction  
+## Introduction  
 
 In post-colonial and de-colonial studies, Western-led developments in Asia have been studied and critiqued extensively. However, less attention has been given to developments led by foreign Asian developers in Asian countries, or ‘Asia-to-Asia development’, especially using neo-colonial and neoliberal analytical frameworks. In less developed regions in Asia, local governments perceive developers from more developed Asian countries to have better regional knowledge and contextualized economic growth strategies that they can replicate in their own cities. As compared to Western developers, these Asia-to-Asia development practices are thought to be not only more benign, but also more attainable. This study draws on four case studies to investigate if Asia-to-Asia developments are truly beneficial to local stakeholders, and argue for further critical research into this under-researched field.
 
@@ -22,6 +22,8 @@ This study draws on two theoretical frameworks for analysis. In Foreign Direct I
 In Neo-Colonialism and the Poverty of ‘Development’ in Africa (2018), Langan argues that foreign intervention in Africa is a neo-colonial phenomena. These interventions come in both aid and development, and are legitimized as part of a “virtuous endeavor” to bring about economic development to local contexts. However, these interventions tend to bring about negative effects such as exacerbating existing conditions of ill-being and poverty. Hagmann & Reyntjens’s Aid and Authoritarianism in Africa: Development without Democracy (2016) further extends Langan’s argument that foreign intervention tends to work in tandem with authoritarian one-party state, which further strengthens the regime at the expense of local populations who typically get dispossessed.
 
 This project aims to examine the impacts of Asia-to-Asia development. Key conflicts identified across the four case studies examine the power dynamics between local stakeholders and foreign developers, and the role of the state in furthering foreign interests.
+
+## Case Studies
 
 ![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg.png)
 
@@ -65,18 +67,18 @@ The Rempang Eco City project is a joint project between the Indonesian governmen
 
 SYSTEM DIAGRAM
 
-#### Themes of Conflict
+## Themes of Conflict
 
-## Land Use Dynamics and Decision Making
+#### Land Use Dynamics and Decision Making
 
 HOLD FOR LANDSAT GIFS
 
-## Ecosystems for Displacement & Dispossession
+#### Ecosystems for Displacement & Dispossession
 
 PHOTO CAROUSEL
 
-## Localized Sites for Global Contests
+#### Localized Sites for Global Contests
 
 PHOTO CAROUSEL
 
-#### Final Remarks
+## Final Remarks
