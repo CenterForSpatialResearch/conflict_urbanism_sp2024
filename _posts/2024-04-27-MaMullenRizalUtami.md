@@ -20,16 +20,16 @@ This study draws on two theoretical frameworks for analysis. In Foreign Direct I
 In Neo-Colonialism and the Poverty of ‘Development’ in Africa (2018), Langan argues that foreign intervention in Africa is a neo-colonial phenomena. These interventions come in both aid and development, and are legitimized as part of a “virtuous endeavor” to bring about economic development to local contexts. However, these interventions tend to bring about negative effects such as exacerbating existing conditions of ill-being and poverty. Hagmann & Reyntjens’s Aid and Authoritarianism in Africa: Development without Democracy (2016) further extends Langan’s argument that foreign intervention tends to work in tandem with authoritarian one-party state, which further strengthens the regime at the expense of local populations who typically get dispossessed.
 
 This project aims to examine the impacts of Asia-to-Asia development. Key conflicts identified across the four case studies examine the power dynamics between local stakeholders and foreign developers, and the role of the state in furthering foreign interests.
-
-
-
+<break>
+<break>
+<break>
 #### Case Studies
 
 ![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg.png)  
 
 
 
-##### Vietnam: Vietnam-Singapore Industrial Parks  
+#### *Vietnam: Vietnam-Singapore Industrial Parks*  
 
 ![VietnamMap](/conflict_urbanism_sp2024/images/AsiaDev/Vietnam.png)
 
@@ -41,7 +41,7 @@ VSIP is a joint venture project between Becamex Investment and Industrial Develo
 
 
 
-##### Laos: Golden Triangle Special Economic Zone (SEZ)  
+#### *Laos: Golden Triangle Special Economic Zone (SEZ)*  
 
 ![LaosMap](/conflict_urbanism_sp2024/images/AsiaDev/GoldenTriangle.jpg)
 
@@ -53,7 +53,7 @@ The development of this area is central to the opening of casinos, hotels, and r
 
 
 
-##### India: International Tech Park Bangalore    
+#### *India: International Tech Park Bangalore*    
 
 ![IndiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Bangalore.png)
 
@@ -65,7 +65,7 @@ The park was created as a joint venture between India and Singapore in 1994 to r
 
 
 
-##### Indonesia: Rempang Eco City  
+#### *Indonesia: Rempang Eco City*  
 
 ![IndonesiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Rempang.png)
 
@@ -77,11 +77,11 @@ SYSTEM DIAGRAM
 
 #### Themes of Conflict
 
-##### *Land Use Dynamics and Decision Making*
+#### *Land Use Dynamics and Decision Making*
 
 HOLD FOR LANDSAT GIFS
 
-##### *Ecosystems for Displacement & Dispossession*
+#### *Ecosystems for Displacement & Dispossession*
 
 PHOTO CAROUSEL
 
@@ -89,4 +89,4 @@ PHOTO CAROUSEL
 
 PHOTO CAROUSEL
 
-## Final Remarks
+#### Final Remarks
