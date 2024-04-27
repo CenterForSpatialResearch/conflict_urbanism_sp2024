@@ -13,9 +13,7 @@ body {
 }
 </style>
 
-## Introduction  
-
-In post-colonial and de-colonial studies, Western-led developments in Asia have been studied and critiqued extensively. However, less attention has been given to developments led by foreign Asian developers in Asian countries, or ‘Asia-to-Asia development’, especially using neo-colonial and neoliberal analytical frameworks. In less developed regions in Asia, local governments perceive developers from more developed Asian countries to have better regional knowledge and contextualized economic growth strategies that they can replicate in their own cities. As compared to Western developers, these Asia-to-Asia development practices are thought to be not only more benign, but also more attainable. This study draws on four case studies to investigate if Asia-to-Asia developments are truly beneficial to local stakeholders, and argue for further critical research into this under-researched field.
+ In post-colonial and de-colonial studies, Western-led developments in Asia have been studied and critiqued extensively. However, less attention has been given to developments led by foreign Asian developers in Asian countries, or ‘Asia-to-Asia development’, especially using neo-colonial and neoliberal analytical frameworks. In less developed regions in Asia, local governments perceive developers from more developed Asian countries to have better regional knowledge and contextualized economic growth strategies that they can replicate in their own cities. As compared to Western developers, these Asia-to-Asia development practices are thought to be not only more benign, but also more attainable. This study draws on four case studies to investigate if Asia-to-Asia developments are truly beneficial to local stakeholders, and argue for further critical research into this under-researched field.
 
 This study draws on two theoretical frameworks for analysis. In Foreign Direct Investment and Development, Theodore Moran (1998) classifies the dynamic between foreign direct investment and development as either “benign” or “malign”. The benign dynamic is supposed to break the cycle of poverty and inequality by improving productivity, local revenue, and community development, which leads to higher economic growth (p. 19). Meanwhile, the malign model emphasizes the possibility of foreign entities enjoying the imperfect domestic market to extract more profits, driving domestic producers out of business and draining the local capital of the host country instead of closing the inequality gap (p. 20).
 
@@ -23,11 +21,15 @@ In Neo-Colonialism and the Poverty of ‘Development’ in Africa (2018), Langan
 
 This project aims to examine the impacts of Asia-to-Asia development. Key conflicts identified across the four case studies examine the power dynamics between local stakeholders and foreign developers, and the role of the state in furthering foreign interests.
 
-## Case Studies
 
-![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg.png)
 
-#### Vietnam: Vietnam-Singapore Industrial Parks  
+#### Case Studies
+
+![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg.png)  
+
+
+
+##### Vietnam: Vietnam-Singapore Industrial Parks  
 
 ![VietnamMap](/conflict_urbanism_sp2024/images/AsiaDev/Vietnam.png)
 
@@ -37,7 +39,9 @@ HOLD FOR SYSTEM DIAGRAM
 
 VSIP is a joint venture project between Becamex Investment and Industrial Development Corporation (Becamex IDC), a Vietnam state-owned enterprise, and Sembcorp Development, a Singaporean land and real estate developer. Becamex IDC provided the land bank for the developments, while Sembcorp Development provided their expertise in green and mixed-use urban planning, global marketing outreach, and the Singapore reputation and branding. The first project was a 500 hectare development in Binh Duong province, an hour outside of Ho Chi Minh City. Since then, there are a total of 14 VSIP projects throughout the country dedicated to light manufacturing industries and supplementary residential developments. Each project ranges from 150 to 2,045 hectares in size and total over 11,500 hectares, approximately the size of Queens. 
 
-#### Laos: Golden Triangle Special Economic Zone (SEZ)  
+
+
+##### Laos: Golden Triangle Special Economic Zone (SEZ)  
 
 ![LaosMap](/conflict_urbanism_sp2024/images/AsiaDev/GoldenTriangle.jpg)
 
@@ -48,7 +52,8 @@ SYSTEM DIAGRAM
 The development of this area is central to the opening of casinos, hotels, and resorts, along with an international airport. The area primarily attracts Chinese tourists and uses Chinese renminbi and Thai baht as the main currencies. This area has been closely associated with illegal industries such as wildlife trade, human trafficking, sex trade, narcotics smuggling, and money laundering that cater to transactions for Chinese, Hong Kong, and Australian clients. This SEZ is part of the government’s “Turning Land Into Capital” policy established in 2006, which is rooted in the marketization of land for profit and government revenue. Apart from the significant land use change that occurs, smallholder landowners who rely on their livelihood through agriculture are evicted from their land as the government reallocates the state land for foreign investors.
 
 
-#### India: International Tech Park Bangalore    
+
+##### India: International Tech Park Bangalore    
 
 ![IndiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Bangalore.png)
 
@@ -59,7 +64,8 @@ SYSTEM DIAGRAM
 The park was created as a joint venture between India and Singapore in 1994 to replicate Singapore’s infrastructure. Capitaland Ascendas is the lead partner of the Singapore consortium of ownership, owning 94 percent of the park. Karnataka Industrial Area Development Board (KIADB), a State-led organization responsible for land acquisitions for industrial and infrastructure purposes controls the remaining 6 percent.
 
 
-#### Indonesia: Rempang Eco City  
+
+##### Indonesia: Rempang Eco City  
 
 ![IndonesiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Rempang.png)
 
@@ -67,17 +73,19 @@ The Rempang Eco City project is a joint project between the Indonesian governmen
 
 SYSTEM DIAGRAM
 
-## Themes of Conflict
 
-#### Land Use Dynamics and Decision Making
+
+#### Themes of Conflict
+
+##### *Land Use Dynamics and Decision Making*
 
 HOLD FOR LANDSAT GIFS
 
-#### Ecosystems for Displacement & Dispossession
+##### *Ecosystems for Displacement & Dispossession*
 
 PHOTO CAROUSEL
 
-#### Localized Sites for Global Contests
+#### *Localized Sites for Global Contests*
 
 PHOTO CAROUSEL
 
