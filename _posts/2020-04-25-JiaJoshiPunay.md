@@ -20,7 +20,7 @@ This project was conducted in collaboration with the Legal Aid Society and stude
 
 *McGuinness Boulevard and Meeker Avenue Intersection*
 ![McGuiness Boulevard and Meeker Avenue Intersection](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_McGuinessBlvd.JPG)
- Source: David Simpson from The Legal Aid Society  
+ Source: David Simpson & The Legal Aid Society  
 
 
 #### **The Legal Aid Society** 
