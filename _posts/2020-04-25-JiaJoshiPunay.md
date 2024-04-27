@@ -19,7 +19,7 @@ This project was conducted in collaboration with the Legal Aid Society and stude
 
 *McGuinness Boulevard and Meeker Avenue Intersection*
 ![McGuiness Boulevard and Meeker Avenue Intersection](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_McGuinessBlvd.JPG)
-Simpson, David. *McGuiness Boulevard and Meeker Avenue Intersection.* February 18, 2024. The Legal Aid Society.   
+ Source: The Legal Aid Society  
 
 
 #### **The Legal Aid Society** 
@@ -47,7 +47,7 @@ This approach gains particular relevance in the focal intersection of Meeker Ave
 
 *News Coverage*
 ![News Coverage](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_NewsCoverCoverage.png)
-*Source Format Pending*  
+Sources:  [CBS News](https://www.cbsnews.com/newyork/news/the-latest-on-the-mcguinness-boulevard-redesign-proposal/), [Curbed](https://www.curbed.com/2023/10/mcguinness-boulevard-compromise-bike-lane.html), [Greenpointers](https://greenpointers.com/2023/05/08/big-changes-are-coming-to-mcguinness-boulevard-with-a-full-road-diet/), [Gothamist](https://gothamist.com/news/nyc-has-new-plan-for-mcguinness-boulevard-in-brooklyn-after-months-of-controversy), [Spectrum News](https://ny1.com/nyc/all-boroughs/news/2023/08/17/dot-moves-forward-with-scaled-down-redesign-of-mcguiness-boulevard), [Streetsblog NYC](https://nyc.streetsblog.org/2023/07/05/mayor-yields-to-opposition-orders-alternatives-to-dot-plan-for-deadly-mcguinness-blvd), [The City](https://www.thecity.nyc/2023/07/06/argento-eric-adams-mcguinness-redesign/)  
 
 In examining these dynamics, our research aims to illuminate how existing street conditions and systemic failures in implementing safety measures exacerbate circumstances on the road. This thematic exploration underscores the need for a holistic approach to road safety that transcends individual blame and focuses on systemic changes to prevent such tragedies. This approach is not just a theoretical proposition but a practical necessity, as outlined in the cited works and the ongoing debates around Vision Zero's implementation and challenges.  
 
@@ -119,6 +119,8 @@ New York Police Department. 2019. “Motor Vehicle Collisions - Person.” Datas
 Paolicelli, Alyssa. 2023. “City Moves Forward with Scaled-down Redesign of McGuinness Boulevard.” Spectrum News NY1. August, 17 2023. https://ny1.com/nyc/all-boroughs/news/2023/08/17/dot-moves-forward-with-scaled-down-redesign-of-mcguiness-boulevard.  
 
 “Research - Get the Facts.” 2022. The Sentencing Project. September 8, 2022. https://www.sentencingproject.org/research/.  
+
+Simpson, David. *McGuiness Boulevard and Meeker Avenue Intersection.* February 18, 2024. The Legal Aid Society.  
 
 The Legal Aid Society. “What We Do Archive.” n.d. The Legal Aid Society (blog). Accessed March 6, 2024. https://legalaidnyc.org/what-we-do/.  
 
