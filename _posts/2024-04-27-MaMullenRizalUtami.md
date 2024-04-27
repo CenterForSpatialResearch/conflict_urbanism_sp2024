@@ -2,8 +2,8 @@
 layout: post
 date:   2024-04-27
 image: "/conflict_urbanism_sp2024/images/Cover_asia.png"
-title:  ""Benign" Development: Asia Foreign Developers in Asia"
-author: ""
+title:  "Benign Development?: Asia Foreign Developers in Asia"
+author: "Submitted Anonymously"
 ---
 While the impacts of foreign investment by Western developers in Asian countries are often studied and critiqued, less attention is given to the impacts of development in Asian countries by foreign Asian developers, or ‘Asia-to-Asia development'. This project aims to examine the motivations and impacts of Asia-to-Asia development. Local governments tend to perceive foreign Asian developers to have better regional knowledge and contextualized economic growth strategies that they are able to replicate in their own cities. As compared to Western developers, these Asia-to-Asia development practices are thought to be benign. This study aims to investigate if they are true to what they are purported to be. 
 
@@ -33,8 +33,6 @@ Or they can just be bullet points:
 * or like this
   - use two spaces
   - to have nested lists
-
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
