@@ -15,9 +15,13 @@ body {
 
 #### Introduction  
 
-While the impacts of foreign investment by Western developers in Asian countries are often studied and critiqued, less attention is given to the impacts of development in Asian countries by foreign Asian developers, or ‘Asia-to-Asia development'. This project aims to examine the motivations and impacts of Asia-to-Asia development. Local governments tend to perceive foreign Asian developers to have better regional knowledge and contextualized economic growth strategies that they are able to replicate in their own cities. As compared to Western developers, these Asia-to-Asia development practices are thought to be benign. This study aims to investigate if they are true to what they are purported to be. 
+In post-colonial and de-colonial studies, Western-led developments in Asia have been studied and critiqued extensively. However, less attention has been given to developments led by foreign Asian developers in Asian countries, or ‘Asia-to-Asia development’, especially using neo-colonial and neoliberal analytical frameworks. In less developed regions in Asia, local governments perceive developers from more developed Asian countries to have better regional knowledge and contextualized economic growth strategies that they can replicate in their own cities. As compared to Western developers, these Asia-to-Asia development practices are thought to be not only more benign, but also more attainable. This study draws on four case studies to investigate if Asia-to-Asia developments are truly beneficial to local stakeholders, and argue for further critical research into this under-researched field.
 
-The projects in discussion center on the involvement of significant foreign direct investment and foreign developers on projects such as industrial parks, special economic zones, new city developments, and tech parks that range from 29-17,000 hectares in size. By analyzing four case studies in four countries, each with different land use types and scales, we seek to understand the temporal land use changes and impacts of Asia-to-Asia development on local urban residents and the surrounding land.
+This study draws on two theoretical frameworks for analysis. In Foreign Direct Investment and Development, Theodore Moran (1998) classifies the dynamic between foreign direct investment and development as either “benign” or “malign”. The benign dynamic is supposed to break the cycle of poverty and inequality by improving productivity, local revenue, and community development, which leads to higher economic growth (p. 19). Meanwhile, the malign model emphasizes the possibility of foreign entities enjoying the imperfect domestic market to extract more profits, driving domestic producers out of business and draining the local capital of the host country instead of closing the inequality gap (p. 20).
+
+In Neo-Colonialism and the Poverty of ‘Development’ in Africa (2018), Langan argues that foreign intervention in Africa is a neo-colonial phenomena. These interventions come in both aid and development, and are legitimized as part of a “virtuous endeavor” to bring about economic development to local contexts. However, these interventions tend to bring about negative effects such as exacerbating existing conditions of ill-being and poverty. Hagmann & Reyntjens’s Aid and Authoritarianism in Africa: Development without Democracy (2016) further extends Langan’s argument that foreign intervention tends to work in tandem with authoritarian one-party state, which further strengthens the regime at the expense of local populations who typically get dispossessed.
+
+This project aims to examine the impacts of Asia-to-Asia development. Key conflicts identified across the four case studies examine the power dynamics between local stakeholders and foreign developers, and the role of the state in furthering foreign interests.
 
 ![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg.png)
 
@@ -25,35 +29,54 @@ The projects in discussion center on the involvement of significant foreign dire
 
 ![VietnamMap](/conflict_urbanism_sp2024/images/AsiaDev/Vietnam.png)
 
+The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral government-led project arising out of two complementary ambitions from both the Vietnamese and Singaporean governments – for the former, they wished to emulate Singapore’s model of industrialization and modernization to encourage greater economic growth and job employment; for the latter, this project allowed Singaporean developers leverage on their master-planning expertise to benefit other Singaporean and foreign investors by tapping into cheaper regional labor.
+
+HOLD FOR SYSTEM DIAGRAM
+
+VSIP is a joint venture project between Becamex Investment and Industrial Development Corporation (Becamex IDC), a Vietnam state-owned enterprise, and Sembcorp Development, a Singaporean land and real estate developer. Becamex IDC provided the land bank for the developments, while Sembcorp Development provided their expertise in green and mixed-use urban planning, global marketing outreach, and the Singapore reputation and branding. The first project was a 500 hectare development in Binh Duong province, an hour outside of Ho Chi Minh City. Since then, there are a total of 14 VSIP projects throughout the country dedicated to light manufacturing industries and supplementary residential developments. Each project ranges from 150 to 2,045 hectares in size and total over 11,500 hectares, approximately the size of Queens. 
+
 #### Laos: Golden Triangle Special Economic Zone (SEZ)  
 
 ![LaosMap](/conflict_urbanism_sp2024/images/AsiaDev/GoldenTriangle.jpg)
+
+Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of which are a duty-free zone, called the Golden Triangle SEZ. The objective of the development is to attract foreign direct investment and boost economic growth in the region. 
+
+SYSTEM DIAGRAM
+
+The development of this area is central to the opening of casinos, hotels, and resorts, along with an international airport. The area primarily attracts Chinese tourists and uses Chinese renminbi and Thai baht as the main currencies. This area has been closely associated with illegal industries such as wildlife trade, human trafficking, sex trade, narcotics smuggling, and money laundering that cater to transactions for Chinese, Hong Kong, and Australian clients. This SEZ is part of the government’s “Turning Land Into Capital” policy established in 2006, which is rooted in the marketization of land for profit and government revenue. Apart from the significant land use change that occurs, smallholder landowners who rely on their livelihood through agriculture are evicted from their land as the government reallocates the state land for foreign investors.
+
 
 #### India: International Tech Park Bangalore    
 
 ![IndiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Bangalore.png)
 
+International Tech Park Bangalore (ITPB) is a tech park located in Whitefield, Bangalore, 18 km from the city center. According to a 2023 valuation, the development is valued at $610,539,832 USD. The park comprises a total 29 hectares of office space, retail mall, hotel, and amenities such as banks, restaurants, and sporting arenas. Built in 1994, ITPB served as the first large-scale example of the ‘work-live-play’ environment in India and is used as a model for IT park projects in Bangalore, which is often touted as ‘India’s Silicon Valley’. There are currently over a dozen tech parks in Bangalore housing over 67,000 companies. ITPB is home to multiple multinational giants including IBM, General Motors, TCS, and Oracle. 
+
+SYSTEM DIAGRAM
+
+The park was created as a joint venture between India and Singapore in 1994 to replicate Singapore’s infrastructure. Capitaland Ascendas is the lead partner of the Singapore consortium of ownership, owning 94 percent of the park. Karnataka Industrial Area Development Board (KIADB), a State-led organization responsible for land acquisitions for industrial and infrastructure purposes controls the remaining 6 percent.
+
+
 #### Indonesia: Rempang Eco City  
 
 ![IndonesiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Rempang.png)
 
+The Rempang Eco City project is a joint project between the Indonesian government, local Indonesian company PT Makmur Elok Graha (MEG), and China’s Xinyi Glass, the world’s largest producer of glass and solar panels. Located on Rempang Island, the site of the project is close to Malaysia and Singapore and encircled by several smaller local Indonesian islands. The project is anticipated to cover around 42,000 acres (17,000 hectares) of land with the development of industrial, service, and tourism areas being built on Rempang Island. The project, titled “Rempact Eco-City”, is claimed to include several sustainability elements, such as green infrastructure, renewable energy, eco-friendly building design, recycling infrastructure, and sustainable transportation options. The project is advertised to hold immense potential for economic development and local job creation, utilizing the locally available quartz sand resources, an important resource in the production of glass and solar panels.
 
-Write **words in bold** like this.  
+SYSTEM DIAGRAM
 
-Italics are *similar* and are formatted like this.  
+#### Themes of Conflict
 
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
+## Land Use Dynamics and Decision Making
 
-See this is now a new paragraph.  
+HOLD FOR LANDSAT GIFS
 
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
+## Ecosystems for Displacement & Dispossession
 
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists 
+PHOTO CAROUSEL
+
+## Localized Sites for Global Contests
+
+PHOTO CAROUSEL
+
+#### Final Remarks
