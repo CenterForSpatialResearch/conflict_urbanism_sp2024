@@ -20,9 +20,7 @@ This study draws on two theoretical frameworks for analysis. In Foreign Direct I
 In Neo-Colonialism and the Poverty of ‘Development’ in Africa (2018), Langan argues that foreign intervention in Africa is a neo-colonial phenomena. These interventions come in both aid and development, and are legitimized as part of a “virtuous endeavor” to bring about economic development to local contexts. However, these interventions tend to bring about negative effects such as exacerbating existing conditions of ill-being and poverty. Hagmann & Reyntjens’s Aid and Authoritarianism in Africa: Development without Democracy (2016) further extends Langan’s argument that foreign intervention tends to work in tandem with authoritarian one-party state, which further strengthens the regime at the expense of local populations who typically get dispossessed.
 
 This project aims to examine the impacts of Asia-to-Asia development. Key conflicts identified across the four case studies examine the power dynamics between local stakeholders and foreign developers, and the role of the state in furthering foreign interests.
-<break>
-<break>
-<break>
+
 #### Case Studies
 
 ![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg.png)  
