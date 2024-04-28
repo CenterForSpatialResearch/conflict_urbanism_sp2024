@@ -86,7 +86,7 @@ SYSTEM DIAGRAM
 
 #### *Land Use Dynamics and Decision Making*
 
-HOLD FOR LANDSAT GIFS
+![SEZGif](/conflict_urbanism_sp2024/images/AsiaDev/Conflict_catharina.gif)
 
 #### *Ecosystems for Displacement & Dispossession*
 
