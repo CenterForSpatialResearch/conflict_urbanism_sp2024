@@ -71,8 +71,8 @@ The intersection analysis methodology incorporates a mixed-methods approach of t
 #### **Case**
 The focal point of this case is a hazardous intersection of Meeker Avenue and McGuinness Boulevard in Brooklyn. It lacks crucial safety features for the protection of pedestrians and motorists. Notable issues at this site include an absence of marked pedestrian crossings, inadequate street lighting that diminishes visibility during nighttime hours, and traffic signals that need to be better positioned on an overhead flyover, making them difficult for drivers to see. Additionally, the design of the parking access under the bridge is fraught with hazards, lacking distinct signals and clear signage. This intersection also needs better timed traffic lights, which do not allow enough time for safe pedestrian crossings. Despite installing bollards intended to protect designated bike lanes, the absence of proper lane markings and intersection-specific safety measures has led to severe, sometimes fatal, accidents. This case underscores the pressing need for a comprehensive overhaul of safety protocols at this intersection to enhance urban traffic safety effectively.  
 
-*April 15, 2024 Version*
-<iframe src="https://player.vimeo.com/video/934976766?h=b077767e37&title=0&byline=0&portrait=0" width="640" height="359" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+*Video*
+<div style="padding:56.04% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/940412475?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dangerous by Design: Assessing Urban Mobility and Traffic Safety along McGuinness Boulevard"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 Source: Authors' Own  
   
 
