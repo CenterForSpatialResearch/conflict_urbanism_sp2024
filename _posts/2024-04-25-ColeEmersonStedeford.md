@@ -62,11 +62,17 @@ Our research and mapping found that even though these statistics are jarring and
 #### Takeaways  
 
 - **Privacy and Data Integrity in Legal Cases:**  Handling sensitive data with the utmost confidentiality is crucial, particularly when publicizing geospatial information. Ensuring that all shared data preserves the anonymity and security of the individuals involved is paramount.  
+
 - **Accuracy and Completeness of Case Data:** The complexity of the cases managed by the Legal Aid Society requires that all utilized data be current and thorough to support case narratives and legal strategies accurately.  
+
 - **Collaborative Communication with Diverse Professionals:** Effective partnerships with various professionals demand clear communication and mutual understanding to ensure that all project outputs are practical, accessible, and meet the varied needs of all project stakeholders.  
+
 - **Advocacy and Legal Support through Legal Aid Society:** Collaboration with the Legal Aid Society has underscored the importance of supporting legal advocacy for domestic violence-related issues.  
+
 - **Domestic Violence:** This is, unfortunately, a reality for many people nationally and globally, and victims’ access to resources within their neighborhoods is of the utmost importance.  
-- **Language Justice:** Our research found that the lack of language-inclusive services for survivors of domestic abuse, especially in Queens, was disappointingly low, meaning that survivors with limited English proficiency are less likely to seek or receive support.    
+
+- **Language Justice:** Our research found that the lack of language-inclusive services for survivors of domestic abuse, especially in Queens, was disappointingly low, meaning that survivors with limited English proficiency are less likely to seek or receive support.  
+    
 - **Cultural Awareness/Relativism:** Cultural and social values affect people’s ability to see a future outside of their traumatic and painful experiences, especially in predominantly Korean immigrant communities, where harmful gender norms are deeply entrenched and reinforced.  
 
 #### Bibliography  
