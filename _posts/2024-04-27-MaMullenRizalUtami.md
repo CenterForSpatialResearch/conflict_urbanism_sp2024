@@ -94,7 +94,7 @@ PHOTO CAROUSEL
 
 #### *Localized Sites for Global Contests*
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -105,7 +105,7 @@ PHOTO CAROUSEL
     <style>
         /* Add custom styles for the carousel here */
         .slick-slide img {
-            width: 100%;
+            width: 80%;
         }
     </style>
 </head>
