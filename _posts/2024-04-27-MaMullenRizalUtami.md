@@ -104,19 +104,51 @@ PHOTO CAROUSEL
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
     <style>
         /* Add custom styles for the carousel here */
+        .carousel {
+            margin: 0 auto; /* Center the carousel */
+            width: 80%; /* Set the width of the carousel */
+            position: relative; /* Add position relative */
+        }
+        .carousel-caption {
+            position: absolute; /* Position captions absolutely */
+            bottom: 0; /* Align captions to the bottom */
+            left: 0; /* Align captions to the left */
+            width: 100%; /* Set width to 100% */
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+            color: white; /* Text color */
+            padding: 10px; /* Add some padding */
+            box-sizing: border-box; /* Include padding in width calculation */
+            font-size: 16px; /* Font size of captions */
+            text-align: center; /* Align text to the center */
+        }
+        .carousel-caption p {
+            margin: 0; /* Remove default margins */
+        }
         .slick-slide img {
-            width: 80%;
+            width: 100%;
         }
     </style>
 </head>
 <body>
     <div class="carousel">
-        <div><img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaProtest1.jpg" alt="IndiaProtest1"></div>
-        <div><img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangProtest.jpg" alt="RempangProtest"></div>
-        <div><img src="/conflict_urbanism_sp2024/images/AsiaDev/SEZProtest.jpg" alt="SEZProtest"></div>
-        <div><img src="/conflict_urbanism_sp2024/images/AsiaDev/VietnamProtest.png" alt="VietnamProtest"></div>
+        <div>
+            <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaProtest1.jpg" alt="IndiaProtest1">
+            <div class="carousel-caption">Caption for Image 1</div>
+        </div>
+        <div>
+            <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangProtest.jpg" alt="RempangProtest">
+            <div class="carousel-caption">Caption for Image 2</div>
+        </div>
+        <div>
+            <img src="/conflict_urbanism_sp2024/images/AsiaDev/SEZProtest.jpg" alt="SEZProtest">
+            <div class="carousel-caption">Caption for Image 3</div>
+        </div>
+        <div>
+            <img src="/conflict_urbanism_sp2024/images/AsiaDev/VietnamProtest.png" alt="VietnamProtest">
+            <div class="carousel-caption">Caption for Image 4</div>
+        </div>
     </div>
-
+    
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
     <script>
