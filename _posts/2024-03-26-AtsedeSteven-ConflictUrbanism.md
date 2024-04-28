@@ -6,7 +6,13 @@ title:  "Not Immune: Weighing the modernization of Addis Ababa against a nationa
 author: "Atsede Assayehgen, Steven Duncan"
 ---
 
-
+<style>
+    body {
+        background-color: #F8F0E3; /* Light peach background */
+        color: #008000; /* Green color for text */
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+</style>
 
 **Research Topic**  
 
