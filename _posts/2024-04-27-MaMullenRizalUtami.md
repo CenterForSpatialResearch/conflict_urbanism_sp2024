@@ -13,7 +13,7 @@ body {
 }
 </style>
 
- #### 1/ Introduction
+#### 1/ Introduction
 
  In post-colonial and de-colonial studies, Western-led developments in Asia have been studied and critiqued extensively. However, less attention has been given to developments led by foreign Asian developers in Asian countries, or ‘Asia-to-Asia development’, especially using neo-colonial and neoliberal analytical frameworks. In less developed regions in Asia, local governments perceive developers from more developed Asian countries to have better regional knowledge and contextualized economic growth strategies that they can replicate in their own cities. As compared to Western developers, these Asia-to-Asia development practices are thought to be not only more benign, but also more attainable. This study draws on four case studies to investigate if Asia-to-Asia developments are truly beneficial to local stakeholders, and argue for further critical research into this under-researched field.
 
