@@ -94,6 +94,38 @@ PHOTO CAROUSEL
 
 #### *Localized Sites for Global Contests*
 
-PHOTO CAROUSEL
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Carousel</title>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+    <style>
+        /* Add custom styles for the carousel here */
+        .slick-slide img {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="carousel">
+        <div><img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaProtest1.jpg" alt="IndiaProtest1"></div>
+        <div><img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangProtest.jpg" alt="RempangProtest"></div>
+        <div><img src="/conflict_urbanism_sp2024/images/AsiaDev/SEZProtest.jpg" alt="SEZProtest"></div>
+        <div><img src="/conflict_urbanism_sp2024/images/AsiaDev/VietnamProtest.png" alt="VietnamProtest"></div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('.carousel').slick();
+        });
+    </script>
+</body>
+</html>
+
 
 #### Final Remarks
