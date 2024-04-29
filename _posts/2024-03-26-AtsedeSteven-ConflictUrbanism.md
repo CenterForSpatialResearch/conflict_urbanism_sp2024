@@ -121,20 +121,7 @@ function toggleFullscreen() {
 We conducted research on 34 notable landmarks between the two neighborhoods and primary nodes, tracing their contemporary histories, architectural influences, and financing intersections. The clustering of landmarks around and between Africa Hall and the African Union Conference Center loosely follows the pattern of palace-centered axial development that characterized Addis Ababa’s urban growth up until the the fall of the last empire (Tufa 2008). The pattern has been blurred by informal development which upticks in times of conflict, reflective of extreme overcrowding occuring in the Kazanchis neighborhood today. The intermingling of imposed form and informality have contributed to the prevalence of landmark-named micro-neighborhoods throughout the city.
 
 To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style OF Ethiopian modernism. Though such new modernism can be categorized as confused rather than seamlessly hybridized (Zeleke 2010). It is our hope that the repository (currently private) feeds into ongoing research.  
-<br>  
-
-*Examples of urban landmarks existing in the repository, Ras Hotel*
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 50%; text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasHotelYearUnknown.jpg" alt="Ras Hotel in the 1960s" style="width: 100%;">
-    <p>Ras Hotel in the 1960s, source: Google Images</p>
-  </div>
-  <div style="width: 50%; text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasHotelNew.png" alt="Ras Hotel in recent years" style="width: 100%;">
-    <p>Ras Hotel in recent years, source: Google Images</p>
-  </div>
-</div>
-<br>  
+<br>   
 
 
 #### Methodology
