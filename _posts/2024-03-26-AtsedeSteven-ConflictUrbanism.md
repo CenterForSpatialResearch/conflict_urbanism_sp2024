@@ -133,6 +133,7 @@ Throughout the research we questioned the neutrality of archival images and maps
 ##### ***How does one  navigate a city using landmarks when the landmarks themselves are confused?***
 
 That question remains and keeps this research open to being part of a much larger project. Landmarks offered this research a lens on historical consistencies. Despite stark shifts in regimes and sociopolitical ideologies there has been a reliable focus on the image making of Addis Ababa and the Ethiopian people; so much so that it has overshadowed, and in turn disoriented the attachment one makes to a place. It’s not entirely about the landmark, about the grandeur of a building, or about the architect. The continuing research is about politicizing the culture of space and how one either grasps onto or reforms identity in the midst of spatial, cultural, and political tumult. As is the environment in Ethiopia today.  
+<br>  
 
 
 Atsede Assayehgen, Steven Duncan,  
