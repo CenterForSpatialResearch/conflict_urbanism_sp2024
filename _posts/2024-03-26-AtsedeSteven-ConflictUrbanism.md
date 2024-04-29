@@ -8,9 +8,9 @@ author: "Atsede Assayehgen, Steven Duncan"
 
 <style>
     body {
-        background-color: #14110F; */
-        color: White; /* Off white color for text */
-        font-family: 'Helvetica Neue', Helvetica;
+        background-color: #14110F;
+        color: #F7F5FB; /* Off white color for text */
+        font-family: 'Helvetica Neue Light', Helvetica;
     }
 </style>
 
