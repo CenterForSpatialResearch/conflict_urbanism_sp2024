@@ -54,7 +54,7 @@ function toggleFullscreen() {
 
 We conducted research on 34 notable landmarks between the two neighborhoods, tracing their contemporary histories, architectural influences, and financing intersections. The clustering of landmarks around and between Africa Hall and the African Union Conference Center loosely follows the pattern of palace-centered axial development that characterized Addis Ababa’s urban growth up until the the fall of the last empire (Tufa 2008). The pattern has been blurred by informal development which upticks in times of conflict.
 
-To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged in the so-called new style Ethiopian modernism. Though such new modernism can be categorized as confused (Zeleke 2010). It is our hope that the repository feeds into ongoing research.
+To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style Ethiopian modernism. Though such new modernism can be categorized as confused (Zeleke 2010). It is our hope that the repository (currently private) feeds into ongoing research.
 
 
 ###### *Methodology*
