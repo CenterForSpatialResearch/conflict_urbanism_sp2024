@@ -79,7 +79,7 @@ Our research and mapping found that even though these statistics are jarring and
 - **Cultural Awareness/Relativism:** Cultural and social values affect people’s ability to see a future outside of their traumatic and painful experiences, especially in predominantly Korean immigrant communities, where harmful gender norms are deeply entrenched and reinforced.   
 
 <iframe src="https://player.vimeo.com/video/940587818?h=99a110765b" width="640" height="424" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/940587818">Columbia GSAPP Conflict Urbanism / Legal Aid Society Final Project Spring 2024</a> from <a href="https://vimeo.com/user218849462">Jane Cole</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/940587818">
 
 #### Bibliography  
 
