@@ -18,7 +18,7 @@ author: "Atsede Assayehgen, Steven Duncan"
 
 *I sat in the living room of my  aunt’s home looking out to a perfect view of Meskel Square, a central artery  for gathering in today’s Addis Ababa. Her apartment was what some would consider, “prime real estate”, situated atop the square on perhaps one of the only roads people call by name, Bole Road. Though the building looked like it hadn’t been cared for in decades. Sitting there, watching, listening,  my uncle, who has never traveled outside of Ethiopia, was complaining to my father about an old man in his neighborhood who spends his free time picking up trash discarded in the street and around monuments…”are you mad about that? You should be thanking him, paying him, in fact joining him”...”why doesn’t he just mind his business?”* (Recorded memory, Atsede Assayehgen, June 2023)
 
-Pride within Ethiopian people, collectively, is a precarious thing.
+Pride in Ethiopian culture, considered on a collective scale, is a precarious thing. It’s propped up by the narrative of being the only country in Africa that has never been colonized - a narrative that is factually untrue but socially undesputable. 
 
 ##### **Brief History**
 
@@ -65,8 +65,9 @@ Though we acknowledge that the picture we paint is not complete, not without bia
 
 These challenges necessitated that we pursue a more flexible approach to data collection and analysis, requiring us to triangulate information from multiple sources or to adapt our methods as new data becomes available. Despite these limitations, our methods have already yielded some insights into the urban and cultural evolution of Addis Ababa, reflecting both its colonial past and its modern development trajectories. 
 
+***How does one  navigate a city using landmarks when the landmarks themselves are confused?***
 
-#### ****Looking Ahead****
+That question remains and keeps this research open to being part of a much larger project. Landmarks offered this research a lens on historical consistencies. Despite stark shifts in regimes and sociopolitical ideologies there has been a reliable focus on the image making of Addis Ababa and the Ethiopian people; so much so that it has overshadowed, and in turn disoriented the attachment one makes to a place. It’s not really about the landmark, about the grandeur of a building, or about the architect. The continuing research is about politicizing the culture of space and how one either grasps onto or reforms identity in the midst of spatial, cultural, and political tumult. As is the environment in Ethiopia today.
 
 
 #### ****References**** 
