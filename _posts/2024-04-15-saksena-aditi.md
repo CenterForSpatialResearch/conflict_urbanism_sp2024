@@ -41,15 +41,26 @@ Agriculture has been a significant part of Kansas' economy since it was settled 
 
 ![Land Usage Breakdown in Kansas](/conflict_urbanism_sp2024/images/AquiferKansas/Kansas_Usage1.png)
 
-![Land Usage Breakdown in Kansas](/conflict_urbanism_sp2024/images/AquiferKansas/gif1.gif)
+#### *Water Wells and the Aquifer*
+
+Water wells tapping into the Ogallala Aquifer are for agricultural irrigation, which accounts for around 85% of the water use from the aquifer in the state. They are often deeper and have a higher capacity to pump large volumes of water to support extensive agricultural activities. The ability to irrigate has allowed Kansas farmers to achieve higher yields and grow crops more consistently, even during periods of low rainfall.Over the decades, intensive water extraction for irrigation has led to substantial declines in water levels in parts of the aquifer. Some areas have experienced drops of over **150 feet**.
+
+
+![AquiferKansas](/conflict_urbanism_sp2024/images/AquiferKansas/gif1.gif)
+
+
+**The High Plains Aquifer is depleting at a rate that current practices cannot sustain. The aquifer regains a mere half an inch per year currently. Current predictions state that if the depletion rate remains constant the Aquifer will be completely diminished in the next 50-75 years**
+
+
+#### *Water Depletion*
 
 
 Water depletion is a measure of the fraction of available renewable water consumptively used by human activities within a watershed. Calculations from WaterGAP3 (Brauman, KD et al, 2016) was used to assess long-term average annual consumed fraction of renewably available water, then integrates seasonal depletion and dry-year depletion, also based on WaterGAP3 calculations, with average annual depletion. There are 8 water depletion categories: <5% depleted, 5-25% depleted, 25-50% depleted, 50-75% depleted, dry-year depleted, seasonally depleted, 75-100% depleted, and >100% depleted. 
 
+ ![DepletedGIF](/conflict_urbanism_sp2024/images/AquiferKansas/WaterDepleteState.jpg)
+ 
 
-![WaterDepleteState](/conflict_urbanism_sp2024/images/AquiferKansas/WaterDepleteState.jpg)
-
-![WaterDepleteandwells](/conflict_urbanism_sp2024/images/AquiferKansas/WaterDepleteandwells.jpg)
+![DepletedGIF](/conflict_urbanism_sp2024/images/AquiferKansas/DepletedGIF.gif)
 
 
 #### References
