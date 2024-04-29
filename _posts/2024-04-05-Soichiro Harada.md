@@ -17,6 +17,24 @@ ranges from the LA Memorial Coliseum, opened in 1923, to the technologically adv
 ![Demographic indicators from ACS ](/conflict_urbanism_sp2024/images/LA_Stadium/indicator.jpg)
 In order to analyze gentrification trends in the stadium area, we collected the highest resolution data possible. All data sources were downloaded from the ACS, which collected 30 variables from three different data topics-Socio Demographic change, Economic Change and Built Environment Change-and integrated them into 18 indicators The manipulation is important in exploring multidirectional gentrification trends (Table 2). The data collection period for each of these data topics began in 2016, with the Sociodemographic Change and Built Environment Change variables using data from the year 2022. For the Economic Change variable, data for the year 2022 was not available at the time of this research, and the latest available data for 2021 was used.
 
+#### Demographic changes and stadium distances
+The next step is to map the increase or decrease in indicators of gentrification in the target area and investigate the correlation of proximity to stadiums. While definitions of gentrification vary, in general, the socioeconomic characteristics of gentrification are distinct from other patterns of regional change, and are marked by increases in housing prices , socioeconomic changes, and changes in the built environment.  Gentrification also differs in its characteristics depending on regional characteristics, so it is advisable to select an appropriate indicator to assess the spatial inequality of the study area. Regarding to Los Angeles gentrification study, Loukaitou-Sideris et al. (2017) employed household income, education level, percentage of renters, and racial characteristics as indicators to classify all parcels in Los Angeles County into gentrification-sensitive and -sensitive neighborhoods based on specific socioeconomic characteristics.
+
+From the above, the map focuses on four indicators: Non-Hispanic White population, Population with University Degree, Median Household income (dollars), and Ratio of renters/owners. The map will focus on four indicators: Population with University Degree, Median Household income (dollars), and Ratio of renters/owners. 
+
+
+Percentage changes Population with University Degree
+![% changes of demographics from 2016 to 2022 grouped by K-means clustering ](/conflict_urbanism_sp2024/images/LA_Stadium/Education.jpg)
+
+Percentage changes Median Household income (dollars)
+![% changes of demographics from 2016 to 2022 grouped by K-means clustering ](/conflict_urbanism_sp2024/images/LA_Stadium/Income.jpg)
+
+Percentage changes Median gross rent Total
+![% changes of demographics from 2016 to 2022 grouped by K-means clustering ](/conflict_urbanism_sp2024/images/LA_Stadium/rent.jpg)
+
+Percentage changes of Non-Hispanic White population from 2016 to 2022
+![% changes of demographics from 2016 to 2022 grouped by K-means clustering ](/conflict_urbanism_sp2024/images/LA_Stadium/White_population.jpg)
+
 #### Characteristics of each cluster
 ![% changes of demographics from 2016 to 2022 grouped by K-means clustering ](/conflict_urbanism_sp2024/images/LA_Stadium/K-rader_chart.jpg)
 The median values for the four clusterings and study areas are visualized on the radar chart and labeled as to which clusters have a tendency toward gentrification based on % demographics changes from 2016 to 2022. This process is based on a careful consideration of neighborhood characteristic change in each indicator based on the clustered values while referring to the neighborhood change area findings in previous studies.
