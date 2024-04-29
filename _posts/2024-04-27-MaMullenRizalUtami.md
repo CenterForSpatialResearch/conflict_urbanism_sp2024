@@ -50,6 +50,7 @@ The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral gover
 VSIP is a joint venture project between Becamex Investment and Industrial Development Corporation (Becamex IDC), a Vietnam state-owned enterprise, and Sembcorp Development, a Singaporean land and real estate developer. Becamex IDC provided the land bank for the developments, while Sembcorp Development provided their expertise in green and mixed-use urban planning, global marketing outreach, and the Singapore reputation and branding. The first project was a 500-hectare development in Binh Duong province, an hour outside of Ho Chi Minh City. Since then, there have been a total of 14 VSIP projects throughout the country dedicated to light manufacturing industries and supplementary residential developments. Each project ranges from 150 to 2,045 hectares in size and totals over 11,500 hectares, approximately the size of Queens.
    
 *System Diagrams*
+
 ![VietSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramVSIP.jpg) 
 
 ![VietSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramVSIP2.jpg) 
@@ -64,6 +65,7 @@ Located on the Laos bank of the Mekong River, this SEZ is strategically located 
 The development of this area is central to the opening of casinos, hotels, resorts, and an international airport. The area primarily attracts Chinese tourists and uses Chinese renminbi and Thai baht as the main currencies. This area has been closely associated with illegal industries such as wildlife trade, human trafficking, sex trade, narcotics smuggling, and money laundering that cater to transactions for Chinese, Hong Kong, and Australian clients. This SEZ is part of the government’s “Turning Land Into Capital” policy established in 2006, rooted in the marketization of land for profit and government revenue. Apart from the significant land use change, smallholder landowners who rely on their livelihood through agriculture are evicted from their land as the government reallocates the state land for foreign investors.   
 
 *System Diagrams*
+
 ![LaosSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramGoldenTriangle.jpg) 
 
 ![LaosSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramGoldenTriangle2.jpg) 
@@ -83,6 +85,7 @@ International Tech Park Bangalore (ITPB) is a tech park located in Whitefield, B
 The park was created as a joint venture between India and Singapore in 1994 to replicate Singapore’s infrastructure. Capitaland Ascendas is the lead partner of the Singapore consortium of ownership, owning 94 percent of the park. Karnataka Industrial Area Development Board (KIADB), a State-led organization responsible for land acquisitions for industrial and infrastructure purposes controls the remaining 6 percent. The project has also attracted Indian companies such as Taj hospitality group.  
 
 *System Diagrams*
+
 ![IndiaSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramBangalore.jpg) 
 
 ![IndiaSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramBangalore2.jpg) 
@@ -103,6 +106,7 @@ While the Rempang Eco city project is yet to be built, its immediate surrounds c
 
 
 *System Diagram*
+
 ![IndiaSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramRempang.jpg)
 
 
