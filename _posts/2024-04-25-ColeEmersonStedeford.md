@@ -2,7 +2,7 @@
 layout: post
 date:   2024-04-28
 image: "/conflict_urbanism_sp2024/images/LAS_KIM/Main_Image.jpg"
-title:  "Geonarratives for Video Mitigation: Domestic Violence on Immigrant Women"
+title:  "Geonarratives for Video Mitigation: Contextualizing the Relationship Between Immigration, Cultural Norms, and Domestic Violence"
 author: "Jane Cole, Bryce Emerson, Serena Stedeford"
 ---
 
