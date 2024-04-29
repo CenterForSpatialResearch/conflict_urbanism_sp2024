@@ -40,7 +40,9 @@ The following four case studies in Vietnam, Laos, India, and Indonesia have been
 
 The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral government-led project arising out of two complementary ambitions from both the Vietnamese and Singaporean governments – for the former, they wished to emulate Singapore’s model of industrialization and modernization to encourage greater economic growth and job employment; for the latter, this project allowed Singaporean developers leverage on their master-planning expertise to benefit other Singaporean and foreign investors by tapping into cheaper regional labor.
 
-![VietnamStatic](/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png)
+<div style="text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png" alt="VSIP Static" width="500">
+</div> 
 
 <div style="text-align: center;">
     Commerical and residential development has rapidly increased in the local area since VSIP Bing Duong 1's development in 1996.
