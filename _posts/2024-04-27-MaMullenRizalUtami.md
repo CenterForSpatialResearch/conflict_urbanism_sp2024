@@ -41,7 +41,7 @@ The following four case studies in Vietnam, Laos, India, and Indonesia have been
 The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral government-led project arising out of two complementary ambitions from both the Vietnamese and Singaporean governments – for the former, they wished to emulate Singapore’s model of industrialization and modernization to encourage greater economic growth and job employment; for the latter, this project allowed Singaporean developers leverage on their master-planning expertise to benefit other Singaporean and foreign investors by tapping into cheaper regional labor.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png" alt="VSIP Static" width="1000">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png" alt="VSIP Static" width="1200">
 </div> 
 
 <div style="text-align: center;">
@@ -63,7 +63,7 @@ VSIP is a joint venture project between Becamex Investment and Industrial Develo
 Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease agreement with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of duty-free zone, called the Golden Triangle SEZ. The development aims to attract foreign direct investment and boost economic growth in the region.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png" alt="IndiaInfra" width="1000">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png" alt="IndiaInfra" width="1200">
 </div> 
 
 <div style="text-align: center;">
@@ -116,7 +116,7 @@ Located on Rempang Island, the project site is close to Malaysia and Singapore a
 
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic2.png" alt="Rempang Static" width="1000">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic2.png" alt="Rempang Static" width="1200">
 </div> 
 
 <div style="text-align: center;">
@@ -151,7 +151,7 @@ In **VSIP**, the land used for development was mostly used for agricultural purp
 Similarly, the **ITPB**, other tech parks, and the local government in Bangalore have been heavily criticized for failing to contribute quality infrastructure and basic amenities to local residents. Tech parks in the area have compounded existing transportation infrastructure issues, which are exacerbated by rural-to-urban migration and rapid unplanned urban development. Living costs in the area have also increased as a result of the rapid urbanization and tech park developments. Despite their overwhelming support for tech park development in the area, the government has failed to provide local workers and residents with basic infrastructural improvements A “Save Whitefield” protest in 2015 drew 8,000 people protesting against ‘the apathy of the local government authorities’ to the poor state of the infrastructure in the area. Protestors voiced their desire for basic amenities like roads, footpaths, and streetlights (Economic Times). Despite the huge investments in the area to build tech hubs, there is a clear disconnect between local and national interests. In an effort to progress India’s economic development goals and emulate Singapore’s success, basic infrastructure needs are ignored and continue to create discontent among local residents.<br> 
 <br>
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/Conflict_catharina.gif" alt="Laos GIF" width="500">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/Conflict_catharina.gif" alt="Laos GIF" width="800">
 </div> 
 
 <div style="text-align: center;">
@@ -162,7 +162,7 @@ The **Golden Triangle SEZ** is part of Lao's market-oriented economic reform pro
 <br>
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangGIF.gif" alt="Rempang GIF" width="500">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangGIF.gif" alt="Rempang GIF" width="800">
 </div> 
  
 <div style="text-align: center;">
@@ -177,7 +177,7 @@ Massive displacement of existing local communities were conducted in the lead up
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPGif.gif" alt="VSIP GIF" width="500">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPGif.gif" alt="VSIP GIF" width="800">
 </div> 
 
 <div style="text-align: center;">
@@ -187,7 +187,7 @@ Massive displacement of existing local communities were conducted in the lead up
 **Binh Duong**, the province where the first **VSIP** project was launched, was often claimed to be a greenfield development project. In other words, the land where the industrial park was slated to be developed had nothing on it prior to development. However, in comparing LandSAT images from 1995 before the groundbreaking of VSIP and 2000, significant built up land disappeared and became “green.” These images suggest mass displacement of existing local residences had indeed taken place in the effort to consolidate land for industrial development, and was led by the local authorities who were in charge of land acquisition and preparation. Language used in investment promotional materials for VSIP highlights local populations as “active workforce” or having high literacy rates (VSIP, n.d.), further exemplifying that local authorities and developers view local residents as expendable resources instead of active community stakeholders.<br>
 <br>
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaGIF.gif" alt="India GIF" width="500">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaGIF.gif" alt="India GIF" width="800">
 </div> 
 
 <div style="text-align: center;">
@@ -224,7 +224,7 @@ The displaced communities are said to be relocated to condos nearby, removing th
         /* Add custom styles for the carousel here */
         .carousel {
             margin: 0 auto; /* Center the carousel */
-            width: 80%; /* Set the width of the carousel */
+            width: 100%; /* Set the width of the carousel */
             position: relative; /* Add position relative */
         }
         .carousel-caption {
