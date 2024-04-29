@@ -11,12 +11,19 @@ body {
     color: white;
     font-family: 'Courier Prime', monospace;
     font-size: 14px;
-    text-align: justify; 
-        }
-        h1, h2, h3, h4, h5, h6 {
-            font-size: 1.5em;
+    text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.5em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 </style>
+
 
 #### 1/ Introduction
 
@@ -41,7 +48,7 @@ The following four case studies in Vietnam, Laos, India, and Indonesia have been
 The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral government-led project arising out of two complementary ambitions from both the Vietnamese and Singaporean governments – for the former, they wished to emulate Singapore’s model of industrialization and modernization to encourage greater economic growth and job employment; for the latter, this project allowed Singaporean developers leverage on their master-planning expertise to benefit other Singaporean and foreign investors by tapping into cheaper regional labor.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png" alt="VSIP Static" width="1600">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png" alt="VSIP Static">
 </div> 
 
 <div style="text-align: center;">
@@ -63,7 +70,7 @@ VSIP is a joint venture project between Becamex Investment and Industrial Develo
 Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease agreement with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of duty-free zone, called the Golden Triangle SEZ. The development aims to attract foreign direct investment and boost economic growth in the region.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png" alt="IndiaInfra" width="1600">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png" alt="IndiaInfra">
 </div> 
 
 <div style="text-align: center;">
@@ -84,7 +91,7 @@ The development of this area is central to the opening of casinos, hotels, resor
 International Tech Park Bangalore (ITPB) is a tech park located in Whitefield, Bangalore, 18 km from the city center. According to a 2023 valuation, the development is valued at $610,539,832 USD (Capitaland). The park comprises a total 29 hectares of office space, retail mall, hotel, and amenities such as banks, restaurants, and sporting arenas. Built in 1994, ITPB served as the first large-scale example of the ‘work-live-play’ environment in India and is used as a model for IT park projects in Bangalore, which is often touted as ‘India’s Silicon Valley’. There are currently over a dozen tech parks in Bangalore housing over 67,000 companies.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaStatic.jpg" alt="VSIP Static" width="1200">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaStatic.jpg" alt="VSIP Static">
 </div> 
 
 <div style="text-align: center;">
@@ -105,7 +112,7 @@ The park was created as a joint venture between India and Singapore in 1994 to r
 The Rempang Eco City project is a joint project between the Batam Indonesia Free Zone Authority (BP Batam), local Indonesian company PT Makmur Elok Graha (MEG), and China’s Xinyi Glass, the world’s largest producer of glass and solar panels (Llewellyn, 2023). BP Batam is a central government institution responsible for managing, developing, and constructing free trade zones and free ports in Batam, Indonesia (BP Batam, 2024). 
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic1.png" alt="VSIP Static" width="1200">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic1.png" alt="VSIP Static">
 </div> 
 
 <div style="text-align: center;">
@@ -116,7 +123,7 @@ Located on Rempang Island, the project site is close to Malaysia and Singapore a
 
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic2.png" alt="Rempang Static" width="1600">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic2.png" alt="Rempang Static">
 </div> 
 
 <div style="text-align: center;">
@@ -141,7 +148,7 @@ Foreign developers wield significant influence on local land use dynamics. Typic
 In **VSIP**, the land used for development was mostly used for agricultural purposes before development. The first industrial park, VSIP Binh Duong I, meant over 500ha of agricultural land, alongside livelihoods, homes, and food sources, were lost. Maps of the development over time, as shown above, expose the rapid urban transformation of these sites. This project was also catalytic in driving rapid urbanization and industrialization in surrounding areas, with at least three more industrial parks developed in quick succession in the area alongside new residential development. These maps show that low-rise housing constructed from less durable materials increased in density and sprawl surrounding the industrial park, suggesting that housing development is unable to match the industrial growth of the region, particularly in areas right outside the jurisdiction of the foreign developer. This highlights the limitations of having developments led by private foreign interests, who are not beholden to local land politics or the welfare of local residents in their pursuit of profit.<br>
 <br>
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/India Tech Park Road.jpg" alt="IndiaInfra" width="1000">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/India Tech Park Road.jpg" alt="IndiaInfra">
 </div> 
 
 <div style="text-align: center;">
@@ -151,7 +158,7 @@ In **VSIP**, the land used for development was mostly used for agricultural purp
 Similarly, the **ITPB**, other tech parks, and the local government in Bangalore have been heavily criticized for failing to contribute quality infrastructure and basic amenities to local residents. Tech parks in the area have compounded existing transportation infrastructure issues, which are exacerbated by rural-to-urban migration and rapid unplanned urban development. Living costs in the area have also increased as a result of the rapid urbanization and tech park developments. Despite their overwhelming support for tech park development in the area, the government has failed to provide local workers and residents with basic infrastructural improvements A “Save Whitefield” protest in 2015 drew 8,000 people protesting against ‘the apathy of the local government authorities’ to the poor state of the infrastructure in the area. Protestors voiced their desire for basic amenities like roads, footpaths, and streetlights (Economic Times). Despite the huge investments in the area to build tech hubs, there is a clear disconnect between local and national interests. In an effort to progress India’s economic development goals and emulate Singapore’s success, basic infrastructure needs are ignored and continue to create discontent among local residents.<br> 
 <br>
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/Conflict_catharina.gif" alt="Laos GIF" width="800">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/Conflict_catharina.gif" alt="Laos GIF">
 </div> 
 
 <div style="text-align: center;">
@@ -162,7 +169,7 @@ The **Golden Triangle SEZ** is part of Lao's market-oriented economic reform pro
 <br>
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangGIF.gif" alt="Rempang GIF" width="800">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangGIF.gif" alt="Rempang GIF">
 </div> 
  
 <div style="text-align: center;">
@@ -177,7 +184,7 @@ Massive displacement of existing local communities were conducted in the lead up
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPGif.gif" alt="VSIP GIF" width="800">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPGif.gif" alt="VSIP GIF">
 </div> 
 
 <div style="text-align: center;">
@@ -187,7 +194,7 @@ Massive displacement of existing local communities were conducted in the lead up
 **Binh Duong**, the province where the first **VSIP** project was launched, was often claimed to be a greenfield development project. In other words, the land where the industrial park was slated to be developed had nothing on it prior to development. However, in comparing LandSAT images from 1995 before the groundbreaking of VSIP and 2000, significant built up land disappeared and became “green.” These images suggest mass displacement of existing local residences had indeed taken place in the effort to consolidate land for industrial development, and was led by the local authorities who were in charge of land acquisition and preparation. Language used in investment promotional materials for VSIP highlights local populations as “active workforce” or having high literacy rates (VSIP, n.d.), further exemplifying that local authorities and developers view local residents as expendable resources instead of active community stakeholders.<br>
 <br>
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaGIF.gif" alt="India GIF" width="800">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaGIF.gif" alt="India GIF">
 </div> 
 
 <div style="text-align: center;">
