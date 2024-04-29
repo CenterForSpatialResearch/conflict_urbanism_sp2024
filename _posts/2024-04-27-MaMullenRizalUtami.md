@@ -10,7 +10,8 @@ body {
     background-color: black;
     color: white;
     font-family: 'Courier Prime', monospace;
-    font-size: 12px; 
+    font-size: 12px;
+    text-align: justify; 
         }
         h1, h2, h3, h4, h5, h6 {
             font-size: 1.5em;
