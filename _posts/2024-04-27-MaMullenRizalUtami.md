@@ -10,6 +10,7 @@ body {
     background-color: black;
     color: white;
     font-family: 'Courier Prime', monospace;
+    font-size: 12px;
 }
 </style>
 
