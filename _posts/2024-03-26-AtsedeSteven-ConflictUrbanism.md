@@ -122,7 +122,18 @@ We conducted research on 34 notable landmarks between the two neighborhoods and 
 
 To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style OF Ethiopian modernism. Though such new modernism can be categorized as confused rather than seamlessly hybridized (Zeleke 2010). It is our hope that the repository (currently private) feeds into ongoing research.  
 <br>   
-
+*Examples of urban landmarks existing in the repository, Ras Hotel*
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 50%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasHotelYearUnknown.jpg" alt="Ras Hotel in the 1960s" style="width: 100%;">
+    <p>Ras Hotel in the 1960s, source: Google Images</p>
+  </div>
+  <div style="width: 50%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasHotelNew.png" alt="Ras Hotel in recent years" style="width: 100%;">
+    <p>Ras Hotel in recent years, source: Google Images</p>
+  </div>
+</div>
+<br> 
 
 #### Methodology
 
