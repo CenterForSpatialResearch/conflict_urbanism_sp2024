@@ -72,7 +72,7 @@ That question remains and keeps this research open to being part of a much large
 
 
 
-#### ****References**** 
+#### References
 Antonsich, Marco. “Signs of Power: Fascist Urban Iconographies in Ethiopia (1930s–1940s).” GeoJournal, vol. 52, Dec. 2000, pp. 325–38, https://doi.org/10.1023/A:1014397002570.
 
 de Waal, Alex, and Rachel Ibreck. “Alem Bekagn: The African Union’s Accidental Human Rights Memorial.” African Affairs, vol. 112, no. 447, 2013, pp. 191–215. JSTOR, http://www.jstor.org/stable/43817186.
@@ -121,9 +121,7 @@ Zeleke, E. Centime. Ethiopia in Theory: Revolution and Knowledge Production, 196
   </div>
 </div>
 
-
-![Map of Addis Ababa, 1964, Imperial Ethiopian Mapping & Geography Institute](/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png)  
-
-
+Atsede Assayehgen, Steven Duncan
+Columbia GSAPP, Department of Urban Planning
 
 
