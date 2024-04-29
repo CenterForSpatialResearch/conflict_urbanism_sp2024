@@ -50,11 +50,9 @@ The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral gover
 <br>
 VSIP is a joint venture project between Becamex Investment and Industrial Development Corporation (Becamex IDC), a Vietnam state-owned enterprise, and Sembcorp Development, a Singaporean land and real estate developer. Becamex IDC provided the land bank for the developments, while Sembcorp Development provided their expertise in green and mixed-use urban planning, global marketing outreach, and the Singapore reputation and branding. The first project was a 500-hectare development in Binh Duong province, an hour outside of Ho Chi Minh City. Since then, there have been a total of 14 VSIP projects throughout the country dedicated to light manufacturing industries and supplementary residential developments. Each project ranges from 150 to 2,045 hectares in size and totals over 11,500 hectares, approximately the size of Queens.
 
-![VietSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramVSIP.jpg) 
+*System Diagrams: Development partners & Secondary foreign-direct investment partners*
 
-![VietSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramVSIP2.jpg) 
-
-*System Diagrams: Development partners (top) & Secondary foreign-direct investment/industrial park tenants (bottom)*
+![VietSD1](/conflict_urbanism_sp2024/images/AsiaDev/System Diagram CU - VSIP 3.jpg) 
 
 <br>
 <br>
@@ -75,9 +73,8 @@ Located on the Laos bank of the Mekong River, this SEZ is strategically located 
 The development of this area is central to the opening of casinos, hotels, resorts, and an international airport. The area primarily attracts Chinese tourists and uses Chinese renminbi and Thai baht as the main currencies. This area has been closely associated with illegal industries such as wildlife trade, human trafficking, sex trade, narcotics smuggling, and money laundering that cater to transactions for Chinese, Hong Kong, and Australian clients. This SEZ is part of the government’s “Turning Land Into Capital” policy established in 2006, rooted in the marketization of land for profit and government revenue. Apart from the significant land use change, smallholder landowners who rely on their livelihood through agriculture are evicted from their land as the government reallocates the state land for foreign investors.   
 
 
-![LaosSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramGoldenTriangle.jpg) 
+![LaosSD1](/conflict_urbanism_sp2024/images/AsiaDev/System Diagram CU - Golden Triangle 3.jpg) 
 
-![LaosSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramGoldenTriangle2.jpg) 
 
 *System Diagrams: Development partners (top) & Secondary foreign-direct investment (bottom)*
 
@@ -98,11 +95,9 @@ International Tech Park Bangalore (ITPB) is a tech park located in Whitefield, B
 <br>
 The park was created as a joint venture between India and Singapore in 1994 to replicate Singapore’s infrastructure. Capitaland Ascendas is the lead partner of the Singapore consortium of ownership, owning 94 percent of the park. Karnataka Industrial Area Development Board (KIADB), a State-led organization responsible for land acquisitions for industrial and infrastructure purposes controls the remaining 6 percent. The project has also attracted Indian companies such as Taj hospitality group.  
 
-![IndiaSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramBangalore.jpg) 
+*System Diagrams: Development partners & Tech park industry partners (bottom)*
 
-![IndiaSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramBangalore2.jpg) 
-
-*System Diagrams: Development partners (top) & Tech park Industry Partners (bottom)*
+![IndiaSD1](/conflict_urbanism_sp2024/images/AsiaDev/System Diagram CU - Bangalore 3.jpg) 
 
 <br>
 #### *2.4/ Indonesia: Rempang Eco City*  
@@ -131,13 +126,9 @@ Located on Rempang Island, the site of the project is close to Malaysia and Sing
 <br>
 While the Rempang Eco city project is yet to be built, its immediate surrounds contain other Indonesian islands that have also received foreign direct investment for large-scale industrial development, specifically from Singapore immediately to the Islands’ North. Given the close proximity of these developments, and the similar economic-zone master planning approach, Islands such as Batam set a precedent for anticipated land use and socio-political changes likely to occur in the Rempang Island.
 
-
-
-
-
-![IndiaSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramRempang.jpg)
-
 *System Diagram: Development partners*
+
+![RempangSD1](/conflict_urbanism_sp2024/images/AsiaDev/System Diagram CU - Copy of Rempang.jpg)
 
 
 #### 3/ Themes of Conflict  
