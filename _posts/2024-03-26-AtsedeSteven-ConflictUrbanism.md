@@ -16,21 +16,21 @@ author: "Atsede Assayehgen, Steven Duncan"
 
 ![Grid of various landmarks in Addis Ababa, Ethiopia](/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollage.png)  
 
-#### **Introduction**
+#### ****Introduction****
 
-#### **Brief History**
+#### ****Brief History****
 
-#### **Why Landmarks?** 
+#### ****Why Landmarks?**** 
 
-#### **On Africa Hall**
+#### ****On Africa Hall****
 
-**On Kazanchis**
+****On Kazanchis****
 
-**On Arturo Mezzedimi** 
+****On Arturo Mezzedimi**** 
 
-#### **On AUCC - Moving into the Present Necolonial Dynamic** 
+#### ****On AUCC - Moving into the Present Necolonial Dynamic**** 
 
-**On Mekanisa**
+****On Mekanisa****
 
 *The following map offers an exploratory platform to learn and move through Addis Ababa by landmark, from Mekanisa to Kazanchis.* 
 
@@ -55,7 +55,7 @@ function toggleFullscreen() {
 </script>
 
 
-#### **Methodology** 
+#### ****Methodology**** 
 
 This project has utilized a wide-ranging intersection of research and data methods. Such methods include first-person research, practice of oral history, analysis of satellite imagery, archival map sourcing and tracing, and georeferencing. The methods have been stitched together to attempt to paint a detailed picture of the cultural, political, and spatial impact of landmarks in Addis Ababa.
 
@@ -64,10 +64,10 @@ Though we acknowledge that the picture we paint is not complete, not without bia
 These challenges necessitated that we pursue a more flexible approach to data collection and analysis, requiring us to triangulate information from multiple sources or to adapt our methods as new data becomes available. Despite these limitations, our methods have already yielded some insights into the urban and cultural evolution of Addis Ababa, reflecting both its colonial past and its modern development trajectories. 
 
 
-#### **Looking Ahead** 
+#### ****Looking Ahead****
 
 
-#### **References** 
+#### ****References**** 
 Antonsich, Marco. “Signs of Power: Fascist Urban Iconographies in Ethiopia (1930s–1940s).” GeoJournal, vol. 52, Dec. 2000, pp. 325–38, https://doi.org/10.1023/A:1014397002570.
 
 de Waal, Alex, and Rachel Ibreck. “Alem Bekagn: The African Union’s Accidental Human Rights Memorial.” African Affairs, vol. 112, no. 447, 2013, pp. 191–215. JSTOR, http://www.jstor.org/stable/43817186.
