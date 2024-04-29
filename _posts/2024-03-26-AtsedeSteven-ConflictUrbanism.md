@@ -51,7 +51,7 @@ You can begin to understand the cultural ties residents of Addis Ababa have to t
 Also in Old Airport/Mekanisa sits the People’s Republic of China’s $200 million USD gift to the continent of Africa, the African Union Conference Center (AUCC). The AUCC was constructed in 2012, to promote the image of excellency and modernity for the African Union, whose main objective was once “ridding the continent of vestiges of colonization and apartheid, to promote unity and solidarity amongst African States.” Although, the site’s predecessor, the notoriously inhumane Kerchele prison is attached to stories of political prisoners escaping to the OAU in search of amnesty. Those stories end with the escaped prisoners being ignored and returned so as to not violate the sworn neutrality of African Union members. The decision to construct the newest African Union headquarters on the former grounds of Kerchele is continually criticized by survivors, particularly for the lack of acknowledgement or memorial. A shiny new building whose rounded face reflects the future prosperity of the country through international cooperation feels much more in tune with the country’s freshly opened arms to the free market world.  
 
 
-***The following map offers an exploratory platform to navigate and the sites of the AUCC, Africa Hall, and surrounding landmarks that support the navigation of Mekanisa and Kazanchis.*** 
+***The following map offers an exploratory platform to navigate the sites of the AUCC, Africa Hall, and surrounding landmarks that inform the navigation of Mekanisa and Kazanchis.*** 
 
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
     <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
@@ -93,7 +93,7 @@ That question remains and keeps this research open to being part of a much large
 
 
 Atsede Assayehgen, Steven Duncan,
-Columbia GSAPP, Department of Urban Planning  
+Columbia GSAPP, M.S. Urban Planning  
 
 
 #### References
