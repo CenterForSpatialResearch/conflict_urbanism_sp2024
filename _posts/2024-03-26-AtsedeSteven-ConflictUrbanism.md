@@ -90,7 +90,7 @@ In Old Airport/Mekanisa sits the People’s Republic of China’s $200 million U
     <p>Kerchele in 2004 before demolition, source: Google Earth Pro</p>
   </div>
   <div style="width: 50%; text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AUCCTodayAerialNew.png" alt="AUCC" style="width: 50%;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AUCCTodayAerialNew.png" alt="AUCC" style="width: 100%;">
     <p>The African Union Conference Center today, source: Google Earth Pro</p>
   </div>
 </div>
