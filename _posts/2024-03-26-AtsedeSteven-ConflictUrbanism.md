@@ -56,7 +56,11 @@ Kazanchis, a neighborhood bordering east of Addis Ababa’s three imperial palac
 
 Africa Hall was the monumental structure of Haile Selassie’s dreams; imagined as soon as it was decided that the OAU headquarters would be in Addis Ababa at a 1955 Cairo meeting. Within the span of 4 years Haile Selassie launched an international design competition to show “people that it is possible to construct grand buildings here too”, stimulate investment, and “make this ‘great village’ a city and a true great capital”. Ultimately, Selassie scrapped the submission ideas in favor of Arturo Mezzedimi’s interpretation. Mezzedimi was an Italian expatriate raised in Eritrea, who was slowly building a body of work in both countries. Mezzedimi’s charge of Africa Hall was his big break, the launching pad for his appointment as Addis Ababa’s chief architect realizing over 100 buildings and site plans, and grounded his close, 23-year working relationship with Haile Selassie. (Mezzedimi 1992).
 
-![*Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa*](/conflict_urbanism_sp2024/images/AddisGroup_test/MezzedimiSelassieRasArateKassa1963.jpg)  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 50%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/MezzedimiSelassieRasArateKassa1963.jpg" alt="Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa" style="width: 100%;">
+    <p></p>
+  </div>
 *Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa*
 <br>  
 
@@ -130,7 +134,7 @@ To support the platform and color the story of landmark development, on-the-grou
     <p>Ras Hotel in the 1960s, source: Google Images</p>
   </div>
   <div style="width: 50%; text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasToday.jpg" alt="Ras Hotel in recent years" style="width: 100%;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasToday.jfif" alt="Ras Hotel in recent years" style="width: 100%;">
     <p>Ras Hotel in recent years, source: Google Images</p>
   </div>
 </div>
