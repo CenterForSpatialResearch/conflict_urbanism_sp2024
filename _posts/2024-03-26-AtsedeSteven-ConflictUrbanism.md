@@ -20,21 +20,17 @@ author: "Atsede Assayehgen, Steven Duncan"
 
 Pride in Ethiopian culture, considered on a collective scale, is a precarious thing. It’s propped up by the narrative of being the only country in Africa that has never been colonized - a narrative that is factually untrue but socially undisputed. 
 
-##### **Brief History**
 
 ##### **Why Landmarks?**
 
+
 ##### *Africa Hall*
 
-*Kazanchis*
 
-*Arturo Mezzedimi* 
+##### **The African Union Conference Cemter: Ushering in into the Present Necolonial Dynamic** 
 
-##### **The African Union Connference Cemter: Ushering in into the Present Necolonial Dynamic** 
 
-*Mekanisa*
-
-*The following map offers an exploratory platform to learn and move through Addis Ababa by landmark, from Mekanisa to Kazanchis.* 
+**The following map offers an exploratory platform to learn and move from Mekanisa to Kazanchis by landmark.** 
 
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
     <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
@@ -55,6 +51,10 @@ function toggleFullscreen() {
     }
 }
 </script>
+
+We conducted research on 34 notable landmarks between the two neighborhoods, tracing their contemporary histories, architectural influences, and financing intersections. The clustering of landmarks around and between Africa Hall and the African Union Conference Center loosely follows the pattern of palace-centered axial development that characterized Addis Ababa’s urban growth up until the the fall of the last empire (Tufa 2008). The pattern has been blurred by informal development which upticks in times of conflict.
+
+To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged in the so-called new style Ethiopian modernism. Though such new modernism can be categorized as confused (Zeleke 2010). It is our hope that the repository feeds into ongoing research.
 
 
 ###### *Methodology*
@@ -99,7 +99,7 @@ Weldegebriel, Amanuel, et al. “Spatial Analysis of Intra-Urban Land Use Dynami
 
 Weldegebriel, Amanuel Tadesse, et al. “Socio-Spatial Analysis of Regime Shifts in Addis Ababa’s Urbanisation.” Applied Geography, vol. 154, May 2023, p. 102918. DOI.org (Crossref), https://doi.org/10.1016/j.apgeog.2023.102918.
 
-Zeleke, Elleni Centime. “Addis Ababa as Modernist Ruin.” Callaloo, vol. 33, no. 1, 2010, pp. 117–35. JSTOR, http://www.jstor.org/stable/40732799. Accessed 29 Apr. 2024.
+Zeleke, Elleni Centime. “Addis Ababa as Modernist Ruin.” Callaloo, vol. 33, no. 1, 2010, pp. 117–35. JSTOR, http://www.jstor.org/stable/40732799.
 
 Zeleke, E. Centime. Ethiopia in Theory: Revolution and Knowledge Production, 1964-2016. Brill, 2020.
 
