@@ -182,7 +182,7 @@ LAOS
 Building the Rempang Eco-City in Indonesia, will also involve displacing 7,500 local indigenous groups in Rempang 60 km inland, particularly those that rely on fishing for their livelihoods. The indigenous community has occupied Rempang for over 200 years, but in 2001-2002, the government granted land rights to a private company, leading to conflicting land use claims. Despite living on the island and close to the sea for generations, these community groups do not have legal land ownership and, therefore, have limited say in the use of the land in the current day.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/Rempang_Displaced.png" alt="Displacement" width="500">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/Rempang_Displaced.png" alt="Displacement">
 </div> 
 
 <div style="text-align: center;">
