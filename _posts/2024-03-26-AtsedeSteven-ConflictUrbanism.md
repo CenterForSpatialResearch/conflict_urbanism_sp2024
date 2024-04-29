@@ -20,7 +20,7 @@ Pride in Ethiopian culture, considered on a collective scale, is a precarious th
 
 Such impositions have made themselves explicitly known through landmarks erected in Addis Ababa in modern and contemporary architectural styles. Nearly all landmarks, whether or not they are functional, share the characteristic of being starkly modern in design or political in purpose. To get around Ethiopia or give directions, one must give a descriptor of the neighborhood, the intersection, and the closest landmark. Thus influencing natives and diaspora to rely on foreign morphologies to define their spatial perception of home. These manifestations of modernity, which can be read as “erasure and reinscription” (Zeleke 2010), work to quiet national anxieties around backwardness and incivility which have brewed since Ethiopia’s brush with colonization. Anxieties which governments have weaponized in the country’s push towards globalization. 
 
-**This research positions, maps, and explores landmarks as personifications of tension between the dual welcome and refusal of foreign influence upon Ethiopian identity.**
+##### ***This research positions, maps, and explores landmarks as personifications of tension between the dual welcome and refusal of foreign influence upon Ethiopian identity.***
 
 #### Why Landmarks?
 
@@ -123,7 +123,7 @@ Though we acknowledge that the picture is not complete, not without bias, and ha
 Throughout the research we questioned the neutrality of archival images and maps of mid-20th century Ethiopia that exist, in majority, through the lens of Italian governmental agencies, Italian expatriates, or American governmental agencies. Thus lacing historical documentation, and holding hostage the historization of growth and progress with colonial biases. Which we, and many Ethiopian nationals engaged in overlapping research, have had no choice but to integrate. These challenges necessitated a flexible and holistic approach to data collection and analysis, and personally implicating ourselves within the work.  
 
 
-##### **How does one  navigate a city using landmarks when the landmarks themselves are confused?**
+##### ***How does one  navigate a city using landmarks when the landmarks themselves are confused?***
 
 That question remains and keeps this research open to being part of a much larger project. Landmarks offered this research a lens on historical consistencies. Despite stark shifts in regimes and sociopolitical ideologies there has been a reliable focus on the image making of Addis Ababa and the Ethiopian people; so much so that it has overshadowed, and in turn disoriented the attachment one makes to a place. It’s not entirely about the landmark, about the grandeur of a building, or about the architect. The continuing research is about politicizing the culture of space and how one either grasps onto or reforms identity in the midst of spatial, cultural, and political tumult. As is the environment in Ethiopia today.  
 
