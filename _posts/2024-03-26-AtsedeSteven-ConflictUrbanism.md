@@ -56,6 +56,10 @@ Kazanchis, a neighborhood bordering east of Addis Ababa’s three imperial palac
 
 Africa Hall was the monumental structure of Haile Selassie’s dreams; imagined as soon as it was decided that the OAU headquarters would be in Addis Ababa at a 1955 Cairo meeting. Within the span of 4 years Haile Selassie launched an international design competition to show “people that it is possible to construct grand buildings here too”, stimulate investment, and “make this ‘great village’ a city and a true great capital”. Ultimately, Selassie scrapped the submission ideas in favor of Arturo Mezzedimi’s interpretation. Mezzedimi was an Italian expatriate raised in Eritrea, who was slowly building a body of work in both countries. Mezzedimi’s charge of Africa Hall was his big break, the launching pad for his appointment as Addis Ababa’s chief architect realizing over 100 buildings and site plans, and grounded his close, 23-year working relationship with Haile Selassie. (Mezzedimi 1992).
 
+![*Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa*](/conflict_urbanism_sp2024/images/AddisGroup_test/MezzedimiSelassieRasArateKassa1963.jpg)  
+*Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa*
+<br>  
+
 The design intent of Africa Hall was to impose a European typology with indigenous materials. However, it’s understood that less than 50% of materials from Ethiopia were used due to construction expediting. Regardless, Africa Hall’s construction heralded a wave of foreign modernism; the city becoming augmented by architects from Israel, France, and the Czech Republic. Altogether forming an architectural landscape that was both transformational and invasive. 51 years later, the negotiation of cultural and political autonomy continued to be exemplified through the construction of the African Union Conference Center (AUCC) in 2012. And so began the chain of monumental landmark precedents - the measure of Ethiopian political achievement being Africa’s largest, tallest, and brightest.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -117,6 +121,19 @@ function toggleFullscreen() {
 We conducted research on 34 notable landmarks between the two neighborhoods and primary nodes, tracing their contemporary histories, architectural influences, and financing intersections. The clustering of landmarks around and between Africa Hall and the African Union Conference Center loosely follows the pattern of palace-centered axial development that characterized Addis Ababa’s urban growth up until the the fall of the last empire (Tufa 2008). The pattern has been blurred by informal development which upticks in times of conflict, reflective of extreme overcrowding occuring in the Kazanchis neighborhood today. The intermingling of imposed form and informality have contributed to the prevalence of landmark-named micro-neighborhoods throughout the city.
 
 To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style OF Ethiopian modernism. Though such new modernism can be categorized as confused rather than seamlessly hybridized (Zeleke 2010). It is our hope that the repository (currently private) feeds into ongoing research.  
+<br>  
+
+*Examples of urban landmarks existing in the repository, Ras Hotel*
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 50%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasHotelYearUnknown.jpg" alt="Ras Hotel in the 1960s" style="width: 100%;">
+    <p>Ras Hotel in the 1960s, source: Google Images</p>
+  </div>
+  <div style="width: 50%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AddisAbabaTodayNew.jpg" alt="Ras Hotel in the 21st Century" style="width: 100%;">
+    <p>Ras Hotel in the 21st Century, source: Google Images</p>
+  </div>
+</div>
 <br>  
 
 
