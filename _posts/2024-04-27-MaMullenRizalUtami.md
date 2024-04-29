@@ -41,7 +41,7 @@ The following four case studies in Vietnam, Laos, India, and Indonesia have been
 The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral government-led project arising out of two complementary ambitions from both the Vietnamese and Singaporean governments – for the former, they wished to emulate Singapore’s model of industrialization and modernization to encourage greater economic growth and job employment; for the latter, this project allowed Singaporean developers leverage on their master-planning expertise to benefit other Singaporean and foreign investors by tapping into cheaper regional labor.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png" alt="VSIP Static" width="1200">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png" alt="VSIP Static" width="1600">
 </div> 
 
 <div style="text-align: center;">
@@ -63,7 +63,7 @@ VSIP is a joint venture project between Becamex Investment and Industrial Develo
 Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease agreement with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of duty-free zone, called the Golden Triangle SEZ. The development aims to attract foreign direct investment and boost economic growth in the region.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png" alt="IndiaInfra" width="1200">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png" alt="IndiaInfra" width="1600">
 </div> 
 
 <div style="text-align: center;">
@@ -84,7 +84,7 @@ The development of this area is central to the opening of casinos, hotels, resor
 International Tech Park Bangalore (ITPB) is a tech park located in Whitefield, Bangalore, 18 km from the city center. According to a 2023 valuation, the development is valued at $610,539,832 USD (Capitaland). The park comprises a total 29 hectares of office space, retail mall, hotel, and amenities such as banks, restaurants, and sporting arenas. Built in 1994, ITPB served as the first large-scale example of the ‘work-live-play’ environment in India and is used as a model for IT park projects in Bangalore, which is often touted as ‘India’s Silicon Valley’. There are currently over a dozen tech parks in Bangalore housing over 67,000 companies.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaStatic.jpg" alt="VSIP Static" width="1000">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaStatic.jpg" alt="VSIP Static" width="1200">
 </div> 
 
 <div style="text-align: center;">
@@ -105,7 +105,7 @@ The park was created as a joint venture between India and Singapore in 1994 to r
 The Rempang Eco City project is a joint project between the Batam Indonesia Free Zone Authority (BP Batam), local Indonesian company PT Makmur Elok Graha (MEG), and China’s Xinyi Glass, the world’s largest producer of glass and solar panels (Llewellyn, 2023). BP Batam is a central government institution responsible for managing, developing, and constructing free trade zones and free ports in Batam, Indonesia (BP Batam, 2024). 
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic1.png" alt="VSIP Static" width="1000">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic1.png" alt="VSIP Static" width="1200">
 </div> 
 
 <div style="text-align: center;">
@@ -116,7 +116,7 @@ Located on Rempang Island, the project site is close to Malaysia and Singapore a
 
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic2.png" alt="Rempang Static" width="1200">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic2.png" alt="Rempang Static" width="1600">
 </div> 
 
 <div style="text-align: center;">
