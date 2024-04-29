@@ -8,8 +8,8 @@ author: "Atsede Assayehgen, Steven Duncan"
 
 <style>
     body {
-        background-color: #14110F; /* Dark color for background */
-        color: #E0E2DB; /* Off white color for text */
+        background-color: #2D2D34; /* Dark color for background */
+        color: #FFFCF7; /* Off white color for text */
         font-family: 'Helvetica Neue', Helvetica Light Regular;
     }
 </style>
