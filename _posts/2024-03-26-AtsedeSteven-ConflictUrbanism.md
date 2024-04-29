@@ -15,6 +15,7 @@ author: "Atsede Assayehgen, Steven Duncan"
 </style>
 
 ![*Grid of various landmarks in Addis Ababa*, Ethiopia](/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollageGrain.png)  
+*Grid of notable landmarks in Addis Ababa*
 
 Pride in Ethiopian culture, considered on a collective scale, is a precarious thing. It’s propped up by the narrative of being the only country in Africa that has never been colonized - a narrative that is factually untrue but socially indispensable. That narrative has been further bolstered by political empires and regimes that have strived to translate colonial definitions of modernity and civilization in native forms, confusing and creating distance between power, people, and the city.  Such goals of modernity and civility can be traced from Le Corbusier’s plan for Addis Ababa in which he drew not from experience but the allure of a *tabula rasa* for his portfolio and the fascist movement, to Emperor Haile Selassie’s intense desire for respect on the stage of international diplomacy, to Prime Minister Abiy Ahmed’s globalist understanding of prosperity. With each of these examples there is foreign cultural imposition, or material contributions, that sneakily shape the way Ethiopians and diaspora have grown to perceive and navigate their social, political, and built environments.   
 
