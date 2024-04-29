@@ -33,7 +33,7 @@ Landmarks are most notably tied to political victories and losses, becoming phys
 This research identifies two primary landmarks of interest - Africa Hall and the African Union Conference Center - as central nodes of understanding and perceiving political and cultural space in Addis Ababa and as catalytic moments encouraging non-native urban progression.
 
 
-*(The growth of Addis Ababa has been characterized by axial planning that's succumbed to informal development, the outcome being explosive longitudinal development with latitudinal growth following commmon transit ways. The following images show incredible change in Addis Ababa's build up (land with visible roof coverage) from 1964 (left), to 1990 (center), to 2022 (right))*    
+*(The growth of Addis Ababa has been characterized by axial planning that's succumbed to informal development, the outcome being explosive longitudinal development with latitudinal growth following commmon transit ways. The following images show incredible change in Addis Ababa's build up (land with visible roof coverage))*    
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 33%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png" alt="Description of image 1" style="width: 100%;">
@@ -130,8 +130,8 @@ To support the platform and color the story of landmark development, on-the-grou
     <p>Ras Hotel in the 1960s, source: Google Images</p>
   </div>
   <div style="width: 50%; text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AddisAbabaTodayNew.jpg" alt="Ras Hotel in the 21st Century" style="width: 100%;">
-    <p>Ras Hotel in the 21st Century, source: Google Images</p>
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasToday.jpg" alt="Ras Hotel in recent years" style="width: 100%;">
+    <p>Ras Hotel in recent years, source: Google Images</p>
   </div>
 </div>
 <br>  
