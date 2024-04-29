@@ -2,7 +2,7 @@
 layout: post
 date:   2023-03-26
 image: "/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollageSquareAlternate.png"
-title:  "Navigating Addis Ababa: Analyzing landmarks as nodes of neocolonial infiltration in the capital of African independence"
+title:  "Addis Ababa's Landmarks: Nodes of neocolonial infiltration in the capital of African independence"
 author: "Atsede Assayehgen, Steven Duncan"
 ---
 
