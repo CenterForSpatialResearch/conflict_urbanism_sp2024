@@ -16,13 +16,13 @@ author: "Atsede Assayehgen, Steven Duncan"
 
 ![*Grid of various landmarks in Addis Ababa*, Ethiopia](/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollageGrain.png)  
 *Grid of notable landmarks in Addis Ababa*
-
+<br>
 Pride in Ethiopian culture, considered on a collective scale, is a precarious thing. It’s propped up by the narrative of being the only country in Africa that has never been colonized - a narrative that is factually untrue but socially indispensable. That narrative has been further bolstered by political empires and regimes that have strived to translate colonial definitions of modernity and civilization in native forms, confusing and creating distance between power, people, and the city.  Such goals of modernity and civility can be traced from Le Corbusier’s plan for Addis Ababa in which he drew not from experience but the allure of a *tabula rasa* for his portfolio and the fascist movement, to Emperor Haile Selassie’s intense desire for respect on the stage of international diplomacy, to Prime Minister Abiy Ahmed’s globalist understanding of prosperity. With each of these examples there is foreign cultural imposition, or material contributions, that sneakily shape the way Ethiopians and diaspora have grown to perceive and navigate their social, political, and built environments.   
 
 Such impositions have made themselves explicitly known through landmarks erected in Addis Ababa in modern and contemporary architectural styles. Nearly all landmarks, whether or not they are functional, share the characteristic of being starkly modern in design or political in purpose. To get around Ethiopia or give directions, one must give a descriptor of the neighborhood, the intersection, and the closest landmark. Thus influencing natives and diaspora to rely on foreign morphologies to define their spatial perception of home. These manifestations of modernity, which can be read as “erasure and reinscription” (Zeleke 2010), work to quiet national anxieties around backwardness and incivility which have brewed since Ethiopia’s brush with colonization. Anxieties which governments have weaponized in the country’s push towards globalization. 
 
 ##### ***This research positions, maps, and explores landmarks as personifications of tension between the dual welcome and refusal of foreign influence upon Ethiopian identity.***
-
+<br>
 #### Why Landmarks?
 
 Landmarks and monuments in Addis Ababa are critical tools to navigate and situate oneself in the city. Neighborhoods are imprecise, street names change, but landmarks remain. From regime to regime there is hardly a political or social habit of tearing down landmarks, even if dedicated to the bloodiest of dictators. Landmarks are so important in Addis Ababa that they become the defining characteristic of micro-neighborhoods that clutter the city and are colloquially favored to bureaucratic neighborhood titles. 
@@ -47,7 +47,7 @@ This research identifies two primary landmarks of interest - Africa Hall and the
     <p>2022</p>
   </div>
 </div>
-
+<br>
 
 #### Africa Hall, Kazanchis
 
@@ -68,9 +68,8 @@ The design intent of Africa Hall was to impose a European typology with indigeno
   </div>
 </div>
 
-
-#### The African Union, Mekanisa, and an Ushering in of New Dynamics of Influence 
 <br>
+#### The African Union, Mekanisa, and an Ushering in of New Dynamics of Influence 
 You can begin to understand the cultural ties residents of Addis Ababa have to the city’s landmarks through the Old Airport or Mekanisa neighborhood. What one calls it may shift depending on your or your family’s relationship to its history, or depending on the day. Old Airport was the site of Addis Ababa’s literal last airport, Lideta (which became the namesake for the micro neighborhood just north of Mekanisa. The former compound of Lideta is the current home of the Ministry of Defense, a state-of-art compound completed in 2022. On-the-ground accounts do not convey the compound as a welcoming place, as tightly guarded as its construction details are, although the Ministry made sure to release a quaintly soundscaped advertisement in which Prime Minister Abiy Ahmed states his hopes for the compound to be a place where families can roam through the gardens.
 
 In Old Airport/Mekanisa sits the People’s Republic of China’s $200 million USD gift to the continent of Africa, the African Union Conference Center (AUCC), designed by architects at Tongji University in Shanghai and constructed by China State Construction Engineering, to promote the image of excellency and modernity for the African Union and maintain its objective of “ridding the continent of vestiges of colonization and apartheid, to promote unity and solidarity amongst African States.” Although, the site’s predecessor, the notoriously inhumane Kerchele prison is attached to stories of political prisoners escaping to the OAU in search of amnesty. Those stories end with the escaped prisoners being ignored and returned so as to not violate the sworn neutrality of African Union members. The decision to construct the newest African Union headquarters on the former grounds of Kerchele is continually criticized by survivors, particularly for the lack of acknowledgement or memorial. A shiny new building whose rounded face reflects the future prosperity of the country through international cooperation feels much more in tune with the country’s freshly opened arms to the free market world.  
@@ -85,7 +84,7 @@ In Old Airport/Mekanisa sits the People’s Republic of China’s $200 million U
     <p>The African Union Conference Center today, source: Google Earth Pro</p>
   </div>
 </div>
-
+<br>
 
 
 **The following map offers an exploratory platform to navigate the sites of the AUCC, Africa Hall, and surrounding landmarks that inform the navigation of Mekanisa and Kazanchis.** 
@@ -117,7 +116,7 @@ function toggleFullscreen() {
 We conducted research on 34 notable landmarks between the two neighborhoods and primary nodes, tracing their contemporary histories, architectural influences, and financing intersections. The clustering of landmarks around and between Africa Hall and the African Union Conference Center loosely follows the pattern of palace-centered axial development that characterized Addis Ababa’s urban growth up until the the fall of the last empire (Tufa 2008). The pattern has been blurred by informal development which upticks in times of conflict, reflective of extreme overcrowding occuring in the Kazanchis neighborhood today. The intermingling of imposed form and informality have contributed to the prevalence of landmark-named micro-neighborhoods throughout the city.
 
 To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style OF Ethiopian modernism. Though such new modernism can be categorized as confused rather than seamlessly hybridized (Zeleke 2010). It is our hope that the repository (currently private) feeds into ongoing research.  
-
+<br>
 
 #### Methodology
 
@@ -126,7 +125,7 @@ This project utilized an intersectional array of research methods and data analy
 Though we acknowledge that the picture is not complete, not without bias, and has not been without challenges. We experienced limitations to archival material access, available data, and available aerial imagery. Political volatility since 1975 has halted consistency with institutional data collection, and a lack of stable technology and power in Addis Ababa have stunted archiving and data collection advancements. Further, as students of  spatial-based practices we recognize a practice-wide inclination to objectify the environment around us and transfigure spaces to *become* fascinating. Such bias emulates a top-down perspective we’ve been critical of in this work.
 
 Throughout the research we questioned the neutrality of archival images and maps of mid-20th century Ethiopia that exist, in majority, through the lens of Italian governmental agencies, Italian expatriates, or American governmental agencies. Thus lacing historical documentation, and holding hostage the historization of growth and progress with colonial biases. Which we, and many Ethiopian nationals engaged in overlapping research, have had no choice but to integrate. These challenges necessitated a flexible and holistic approach to data collection and analysis, and personally implicating ourselves within the work.  
-
+<br>
 
 ##### ***How does one  navigate a city using landmarks when the landmarks themselves are confused?***
 
