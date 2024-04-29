@@ -210,7 +210,7 @@ The displaced communities are said to be relocated to condos nearby, removing th
             color: white; /* Text color */
             padding: 10px; /* Add some padding */
             box-sizing: border-box; /* Include padding in width calculation */
-            font-size: 16px; /* Font size of captions */
+            font-size: 8px; /* Font size of captions */
             text-align: center; /* Align text to the center */
         }
         .carousel-caption p {
@@ -241,7 +241,7 @@ The displaced communities are said to be relocated to condos nearby, removing th
         </div>
         <div>
             <img src="/conflict_urbanism_sp2024/images/AsiaDev/VietnamProtest.png" alt="VietnamProtest">
-            <div class="carousel-caption">Protests against VSIP development (source: BBC)</div>
+            <div class="carousel-caption">Protests against VSIP development</div>
         </div>
     </div>
     
