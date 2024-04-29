@@ -2,7 +2,7 @@
 layout: post
 date:   2024-04-27
 image: "/conflict_urbanism_sp2024/images/Cover_asia.png"
-title: "<div style='text-align:center'>'Benign' Development: Asian Foreign Developers in Asia</div>" 
+title: "'Benign' Development: Asian Foreign Developers in Asia"
 author: "Submitted Anonymously"
 ---
 <style>
