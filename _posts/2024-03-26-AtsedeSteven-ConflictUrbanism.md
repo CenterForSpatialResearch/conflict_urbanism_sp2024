@@ -52,6 +52,7 @@ This project will specifically look at Africa Hall and the African Union Confere
             <div class="carousel-caption">Caption for Image 3</div>
         </div>
     </div>
+
 ![Map of Addis Ababa, 1964, Imperial Ethiopian Mapping & Geography Institute](/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png)  
 
 
@@ -75,6 +76,3 @@ function toggleFullscreen() {
 }
 </script>
 
-
-
- 
