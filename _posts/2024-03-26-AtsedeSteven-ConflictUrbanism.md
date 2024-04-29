@@ -14,6 +14,8 @@ author: "Atsede Assayehgen, Steven Duncan"
     }
 </style>
 
+![Grid of various landmarks in Addis Ababa, Ethiopia](/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollage.png)  
+
 #### **Introduction**
 
 #### **Brief History**
