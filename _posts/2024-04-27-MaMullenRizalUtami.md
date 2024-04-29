@@ -32,13 +32,10 @@ This project aims to examine the impacts of Asia-to-Asia development. Key confli
 
 
 
-#### 2/ Introducing the Case Studies  
-
-The following four case studies in Vietnam, Laos, India, and Indonesia have been selected for this analysis to show the similarities and differences across project use types and scales. Despite the key differences in use and scale, with projects ranging from 29 hectares to over 11,500 hectares, they share common conflicts pertaining to land use, resource sharing, and globalization, as discussed in a later section (section 3).  
+#### 2/ Introducing the Case Studies   
 
 ![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg1.png)    
-
-
+The following four case studies in Vietnam, Laos, India, and Indonesia have been selected for this analysis to show the similarities and differences across project use types and scales. Despite the key differences in use and scale, with projects ranging from 29 hectares to over 11,500 hectares, they share common conflicts pertaining to land use, resource sharing, and globalization, as discussed in a later section (section 3).  
 
 
 #### *2.1/ Vietnam: Vietnam-Singapore Industrial Parks*  
@@ -46,6 +43,8 @@ The following four case studies in Vietnam, Laos, India, and Indonesia have been
 ![VietnamMap](/conflict_urbanism_sp2024/images/AsiaDev/Vietnam1.png)  
 
 The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral government-led project arising out of two complementary ambitions from both the Vietnamese and Singaporean governments – for the former, they wished to emulate Singapore’s model of industrialization and modernization to encourage greater economic growth and job employment; for the latter, this project allowed Singaporean developers leverage on their master-planning expertise to benefit other Singaporean and foreign investors by tapping into cheaper regional labor.
+
+![VietnamStatic](/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png)
 
 VSIP is a joint venture project between Becamex Investment and Industrial Development Corporation (Becamex IDC), a Vietnam state-owned enterprise, and Sembcorp Development, a Singaporean land and real estate developer. Becamex IDC provided the land bank for the developments, while Sembcorp Development provided their expertise in green and mixed-use urban planning, global marketing outreach, and the Singapore reputation and branding. The first project was a 500-hectare development in Binh Duong province, an hour outside of Ho Chi Minh City. Since then, there have been a total of 14 VSIP projects throughout the country dedicated to light manufacturing industries and supplementary residential developments. Each project ranges from 150 to 2,045 hectares in size and totals over 11,500 hectares, approximately the size of Queens.
    
@@ -61,6 +60,8 @@ VSIP is a joint venture project between Becamex Investment and Industrial Develo
 ![LaosMap](/conflict_urbanism_sp2024/images/AsiaDev/GoldenTriangle.png)
 
 Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease agreement with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of duty-free zone, called the Golden Triangle SEZ. The development aims to attract foreign direct investment and boost economic growth in the region.
+
+![LaosStatic](/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png)
 
 The development of this area is central to the opening of casinos, hotels, resorts, and an international airport. The area primarily attracts Chinese tourists and uses Chinese renminbi and Thai baht as the main currencies. This area has been closely associated with illegal industries such as wildlife trade, human trafficking, sex trade, narcotics smuggling, and money laundering that cater to transactions for Chinese, Hong Kong, and Australian clients. This SEZ is part of the government’s “Turning Land Into Capital” policy established in 2006, rooted in the marketization of land for profit and government revenue. Apart from the significant land use change, smallholder landowners who rely on their livelihood through agriculture are evicted from their land as the government reallocates the state land for foreign investors.   
 
@@ -100,9 +101,14 @@ The park was created as a joint venture between India and Singapore in 1994 to r
 
 The Rempang Eco City project is a joint project between the Batam Indonesia Free Zone Authority (BP Batam), local Indonesian company PT Makmur Elok Graha (MEG), and China’s Xinyi Glass, the world’s largest producer of glass and solar panels. The Batam Freezone Authority (BP Batam) is a central government institution responsible for managing, developing, and constructing free trade zones and free ports in Batam, Indonesia. 
 
+![RempangStatic](/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic1.png)
+
 Located on Rempang Island, the site of the project is close to Malaysia and Singapore and encircled by several smaller local Indonesian islands. The project is not yet built, and anticipated to cover around 42,000 acres (17,000 hectares) of land with the development of industrial, service, and tourism areas being built on Rempang Island. The project, titled “Rempact Eco-City”, is claimed to include several sustainability elements, such as green infrastructure, renewable energy, eco-friendly building design, recycling infrastructure, and sustainable transportation options. It is also advertised to hold immense potential for economic development and local job creation, utilizing the locally available quartz sand resources, an important resource in the production of glass and solar panels.
 
-While the Rempang Eco city project is yet to be built, its immediate surrounds contain other Indonesian islands that have also received foreign direct investment for large-scale industrial development, specifically from Singapore immediately to the Islands’ North. Given the close proximity of these developments, and the similar economic-zone master planning approach, Islands such as Batam set a precedent for anticipated land use and socio-political changes likely to occur in the Rempang Island. 
+![RempangStatic](/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic2.png)
+
+While the Rempang Eco city project is yet to be built, its immediate surrounds contain other Indonesian islands that have also received foreign direct investment for large-scale industrial development, specifically from Singapore immediately to the Islands’ North. Given the close proximity of these developments, and the similar economic-zone master planning approach, Islands such as Batam set a precedent for anticipated land use and socio-political changes likely to occur in the Rempang Island.
+
 
 
 *System Diagram*
@@ -119,20 +125,33 @@ Along all four of the projects described above, three key themes of conflict eme
 
 Foreign developers, due to the financial resources they bring and the promise of local economic development, wield significant influence on local land use dynamics. Typically, local governments are responsible for land use planning, approving development permits or zoning changes for their jurisdiction. However, in such large-scale urban and industrial developments, foreign developers are given substantial concessions or quasi-governmental authority over large masses of land, getting to make decisions on land use. In situations as such, the interests of foreign developers can be prioritized over local interests because of the promised local economic development these projects claim to bring. These concessions and prioritization can be seen in the blanket approval of master plans for large plots of land, tax incentives, and streamlined approval processes which often come at the expense of local communities’ concerns.
 
-gif here
+![VSIPGif](/conflict_urbanism_sp2024/images/AsiaDev/VSIPGif.gif) 
+
+<div style="text-align: center;">
+    *Land use changes around the VSIP project.*
+</div>
 
 In the VSIP project, the land used for development was mostly used for agricultural purposes before development. The first industrial park, VSIP Binh Duong I, meant over 500ha of agricultural land, alongside livelihoods, homes, and food sources, were lost. Maps of the development over time, as shown above, expose the rapid urban transformation of these sites. This project was also catalytic in driving rapid urbanization and industrialization in surrounding areas, with at least three more industrial parks developed in quick succession in the area alongside new residential development. From the maps above, low-rise housing constructed from less durable materials increased in density and sprawl surrounding the industrial park, suggesting that housing development is unable to match the industrial growth of the region, particularly in areas right outside the jurisdiction of the foreign developer. This highlights the limitations of having developments led by private foreign interests, who are not beholden to local land politics or the welfare of local residents in their pursuit for profit.
 
-gif here
+![IndiaGif](/conflict_urbanism_sp2024/images/AsiaDev/IndiaGIF.gif)
+<div style="text-align: center;">
+    *Land use changes around the ITPB project.*
+</div> 
 
 Similarly, the ITPB, other tech parks, and the local government in Bangalore have been heavily criticized for failing to contribute quality infrastructure and basic amenities to local residents. Tech parks in the area have compounded existing transportation infrastructure issues, which are exacerbated by rural-to-urban migration and rapid unplanned urban development. Living costs in the area have also increased as a result of the rapid urbanization and tech park developments. Despite their overwhelming support for tech park development in the area, the government has failed to provide local workers and residents with basic infrastructural improvements A “Save Whitefield” protest in 2015 drew 8,000 people protesting against ‘the apathy of the local government authorities’ to the poor state of the infrastructure in the area. Protestors voiced their desire for basic amenities like roads, footpaths, and streetlights. Despite the huge investments in the area to build tech hubs, there is a clear disconnect between local and national interests. In an effort to progress India’s economic development goals and emulate Singapore’s success, basic infrastructure needs are ignored and continue to create discontent among local residents. 
 
 ![SEZGif](/conflict_urbanism_sp2024/images/AsiaDev/Conflict_catharina.gif) 
+<div style="text-align: center;">
+    *Land use changes around the Golden Triangle SEZ.*
+</div>
 
 In the Golden Triangle Special Economic Zone,
 
 
-gif here
+![RempangGif](/conflict_urbanism_sp2024/images/AsiaDev/RempangGIF.gif) 
+<div style="text-align: center;">
+    *Land use changes in Batam and Rempang Islands.*
+</div>
 
 In Batam and Rempang Islands, Otorita Batam was established in the 1970s with the aim of transforming Batam Island into a prominent economic hub in Asia, rivaling Singapore. Otorita Batam “is a government agency responsible for economic development and management – in the 1970s to transform the island into Asia’s powerful economic hub due to its strategic trade route. At that time, Batam was intended to compete with Singapore.” Presidential decrees in 1973 and 1992 expanded Otorita Batam’s authority to only manage Batam Island, but also the neighboring islands of Rempang and Galang,and granted Land Management Rights on the islands, which has significant implications for local land use dynamics. The local indigenous groups of the islands, including the Indigenous People’s Alliance of Nusantara (AMAN), on the other hand have raised concerns about the impact of granting land rights to Otorita Batam, which ultimately obstructs residents from obtaining regal recognition of the land rights. Furthermore, issues of lack of consultation and consent with local indigenous groups regarding land use decisions have been raised, regardless of several political promises made. Despite the unresolved land tenure issues in Rempang, the Rempang Eco-city Project has been designated a National Strategic Project, indicating continued prioritization of development initiatives over local community concerns.
 
