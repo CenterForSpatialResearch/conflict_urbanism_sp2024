@@ -22,7 +22,7 @@ Such impositions have made themselves explicitly known through landmarks erected
 
 *This research positions, maps, and explores landmarks as personifications of tension between the dual welcome and refusal of foreign influence upon Ethiopian identity.*
 
-##### *Why Landmarks?*
+#### *Why Landmarks?*
 
 *Build up, constituting land with visible roof coverage, shows incredible architectural and infrastructural growth in Addis Ababa from 1964 (left), to 1990 (center), to 2022 (right)*    
 <div style="display: flex; justify-content: space-between; align-items: center;">
