@@ -6,6 +6,8 @@ title:  "Aquifer Under Siege: Mapping the Nexus of Agriculture, Urbanization, an
 author: "Aditi Saksena"
 ---
 
+![Land Usage Breakdown in Kansas](/conflict_urbanism_sp2024/images/AquiferKansas/GoogleEarth2.JPG)
+
 
 #### Introduction
 
@@ -35,6 +37,9 @@ Agriculture has been a significant part of Kansas' economy since it was settled 
 
 
 ![Land Usage Breakdown in Kansas](/conflict_urbanism_sp2024/images/AquiferKansas/Land_Usage.png)
+
+
+![Land Usage Breakdown in Kansas](/conflict_urbanism_sp2024/images/AquiferKansas/Agricultural_Revenue.png)
 
 
 #### References
