@@ -14,9 +14,15 @@ For the project, we lay out maps of various documentation and preservation effor
 ![The location of attacks suggest they are targeted to sites that are significant to Ukrainian history, culture and identity](/conflict_urbanism_sp2024/images/Ukraine Heritage/01 Destruction Activities.png) 
 *(Many items in storage were already in fragile condition before the Russian invasion and now face additional conservation challenges). Courtesy of National Research and Restoration Center*
 
+
+
+
 #### Argument
 
 The project touches upon the themes of memory, identity, resilience, and heritage. Collateral damage or deliberate targeting of cultural heritage sites not only results in the loss of material artifacts; it also assaults the collective memory and identity of a people and culture. This project refers to the theories of strategic use of cultural destruction as a weapon of war. The ways local communities document and preserve cultural heritage also present the resilience of urban spaces and communities in conflict zones. 
+
+
+
 
 #### Spatial Data Source
 
@@ -28,6 +34,9 @@ Suplemented Data Set
 <div class="iframe-column"><iframe src="https://docs.google.com/spreadsheets/d/1jsyGmqab0Q3TOsVMA511_CZyRcXz-2pEs08YYK2FKBk/edit#gid=0 " style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 Download the full dataset [here](https://docs.google.com/spreadsheets/d/1jsyGmqab0Q3TOsVMA511_CZyRcXz-2pEs08YYK2FKBk/edit#gid=0).
+
+
+
 
 
 #### Preservation Activities
@@ -48,9 +57,14 @@ Both international organizations and research institutions are documenting Ukrai
 
 Many institutions, for example, the Ukraine Conflict Observatory, use satellite imagery to show the before and after the destruction. This approach enables professionals to observe and monitor the heritage sites from a distance and analyze the destruction in context. For instance, on February 14 a satellite image shows the Ivankiv Historical and Local History Museum, before the invasion. On February 27, 2022, the satellite image shows the museum has been destroyed. 
 
+
+
+
 #### Conclusion
 
 The outcome of this project is to document, map, and analyze the efforts to digitize and protect heritage sites and memories. On the foundation laid out by the 2023 class, we will continue adding to the map of destroyed sites in Ukraine. This work is significant because it challenges the traditional and institutional understanding of heritage sites, especially during conflict. It argues that the significance of cultural heritage during conflict is complex and often intangible, and the role of bottom-up preservation efforts matters. 
+
+
 
 
 
