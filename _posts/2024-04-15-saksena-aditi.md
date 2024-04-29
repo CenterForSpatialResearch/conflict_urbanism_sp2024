@@ -27,7 +27,7 @@ The Aquifer ies beneath portions of, including Texas, New Mexico, Kansas, Oklaho
 #### *Why Kansas?*
 
 
-![AquiferKansas](/conflict_urbanism_sp2024/images/AquiferKansas/Map1.JPG)
+![AquiferKansas](/conflict_urbanism_sp2024/images/AquiferKansas/KansasMap.gif)
 
 
 Kansans rely on ground water for 85% of their water needs, including municipal, industrial, agricultural, and rural domestic water supplies. In fact, Kansas relies on ground water to supply a higher percentage of its water needs than almost any other state in the U.S. Eastern and western Kansas differ dramatically in their reliance on ground water. In the western two-thirds of the state, where precipitation amounts are usually small, relatively abundant ground-water due to the Ogallala Aquifer provides most of the water. 
@@ -49,7 +49,13 @@ Water wells tapping into the Ogallala Aquifer are for agricultural irrigation, w
 ![AquiferKansas](/conflict_urbanism_sp2024/images/AquiferKansas/gif1.gif)
 
 
+
+
+
 **The High Plains Aquifer is depleting at a rate that current practices cannot sustain. The aquifer regains a mere half an inch per year currently. Current predictions state that if the depletion rate remains constant the Aquifer will be completely diminished in the next 50-75 years**
+
+
+
 
 
 #### *Water Depletion*
