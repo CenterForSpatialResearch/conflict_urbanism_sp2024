@@ -57,7 +57,7 @@ We conducted research on 34 notable landmarks between the two neighborhoods, tra
 To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style Ethiopian modernism. Though such new modernism can be categorized as confused (Zeleke 2010). It is our hope that the repository (currently private) feeds into ongoing research.
 
 
-##### *Methodology*
+#### *Methodology*
 
 This project utilized an intersectional array of research methods and data analysis tools. Such methods included first-person research, oral history, analysis of satellite imagery, archival image and map sourcing, and GIS analysis such as through georeferencing. These methods have been stitched together to attempt to paint a detailed picture of the landmark-ification of Addis Ababa as a tool of foreign influence.
 
