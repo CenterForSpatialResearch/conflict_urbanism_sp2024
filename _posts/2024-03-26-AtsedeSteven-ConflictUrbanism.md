@@ -21,13 +21,37 @@ author: "Atsede Assayehgen, Steven Duncan"
 Pride in Ethiopian culture, considered on a collective scale, is a precarious thing. It’s propped up by the narrative of being the only country in Africa that has never been colonized - a narrative that is factually untrue but socially undisputed. 
 
 
+*Image below*    
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 33%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png" alt="Description of image 1" style="width: 100%;">
+    <p>1964</p>
+  </div>
+  <div style="width: 33%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup1990.png" alt="Description of image 2" style="width: 100%;">
+    <p>1990</p>
+  </div>
+  <div style="width: 33%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup2022.png" alt="Description of image 3" style="width: 100%;">
+    <p>2022</p>
+  </div>
+</div>
+
+
 ##### **Why Landmarks?**
 
 
 ##### *Africa Hall*
 
 
-##### **The African Union Conference Cemter: Ushering in into the Present Necolonial Dynamic** 
+##### **Mekanisa, the African Union, and Ushering in the New Dynamic of Neocolonialism** 
+
+You can begin to understand the cultural ties residents of Addis Ababa have to the city’s landmarks through the Old Airport or Mekanisa neighborhood. What one calls it may shift depending on your or your family’s relationship to its history, or depending on the day. Old Airport was the site of Addis Ababa’s literal last airport, Lideta (which became the namesake for the micro neighborhood just north of Mekanisa. The former compound of Lideta is the current home of the Ministry of Defense, a state-of-art compound completed in 2022. On-the-ground accounts do not convey the compound as a welcoming place, as tightly guarded as its construction details are, although the Ministry made sure to release a quaintly soundscaped advertisement in which Prime Minister Abiy Ahmed states his hopes for the compound to be a place where families can roam through the gardens.
+
+Also in Old Airport/Mekanisa sits the People’s Republic of China’s $200 million USD gift to the continent of Africa, the African Union Conference Center (AUCC). The AUCC was constructed in 2012, to promote the image of excellency and modernity for the African Union, whose main objective was once “ridding the continent of vestiges of colonization and apartheid, to promote unity and solidarity amongst African States.” The main building was designed and built by a collaboration between Tongji University, China State Construction Engineering and the China Architecture and Design Research Group.
+
+The AUCC is built on the site of the former Alem Bekagn prison, literally meaning “I’m tired of this world” or “Goodbye to the world”, and widely known as Kerchele prison. It was used during the Italian occupation of Ethiopia, and subsequently by Haile Selassie and Mengistu Haile Mariam to house political prisoners. The decision to construct the AU headquarters on this former prison grounds was criticized by survivors, as they were disappointed by the AU's lack of acknowledgement of the torture used on the site.
 
 
 **The following map offers an exploratory platform to learn and move from Mekanisa to Kazanchis by landmark.** 
@@ -52,7 +76,7 @@ function toggleFullscreen() {
 }
 </script>
 
-We conducted research on 34 notable landmarks between the two neighborhoods, tracing their contemporary histories, architectural influences, and financing intersections. The clustering of landmarks around and between Africa Hall and the African Union Conference Center loosely follows the pattern of palace-centered axial development that characterized Addis Ababa’s urban growth up until the the fall of the last empire (Tufa 2008). The pattern has been blurred by informal development which upticks in times of conflict.
+We conducted research on 34 notable landmarks between the two neighborhoods, tracing their contemporary histories, architectural influences, and financing intersections. The clustering of landmarks around and between Africa Hall and the African Union Conference Center loosely follows the pattern of palace-centered axial development that characterized Addis Ababa’s urban growth up until the the fall of the last empire (Tufa 2008). The pattern has been blurred by informal development which upticks in times of conflict. The intermingling of imposed form and informality have contributed to the prevalence of landmark-named micro neighborhoods throughout the city.
 
 To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style Ethiopian modernism. Though such new modernism can be categorized as confused (Zeleke 2010). It is our hope that the repository (currently private) feeds into ongoing research.
 
@@ -70,6 +94,9 @@ Throughout the research we questioned the neutrality of archival images and maps
 
 That question remains and keeps this research open to being part of a much larger project. Landmarks offered this research a lens on historical consistencies. Despite stark shifts in regimes and sociopolitical ideologies there has been a reliable focus on the image making of Addis Ababa and the Ethiopian people; so much so that it has overshadowed, and in turn disoriented the attachment one makes to a place. It’s not really about the landmark, about the grandeur of a building, or about the architect. The continuing research is about politicizing the culture of space and how one either grasps onto or reforms identity in the midst of spatial, cultural, and political tumult. As is the environment in Ethiopia today.
 
+
+Atsede Assayehgen, Steven Duncan
+Columbia GSAPP, Department of Urban Planning
 
 
 #### References
@@ -103,25 +130,5 @@ Zeleke, Elleni Centime. “Addis Ababa as Modernist Ruin.” Callaloo, vol. 33, 
 
 Zeleke, E. Centime. Ethiopia in Theory: Revolution and Knowledge Production, 1964-2016. Brill, 2020.
 
-
-*Image below*    
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 33%; text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png" alt="Description of image 1" style="width: 100%;">
-    <p>1964</p>
-  </div>
-  <div style="width: 33%; text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup1990.png" alt="Description of image 2" style="width: 100%;">
-    <p>1990</p>
-  </div>
-  <div style="width: 33%; text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup2022.png" alt="Description of image 3" style="width: 100%;">
-    <p>2022</p>
-  </div>
-</div>
-
-Atsede Assayehgen, Steven Duncan
-Columbia GSAPP, Department of Urban Planning
 
 
