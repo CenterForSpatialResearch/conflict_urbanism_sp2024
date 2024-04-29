@@ -16,21 +16,23 @@ author: "Atsede Assayehgen, Steven Duncan"
 
 ![Grid of various landmarks in Addis Ababa, Ethiopia](/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollage.png)  
 
-#### ****Introduction****
+*I sat in the living room of my  aunt’s home looking out to a perfect view of Meskel Square, a central artery  for gathering in today’s Addis Ababa. Her apartment was what some would consider, “prime real estate”, situated atop the square on perhaps one of the only roads people call by name, Bole Road. Though the building looked like it hadn’t been cared for in decades. Sitting there, watching, listening,  my uncle, who has never traveled outside of Ethiopia, was complaining to my father about an old man in his neighborhood who spends his free time picking up trash discarded in the street and around monuments…”are you mad about that? You should be thanking him, paying him, in fact joining him”...”why doesn’t he just mind his business?”* (Recorded memory, Atsede Assayehgen, June 2023)
 
-#### ****Brief History****
+Pride within Ethiopian people, collectively, is a precarious thing.
 
-#### ****Why Landmarks?**** 
+##### **Brief History**
 
-#### ****On Africa Hall****
+##### **Why Landmarks?**
 
-****On Kazanchis****
+##### *Africa Hall*
 
-****On Arturo Mezzedimi**** 
+*Kazanchis*
 
-#### ****On AUCC - Moving into the Present Necolonial Dynamic**** 
+*Arturo Mezzedimi* 
 
-****On Mekanisa****
+##### **The African Union Connference Cemter: Ushering in into the Present Necolonial Dynamic** 
+
+*Mekanisa*
 
 *The following map offers an exploratory platform to learn and move through Addis Ababa by landmark, from Mekanisa to Kazanchis.* 
 
