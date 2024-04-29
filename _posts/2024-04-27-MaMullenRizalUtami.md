@@ -170,7 +170,6 @@ In Batam and Rempang Islands, Otorita Batam was established in the 1970s with th
 
 #### *3.2/ Ecosystems for Displacement & Dispossession*  
 
-PHOTO CAROUSEL
 
 Massive displacement of existing local communities were conducted in the lead up to these large-scale foreign-led developments. Local communities were not only displaced from their land, but were also dispossessed of their rights in the name of economic pursuit. Local governments help to facilitate such an environment by being the active agents behind displacements.
 
@@ -180,13 +179,21 @@ Bangalore is currently facing a severe water crisis, as the issue of water scarc
 
 LAOS
 
-Building the Rempang Eco-City in Indonesia, will also involve displacing 7,500 local indigenous groups in Rempang 60 km inland, particularly those that rely on fishing for their livelihoods. The indigenous community has occupied Rempang for over 200 years, but in 2001-2002, the government granted land rights to a private company, leading to conflicting land use claims. Despite living on the island and close to the sea for generations, these community groups do not have legal land ownership and, therefore, have limited say in the use of the land in the current day. 
+Building the Rempang Eco-City in Indonesia, will also involve displacing 7,500 local indigenous groups in Rempang 60 km inland, particularly those that rely on fishing for their livelihoods. The indigenous community has occupied Rempang for over 200 years, but in 2001-2002, the government granted land rights to a private company, leading to conflicting land use claims. Despite living on the island and close to the sea for generations, these community groups do not have legal land ownership and, therefore, have limited say in the use of the land in the current day.
+
+<div style="text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/Rempang_Displaced.png" alt="Displacement" width="500">
+</div> 
+
+<div style="text-align: center;">
+    Indigenous Groups displaced inland to accomodate foreign-led development on their homeland.
+</div> 
 
 The displaced communities are said to be relocated to condos nearby, removing them from the sea shoreline and limiting their access to local fisheries. In response, there have been several protests in the past year from the indigenous residents of Rempang City, resisting relocation and seeking their rights to their land and access to the sea. As of today, the residents have received several notices from the government to relocate. The development of relocation homes for the residents broke ground in 2023, and the project is set to conclude the construction of over 900 more units by the end of 2024.
 
 #### *3.3/ Localized Sites for Global Contests*
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -237,11 +244,11 @@ The displaced communities are said to be relocated to condos nearby, removing th
         </div>
         <div>
             <img src="/conflict_urbanism_sp2024/images/AsiaDev/SEZProtest.jpg" alt="SEZProtest">
-            <div class="carousel-caption">Protest against SEZ development (source: Kao Nguyen)</div>
+            <div class="carousel-caption">Protest against SEZ development in Ho Chi Minh City (source: Kao Nguyen)</div>
         </div>
         <div>
-            <img src="/conflict_urbanism_sp2024/images/AsiaDev/VietnamProtest.png" alt="VietnamProtest">
-            <div class="carousel-caption">Protests against VSIP development</div>
+            <img src="/conflict_urbanism_sp2024/images/AsiaDev/Burning.png" alt="VietnamProtest">
+            <div class="carousel-caption">Chinese factory in Vietnam burnt down in protest of foreign development</div>
         </div>
     </div>
     
