@@ -10,7 +10,7 @@ body {
     background-color: black;
     color: white;
     font-family: 'Courier Prime', monospace;
-    font-size: 14px; 
+    font-size: 12px; 
         }
         h1, h2, h3, h4, h5, h6 {
             font-size: 1.5em;
@@ -23,49 +23,54 @@ body {
 
 This study draws on two theoretical frameworks for analysis. In *Foreign Direct Investment and Development*, Theodore Moran (1998) classifies the dynamic between foreign direct investment and development as either “benign” or “malign”. The benign dynamic is supposed to break the cycle of poverty and inequality by improving productivity, local revenue, and community development, which leads to higher economic growth (p. 19). Meanwhile, the malign model emphasizes the possibility of foreign entities enjoying the imperfect domestic market to extract more profits, driving domestic producers out of business and draining the local capital of the host country instead of closing the inequality gap (p. 20).
 
-In *Neo-Colonialism and the Poverty of ‘Development’ in Africa* (2018), Langan argues that foreign intervention in Africa is a neo-colonial phenomena. These interventions come in both aid and development, and are legitimized as part of a “virtuous endeavor” to bring about economic development to local contexts. However, these interventions tend to bring about negative effects such as exacerbating existing conditions of ill-being and poverty. Hagmann & Reyntjens’s *Aid and Authoritarianism in Africa: Development without Democracy* (2016) further extends Langan’s argument that foreign intervention tends to work in tandem with authoritarian one-party state, which further strengthens the regime at the expense of local populations who typically get dispossessed.
+In *Neo-Colonialism and the Poverty of ‘Development’ in Africa* (2018), Langan argues that foreign intervention in Africa is a neo-colonial phenomena. These interventions come in both aid and development, and are legitimized as part of a “virtuous endeavor” to bring about economic development to local contexts. However, these interventions tend to bring about negative effects such as exacerbating existing conditions of ill-being and poverty. Hagmann & Reyntjens’s Aid and Authoritarianism in Africa: Development without Democracy (2016) further extends Langan’s argument that foreign intervention tends to work in tandem with authoritarian one-party state, which further strengthens the regime at the expense of local populations who typically get dispossessed.
 
-This project aims to examine the impacts of Asia-to-Asia development. Key conflicts identified across the four case studies examine the power dynamics between local stakeholders and foreign developers, and the role of the state in furthering foreign interests. Projects in Vietnam, Laos, India, and Indonesia have been selected for this analysis to show the similarities and differences across project use type and scale.   
+This project aims to examine the impacts of Asia-to-Asia development. Key conflicts identified across the four case studies examine the power dynamics between local stakeholders and foreign developers and the role of the state in furthering foreign interests.  
+   
 
 
 
 
-#### 2/ Case Studies
+#### 2/ Introducing the Case Studies  
 
-![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg.png)    
+The following four case studies in Vietnam, Laos, India, and Indonesia have been selected for this analysis to show the similarities and differences across project use types and scales. Despite the key differences in use and scale, with projects ranging from 29 hectares to over 11,500 hectares, they share common conflicts pertaining to land use, resource sharing, and globalization, as discussed in a later section (section 3).  
+
+![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg1.png    
 
 
 
 
 #### *2.1/ Vietnam: Vietnam-Singapore Industrial Parks*  
 
-![VietnamMap](/conflict_urbanism_sp2024/images/AsiaDev/Vietnam.png)  
+![VietnamMap](/conflict_urbanism_sp2024/images/AsiaDev/Vietnam1.png)  
 
 The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral government-led project arising out of two complementary ambitions from both the Vietnamese and Singaporean governments – for the former, they wished to emulate Singapore’s model of industrialization and modernization to encourage greater economic growth and job employment; for the latter, this project allowed Singaporean developers leverage on their master-planning expertise to benefit other Singaporean and foreign investors by tapping into cheaper regional labor.
 
-VSIP is a joint venture project between Becamex Investment and Industrial Development Corporation (Becamex IDC), a Vietnam state-owned enterprise, and Sembcorp Development, a Singaporean land and real estate developer. Becamex IDC provided the land bank for the developments, while Sembcorp Development provided their expertise in green and mixed-use urban planning, global marketing outreach, and the Singapore reputation and branding. The first project was a 500 hectare development in Binh Duong province, an hour outside of Ho Chi Minh City. Since then, there are a total of 14 VSIP projects throughout the country dedicated to light manufacturing industries and supplementary residential developments. Each project ranges from 150 to 2,045 hectares in size and total over 11,500 hectares, approximately the size of Queens.   
+VSIP is a joint venture project between Becamex Investment and Industrial Development Corporation (Becamex IDC), a Vietnam state-owned enterprise, and Sembcorp Development, a Singaporean land and real estate developer. Becamex IDC provided the land bank for the developments, while Sembcorp Development provided their expertise in green and mixed-use urban planning, global marketing outreach, and the Singapore reputation and branding. The first project was a 500-hectare development in Binh Duong province, an hour outside of Ho Chi Minh City. Since then, there have been a total of 14 VSIP projects throughout the country dedicated to light manufacturing industries and supplementary residential developments. Each project ranges from 150 to 2,045 hectares in size and totals over 11,500 hectares, approximately the size of Queens.
+   
 
-![VietSD1](/conflict_urbanism_sp2024/images/AsiaDev/VSIP SD1.png) 
+![VietSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramVSIP.jpg) 
 
-
+![VietSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramVSIP2.jpg) 
 
 
 #### *2.2/ Laos: Golden Triangle Special Economic Zone (SEZ)*  
 
-![LaosMap](/conflict_urbanism_sp2024/images/AsiaDev/GoldenTriangle.jpg)
+![LaosMap](/conflict_urbanism_sp2024/images/AsiaDev/GoldenTriangle.png)
 
-Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of which are a duty-free zone, called the Golden Triangle SEZ. The objective of the development is to attract foreign direct investment and boost economic growth in the region.
+Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease agreement with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of duty-free zone, called the Golden Triangle SEZ. The development aims to attract foreign direct investment and boost economic growth in the region.
 
-The development of this area is central to the opening of casinos, hotels, and resorts, along with an international airport. The area primarily attracts Chinese tourists and uses Chinese renminbi and Thai baht as the main currencies. This area has been closely associated with illegal industries such as wildlife trade, human trafficking, sex trade, narcotics smuggling, and money laundering that cater to transactions for Chinese, Hong Kong, and Australian clients. This SEZ is part of the government’s “Turning Land Into Capital” policy established in 2006, which is rooted in the marketization of land for profit and government revenue. Apart from the significant land use change that occurs, smallholder landowners who rely on their livelihood through agriculture are evicted from their land as the government reallocates the state land for foreign investors. 
+The development of this area is central to the opening of casinos, hotels, resorts, and an international airport. The area primarily attracts Chinese tourists and uses Chinese renminbi and Thai baht as the main currencies. This area has been closely associated with illegal industries such as wildlife trade, human trafficking, sex trade, narcotics smuggling, and money laundering that cater to transactions for Chinese, Hong Kong, and Australian clients. This SEZ is part of the government’s “Turning Land Into Capital” policy established in 2006, rooted in the marketization of land for profit and government revenue. Apart from the significant land use change, smallholder landowners who rely on their livelihood through agriculture are evicted from their land as the government reallocates the state land for foreign investors.   
 
-SYSTEM DIAGRAM  
+![LaosSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramGoldenTriangle.jpg) 
 
+![LaosSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramGoldenTriangle2.jpg) 
 
 
 
 #### *2.3/ India: International Tech Park Bangalore*    
 
-![IndiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Bangalore.png)
+![IndiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Bangalore1.png)
 
 HOLD FOR STATIC
 
