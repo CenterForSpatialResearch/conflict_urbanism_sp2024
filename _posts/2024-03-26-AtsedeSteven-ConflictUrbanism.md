@@ -43,11 +43,11 @@ Such impositions have made themselves explicitly known through landmarks erected
 
 ##### *Africa Hall*  
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 50%; text-align: center;">
+  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AfricaHall1960.png" alt="Africa Hall 1960" style="width: 100%;">
     <p>1960</p>
   </div>
-  <div style="width: 50%; text-align: center;">
+  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AddisAbabaToday.jpg" alt="Africa Hall Today" style="width: 100%;">
     <p>Today</p>
   </div>
@@ -58,11 +58,11 @@ Such impositions have made themselves explicitly known through landmarks erected
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 50%; text-align: center;">
+  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/KerchelebeforedemolishingGoogleearthpro.PNG" alt="Kerchele" style="width: 100%;">
     <p>Kerchele before demolishment</p>
   </div>
-  <div style="width: 50%; text-align: center;">
+  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AUCCTodayAerial.png" alt="AUCC" style="width: 100%;">
     <p>AUCC Today</p>
   </div>
@@ -78,7 +78,7 @@ Also in Old Airport/Mekanisa sits the People’s Republic of China’s $200 mill
 
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
     <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
-    <button onclick="toggleFullscreen()" style="position: absolute; top: 10px; right: 10px; z-index: 10;">Toggle Fullscreen</button>
+    <button onclick="toggleFullscreen()" style="position: absolute; top: 10px; right: 10px; z-index: 10; color: black;">Toggle Fullscreen</button>
 </div>
 
 <script>
