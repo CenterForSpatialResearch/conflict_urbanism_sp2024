@@ -225,19 +225,19 @@ The displaced communities are said to be relocated to condos nearby, removing th
     <div class="carousel">
         <div>
             <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaProtest1.jpg" alt="IndiaProtest1">
-            <div class="carousel-caption">Caption for Image 1</div>
+            <div class="carousel-caption">Protest for infrastructure improvements in Bangalore (source: Deccan Cronicle)</div>
         </div>
         <div>
             <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangProtest.jpg" alt="RempangProtest">
-            <div class="carousel-caption">Caption for Image 2</div>
+            <div class="carousel-caption">Protest against development in Rempang (source: Reuters)</div>
         </div>
         <div>
             <img src="/conflict_urbanism_sp2024/images/AsiaDev/SEZProtest.jpg" alt="SEZProtest">
-            <div class="carousel-caption">Caption for Image 3</div>
+            <div class="carousel-caption">Protest against SEZ development (source: Kao Nguyen)</div>
         </div>
         <div>
             <img src="/conflict_urbanism_sp2024/images/AsiaDev/VietnamProtest.png" alt="VietnamProtest">
-            <div class="carousel-caption">Caption for Image 4</div>
+            <div class="carousel-caption">Protests against VSIP development (source: BBC)</div>
         </div>
     </div>
     
