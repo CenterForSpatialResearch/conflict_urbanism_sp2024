@@ -50,11 +50,11 @@ This research identifies two primary landmarks of interest - Africa Hall and the
 
 #### Africa Hall and Kazanchis
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
+  <div style="width: 50%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AfricaHall1960New.png" alt="Africa Hall 1960" style="width: 100%;">
     <p>1960</p>
   </div>
-  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
+  <div style="width: 50%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AddisAbabaTodayNew.jpg" alt="Africa Hall Today" style="width: 100%;">
     <p>Today</p>
   </div>
@@ -69,11 +69,11 @@ You can begin to understand the cultural ties residents of Addis Ababa have to t
 Also in Old Airport/Mekanisa sits the People’s Republic of China’s $200 million USD gift to the continent of Africa, the African Union Conference Center (AUCC). The AUCC was constructed in 2012, to promote the image of excellency and modernity for the African Union, whose main objective was once “ridding the continent of vestiges of colonization and apartheid, to promote unity and solidarity amongst African States.” Although, the site’s predecessor, the notoriously inhumane Kerchele prison is attached to stories of political prisoners escaping to the OAU in search of amnesty. Those stories end with the escaped prisoners being ignored and returned so as to not violate the sworn neutrality of African Union members. The decision to construct the newest African Union headquarters on the former grounds of Kerchele is continually criticized by survivors, particularly for the lack of acknowledgement or memorial. A shiny new building whose rounded face reflects the future prosperity of the country through international cooperation feels much more in tune with the country’s freshly opened arms to the free market world.  
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
+  <div style="width: 50%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/KercheleBeforeDemlishNew.png" alt="Kerchele" style="width: 100%;">
     <p>*Kerchele in 2004 before demolition, source: Google Earth Pro*</p>
   </div>
-  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
+  <div style="width: 50%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AUCCTodayAerialNew.png" alt="AUCC" style="width: 100%;">
     <p>*The African Union Conference Center today, source: Google Earth Pro *</p>
   </div>
