@@ -125,33 +125,40 @@ Along all four of the projects described above, three key themes of conflict eme
 
 Foreign developers, due to the financial resources they bring and the promise of local economic development, wield significant influence on local land use dynamics. Typically, local governments are responsible for land use planning, approving development permits or zoning changes for their jurisdiction. However, in such large-scale urban and industrial developments, foreign developers are given substantial concessions or quasi-governmental authority over large masses of land, getting to make decisions on land use. In situations as such, the interests of foreign developers can be prioritized over local interests because of the promised local economic development these projects claim to bring. These concessions and prioritization can be seen in the blanket approval of master plans for large plots of land, tax incentives, and streamlined approval processes which often come at the expense of local communities’ concerns.
 
-![VSIPGif](/conflict_urbanism_sp2024/images/AsiaDev/VSIPGif.gif) 
+<img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPGif.gif" alt="Description of the image" width="400"> 
 
 <div style="text-align: center;">
-    *Land use changes around the VSIP project.*
-</div>
+    Land use changes around the VSIP project.
+</div>  
+
+
 
 In the VSIP project, the land used for development was mostly used for agricultural purposes before development. The first industrial park, VSIP Binh Duong I, meant over 500ha of agricultural land, alongside livelihoods, homes, and food sources, were lost. Maps of the development over time, as shown above, expose the rapid urban transformation of these sites. This project was also catalytic in driving rapid urbanization and industrialization in surrounding areas, with at least three more industrial parks developed in quick succession in the area alongside new residential development. From the maps above, low-rise housing constructed from less durable materials increased in density and sprawl surrounding the industrial park, suggesting that housing development is unable to match the industrial growth of the region, particularly in areas right outside the jurisdiction of the foreign developer. This highlights the limitations of having developments led by private foreign interests, who are not beholden to local land politics or the welfare of local residents in their pursuit for profit.
 
 ![IndiaGif](/conflict_urbanism_sp2024/images/AsiaDev/IndiaGIF.gif)
 <div style="text-align: center;">
-    *Land use changes around the ITPB project.*
-</div> 
+    Land use changes around the ITPB project.
+</div>  
+
+
 
 Similarly, the ITPB, other tech parks, and the local government in Bangalore have been heavily criticized for failing to contribute quality infrastructure and basic amenities to local residents. Tech parks in the area have compounded existing transportation infrastructure issues, which are exacerbated by rural-to-urban migration and rapid unplanned urban development. Living costs in the area have also increased as a result of the rapid urbanization and tech park developments. Despite their overwhelming support for tech park development in the area, the government has failed to provide local workers and residents with basic infrastructural improvements A “Save Whitefield” protest in 2015 drew 8,000 people protesting against ‘the apathy of the local government authorities’ to the poor state of the infrastructure in the area. Protestors voiced their desire for basic amenities like roads, footpaths, and streetlights. Despite the huge investments in the area to build tech hubs, there is a clear disconnect between local and national interests. In an effort to progress India’s economic development goals and emulate Singapore’s success, basic infrastructure needs are ignored and continue to create discontent among local residents. 
 
 ![SEZGif](/conflict_urbanism_sp2024/images/AsiaDev/Conflict_catharina.gif) 
 <div style="text-align: center;">
-    *Land use changes around the Golden Triangle SEZ.*
-</div>
+    Land use changes around the Golden Triangle SEZ.
+</div>  
+
+
 
 In the Golden Triangle Special Economic Zone,
 
 
 ![RempangGif](/conflict_urbanism_sp2024/images/AsiaDev/RempangGIF.gif) 
 <div style="text-align: center;">
-    *Land use changes in Batam and Rempang Islands.*
-</div>
+    Land use changes in Batam and Rempang Islands.
+</div>  
+
 
 In Batam and Rempang Islands, Otorita Batam was established in the 1970s with the aim of transforming Batam Island into a prominent economic hub in Asia, rivaling Singapore. Otorita Batam “is a government agency responsible for economic development and management – in the 1970s to transform the island into Asia’s powerful economic hub due to its strategic trade route. At that time, Batam was intended to compete with Singapore.” Presidential decrees in 1973 and 1992 expanded Otorita Batam’s authority to only manage Batam Island, but also the neighboring islands of Rempang and Galang,and granted Land Management Rights on the islands, which has significant implications for local land use dynamics. The local indigenous groups of the islands, including the Indigenous People’s Alliance of Nusantara (AMAN), on the other hand have raised concerns about the impact of granting land rights to Otorita Batam, which ultimately obstructs residents from obtaining regal recognition of the land rights. Furthermore, issues of lack of consultation and consent with local indigenous groups regarding land use decisions have been raised, regardless of several political promises made. Despite the unresolved land tenure issues in Rempang, the Rempang Eco-city Project has been designated a National Strategic Project, indicating continued prioritization of development initiatives over local community concerns.
 
