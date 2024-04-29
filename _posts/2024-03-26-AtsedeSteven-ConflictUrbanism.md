@@ -22,11 +22,15 @@ author: "Atsede Assayehgen, Steven Duncan"
 
 #### On Africa Hall
 
+**On Kazanchis**
 
-#### On AUCC - MOving into the Present Necolonial Dynamic 
+**On Arturo Mezzedimi** 
 
+#### On AUCC - Moving into the Present Necolonial Dynamic 
 
-**The following map offer an exploratory platform to learn and move through Addis Ababa by llandmark, from Mekanisa to Kazanchis.** 
+**On Mekanisa**
+
+*The following map offer an exploratory platform to learn and move through Addis Ababa by llandmark, from Mekanisa to Kazanchis.* 
 
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
     <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
