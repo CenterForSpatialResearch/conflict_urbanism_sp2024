@@ -30,7 +30,7 @@ author: "Atsede Assayehgen, Steven Duncan"
 
 **On Mekanisa**
 
-*The following map offer an exploratory platform to learn and move through Addis Ababa by landmark, from Mekanisa to Kazanchis.* 
+*The following map offers an exploratory platform to learn and move through Addis Ababa by landmark, from Mekanisa to Kazanchis.* 
 
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
     <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
@@ -52,6 +52,7 @@ function toggleFullscreen() {
 }
 </script>
 
+
 #### **Methodology** 
 
 This project has utilized a wide-ranging intersection of research and data methods. Such methods include first-person research, practice of oral history, analysis of satellite imagery, archival map sourcing and tracing, and georeferencing. The methods have been stitched together to attempt to paint a detailed picture of the cultural, political, and spatial impact of landmarks in Addis Ababa.
@@ -64,7 +65,7 @@ These challenges necessitated that we pursue a more flexible approach to data co
 #### **Looking Ahead** 
 
 
-#### References 
+#### **References** 
 
 
 *Image below*    
