@@ -36,10 +36,7 @@ Kansans rely on ground water for 85% of their water needs, including municipal, 
 Agriculture has been a significant part of Kansas' economy since it was settled by European Americans in the mid-19th century. The Homestead Act of 1862 encouraged this settlement by offering land for farming. Over the decades, agricultural practices evolved with technological advancements in farming equipment and methods, significantly boosting the state's agricultural output. Agriculture contributes significantly to Kansas's GDP, making water usage a critical economic issue. Agriculture directly contributes billions to Kansas's Gross State Product (GSP). According to the Kansas Department of Agriculture, the agriculture and food sector contributes about **$67.5 billion** annually to the Kansas economy and supports over **247,000 jobs**.
 
 
-![Land Usage Breakdown in Kansas](/conflict_urbanism_sp2024/images/AquiferKansas/Land_Usage.png)
-
-
-![Land Usage Breakdown in Kansas](/conflict_urbanism_sp2024/images/AquiferKansas/Agricultural_Revenue.png)
+![Land Usage Breakdown in Kansas](/conflict_urbanism_sp2024/images/AquiferKansas/Kansas_Usage1.png)
 
 
 #### References
