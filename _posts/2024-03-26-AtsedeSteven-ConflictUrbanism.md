@@ -21,8 +21,7 @@ author: "Atsede Assayehgen, Steven Duncan"
 Pride in Ethiopian culture, considered on a collective scale, is a precarious thing. It’s propped up by the narrative of being the only country in Africa that has never been colonized - a narrative that is factually untrue but socially undisputed. 
 
 
-*Image below*    
-
+*Build up, constituting land with visible roof coverage, shows incredible architectural and infrastructural growth in Addis Ababa from 1964 (left), to 1990 (center), to 2022 (right)*    
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 33%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png" alt="Description of image 1" style="width: 100%;">
