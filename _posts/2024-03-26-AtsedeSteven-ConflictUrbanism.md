@@ -10,7 +10,7 @@ author: "Atsede Assayehgen, Steven Duncan"
     body {
         background-color: #FAF9f6; */
         color: #235347; /* Green color for text */
-        font-family: Helvetica;
+        font-family: 'Helvetica Neue', helvetica;
     }
 </style>
 
@@ -40,8 +40,6 @@ This project will specifically look at Africa Hall and the African Union Confere
 
 ![Map of Addis Ababa, 1964, Imperial Ethiopian Mapping & Geography Institute](/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png)  
 
-
-<div class="iframe-column"><iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
     <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
