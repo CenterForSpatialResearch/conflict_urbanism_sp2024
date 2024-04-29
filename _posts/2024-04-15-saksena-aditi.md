@@ -1,15 +1,51 @@
 ---
 layout: post
 date:   2024-04-20
-image: "/conflict_urbanism_sp2024/images/csr_thumbnail.png"
+image: "/conflict_urbanism_sp2024/images/AquiferKansas/GoogleEarth1.JPG"
 title:  "Aquifer Under Siege: Mapping the Nexus of Agriculture, Urbanization, and Water Conflict in Kansas"
 author: "Aditi Saksena"
 ---
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
+#### Introduction
 
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
+
+Water scarcity and its management in today’s time has become central to understanding the balance and future of urbanization, rural development and water- particularly in regions heavily reliant on agriculture. The conflict over groundwater in Kansas can be immediately related to the "hydraulic society" thesis (Wittfogel, 1957), where control over water resources is the crux on which power dynamics, social relations, and economic activities revolve. Wittfogel's theory, often referred to as "hydraulic civilization" theory, says that societies developing in arid regions will naturally evolve complex administrative and governance structures to manage water resources effectively. This theory emphasizes the central role of water control in societal development and the potential for conflict over water resources as a fundamental aspect of societal power dynamics. 
+
+
+#### *The story of the largest Aquifer in the United States of America*
+
+An aquifer is an underground layer of permeable or “leaky” rock. The mixture of sediment and rock in these layers contains many holes of different sizes that are able to store a massive amount of water. The Ogallala Aquifer is one of the world’s largest fresh groundwater resources. It underlies 175,000 square miles in eight states. Starting as hundreds of feet of silt, clay, and gravel eroded from the Rocky Mountains and laid down by streams millions of years ago, rainfall during this time produced an underground lake. 
+
+The Aquifer ies beneath portions of, including Texas, New Mexico, Kansas, Oklahoma, Colorado, Nebraska, Wyoming and South Dakota. The Ogallala has been the source of substantial, large-scale irrigation development, beginning in the 1950s, when affordable technology became available for extracting groundwater and applying it to large fields of cotton, corn, winter wheat, and sorghum.
+
+
+#### References
+
+
+Lanning-Rush, J. (2016). Irrigation water use in Kansas, 2013. U.S. Geological Survey. https://pubs.usgs.gov/publication/ds981
+
+USDA, NASS. (2020). 2020 Kansas Cropland Data Layer. https://www.nass.usda.gov
+
+USDA, NASS. (n.d.). Research and Science - Cropland Data Layers. https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php
+
+USGS. (n.d.). Water Use Data for Kansas. https://waterdata.usgs.gov/ks/nwis/wu
+
+USGS. (2018). Water-use data available from USGS. https://water.usgs.gov/watuse/data/
+
+Kansas Department of Agriculture, Division of Water Resources. (n.d.). https://agriculture.ks.gov/divisions-programs/dwr
+
+Harvey, D. (1996). Justice, nature and the geography of difference. Blackwell.
+
+Ostrom, E. (1990). Governing the commons: The evolution of institutions for collective action. 
+
+Sassen, S. (2014). Expulsions: Brutality and complexity in the global economy..
+
+Swyngedouw, E. (2004). Social power and the urbanization of water: Flows of power. 
+
+Wittfogel, K. A. (1957). Oriental despotism: A comparative study of total power. 
+
+Bakker, K. (2010). Privatizing water: Governance failure and the world's urban water crisis.
+
 
 #### Please use level 4 headings for major section divisions  
 (make sure to put two spaces after the end of the heading)
