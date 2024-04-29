@@ -49,6 +49,13 @@ This research identifies two primary landmarks of interest - Africa Hall and the
 
 
 #### Africa Hall and Kazanchis
+
+Kazanchis, a neighborhood bordering east of Addis Ababa’s three imperial palaces, is rumored to have roots in the Italian word for home, casa, but was more likely named after Italian construction company, Kazabi.N.C.E.S. During the Italian occupation the neighborhood was designated as a segregated space for white, Italian, highly ranked officials and as such became a playground for their entertainment. It was Emperor Haile Selassie’s decision, cognizant of this history, to build the first home for the Organization of African Unity (OAU), predecessor of the African Union (AU), here when he regained authority.
+
+Africa Hall was the monumental structure of Haile Selassie’s dreams; imagined as soon as it was decided that the OAU headquarters would be in Addis Ababa at a 1955 Cairo meeting. Within the span of 4 years Haile Selassie launched an international design competition to show “people that it is possible to construct grand buildings here too”, stimulate investment, and “make this ‘great village’ a city and a true great capital”. Ultimately, Selassie scrapped the submission ideas in favor of Arturo Mezzedimi’s interpretation. Mezzedimi was an Italian expatriate raised in Eritrea, who was slowly building a body of work in both countries. Mezzedimi’s charge of Africa Hall was his big break, the launching pad for his appointment as Addis Ababa’s chief architect realizing over 100 buildings and site plans, and grounded his close, 23-year working relationship with Haile Selassie. (Mezzedimi 1992).
+
+The design intent of Africa Hall was to impose a European typology with indigenous materials. However, it’s understood that less than 50% of materials from Ethiopia were used due to construction expediting. Regardless, Africa Hall’s construction heralded a wave of foreign modernism; the city becoming augmented by architects from Israel, France, and the Czech Republic. Altogether forming an architectural landscape that was both transformational and invasive. 51 years later, the negotiation of cultural and political autonomy continued to be exemplified through the construction of the African Union Conference Center (AUCC) in 2012. And so began the chain of monumental landmark precedents - the measure of Ethiopian political achievement being Africa’s largest, tallest, and shiniest.
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 50%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AfricaHall1960New.png" alt="Africa Hall 1960" style="width: 100%;">
