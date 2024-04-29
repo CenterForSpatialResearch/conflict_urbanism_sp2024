@@ -24,15 +24,15 @@ This project will specifically look at Africa Hall and the African Union Confere
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 33%; text-align: center;">
-    <img src="images/AddisGroup_test/download1.png" alt="Description of image 1" style="width: 100%;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png" alt="Description of image 1" style="width: 100%;">
     <p>1964</p>
   </div>
   <div style="width: 33%; text-align: center;">
-    <img src="images/AddisGroup_test/Buildup1990.png" alt="Description of image 2" style="width: 100%;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup1990.png" alt="Description of image 2" style="width: 100%;">
     <p>1990</p>
   </div>
   <div style="width: 33%; text-align: center;">
-    <img src="images/AddisGroup_test/Buildup2022.png" alt="Description of image 3" style="width: 100%;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup2022.png" alt="Description of image 3" style="width: 100%;">
     <p>2022</p>
   </div>
 </div>
