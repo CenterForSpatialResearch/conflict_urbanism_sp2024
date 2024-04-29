@@ -85,6 +85,8 @@ In Old Airport/Mekanisa sits the People’s Republic of China’s $200 million U
   </div>
 </div>
 
+
+
 **The following map offers an exploratory platform to navigate the sites of the AUCC, Africa Hall, and surrounding landmarks that inform the navigation of Mekanisa and Kazanchis.** 
 <br>
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
@@ -108,6 +110,8 @@ function toggleFullscreen() {
 </script>
 
 <br>
+
+
 
 We conducted research on 34 notable landmarks between the two neighborhoods and primary nodes, tracing their contemporary histories, architectural influences, and financing intersections. The clustering of landmarks around and between Africa Hall and the African Union Conference Center loosely follows the pattern of palace-centered axial development that characterized Addis Ababa’s urban growth up until the the fall of the last empire (Tufa 2008). The pattern has been blurred by informal development which upticks in times of conflict, reflective of extreme overcrowding occuring in the Kazanchis neighborhood today. The intermingling of imposed form and informality have contributed to the prevalence of landmark-named micro-neighborhoods throughout the city.
 
