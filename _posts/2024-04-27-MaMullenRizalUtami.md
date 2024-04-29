@@ -97,7 +97,7 @@ The park was created as a joint venture between India and Singapore in 1994 to r
 
 #### *2.4/ Indonesia: Rempang Eco City*  
 
-![IndonesiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Rempang.png)
+![IndonesiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Rempang1.png)
 
 The Rempang Eco City project is a joint project between the Batam Indonesia Free Zone Authority (BP Batam), local Indonesian company PT Makmur Elok Graha (MEG), and China’s Xinyi Glass, the world’s largest producer of glass and solar panels. The Batam Freezone Authority (BP Batam) is a central government institution responsible for managing, developing, and constructing free trade zones and free ports in Batam, Indonesia. 
 
