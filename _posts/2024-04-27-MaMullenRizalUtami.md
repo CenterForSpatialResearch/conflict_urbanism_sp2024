@@ -41,7 +41,7 @@ The following four case studies in Vietnam, Laos, India, and Indonesia have been
 The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral government-led project arising out of two complementary ambitions from both the Vietnamese and Singaporean governments – for the former, they wished to emulate Singapore’s model of industrialization and modernization to encourage greater economic growth and job employment; for the latter, this project allowed Singaporean developers leverage on their master-planning expertise to benefit other Singaporean and foreign investors by tapping into cheaper regional labor.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png" alt="VSIP Static" width="600">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPStatic.png" alt="VSIP Static" width="800">
 </div> 
 
 <div style="text-align: center;">
@@ -63,7 +63,7 @@ VSIP is a joint venture project between Becamex Investment and Industrial Develo
 Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease agreement with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of duty-free zone, called the Golden Triangle SEZ. The development aims to attract foreign direct investment and boost economic growth in the region.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png" alt="IndiaInfra" width="500">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png" alt="IndiaInfra" width="800">
 </div> 
 
 <div style="text-align: center;">
@@ -120,7 +120,7 @@ The Rempang Eco City project is a joint project between the Batam Indonesia Free
 Located on Rempang Island, the site of the project is close to Malaysia and Singapore and encircled by several smaller local Indonesian islands. The project is not yet built, and anticipated to cover around 42,000 acres (17,000 hectares) of land with the development of industrial, service, and tourism areas being built on Rempang Island. The project, titled “Rempact Eco-City”, is claimed to include several sustainability elements, such as green infrastructure, renewable energy, eco-friendly building design, recycling infrastructure, and sustainable transportation options. It is also advertised to hold immense potential for economic development and local job creation, utilizing the locally available quartz sand resources, an important resource in the production of glass and solar panels.
 
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic2.png" alt="Rempang Static" width="600">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic2.png" alt="Rempang Static" width="800">
 </div> 
 
 <div style="text-align: center;">
