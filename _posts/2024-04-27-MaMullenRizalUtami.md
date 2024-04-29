@@ -113,24 +113,16 @@ Along all four of the projects described above, three key themes of conflict eme
 <br>  
 #### *3.1/ Land Use Dynamics and Decision Making*  
 
-Foreign developers, due to the financial resources they bring and the promise of local economic development, wield significant influence on local land use dynamics. Typically, local governments are responsible for land use planning, approving development permits or zoning changes for their jurisdiction. However, in such large-scale urban and industrial developments, foreign developers are given substantial concessions or quasi-governmental authority over large masses of land, getting to make decisions on land use. In situations as such, the interests of foreign developers can be prioritized over local interests because of the promised local economic development these projects claim to bring. These concessions and prioritization can be seen in the blanket approval of master plans for large plots of land, tax incentives, and streamlined approval processes which often come at the expense of local communities’ concerns.<br>
+Foreign developers, due to the financial resources they bring and the promise of local economic development, wield significant influence on local land use dynamics. Typically, local governments are responsible for land use planning, approving development permits or zoning changes for their jurisdiction. However, in such large-scale urban and industrial developments, foreign developers are given substantial concessions or quasi-governmental authority over large masses of land, getting to make decisions on land use. In situations as such, the interests of foreign developers can be prioritized over local interests because of the promised local economic development these projects claim to bring. These concessions and prioritization can be seen in the blanket approval of master plans for large plots of land, tax incentives, and streamlined approval processes which often come at the expense of local communities’ concerns.
+
+In the VSIP project, the land used for development was mostly used for agricultural purposes before development. The first industrial park, VSIP Binh Duong I, meant over 500ha of agricultural land, alongside livelihoods, homes, and food sources, were lost. Maps of the development over time, as shown above, expose the rapid urban transformation of these sites. This project was also catalytic in driving rapid urbanization and industrialization in surrounding areas, with at least three more industrial parks developed in quick succession in the area alongside new residential development. From the maps above, low-rise housing constructed from less durable materials increased in density and sprawl surrounding the industrial park, suggesting that housing development is unable to match the industrial growth of the region, particularly in areas right outside the jurisdiction of the foreign developer. This highlights the limitations of having developments led by private foreign interests, who are not beholden to local land politics or the welfare of local residents in their pursuit for profit.
 <br>
 <div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPGif.gif" alt="VSIP GIF" width="500">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/India Tech Park Road.jpg" alt="IndiaInfra" width="500">
 </div> 
 
 <div style="text-align: center;">
-    Land use changes around the VSIP project.
-</div>  
-<br>
-In the VSIP project, the land used for development was mostly used for agricultural purposes before development. The first industrial park, VSIP Binh Duong I, meant over 500ha of agricultural land, alongside livelihoods, homes, and food sources, were lost. Maps of the development over time, as shown above, expose the rapid urban transformation of these sites. This project was also catalytic in driving rapid urbanization and industrialization in surrounding areas, with at least three more industrial parks developed in quick succession in the area alongside new residential development. From the maps above, low-rise housing constructed from less durable materials increased in density and sprawl surrounding the industrial park, suggesting that housing development is unable to match the industrial growth of the region, particularly in areas right outside the jurisdiction of the foreign developer. This highlights the limitations of having developments led by private foreign interests, who are not beholden to local land politics or the welfare of local residents in their pursuit for profit.<br>
-<br>
-<div style="text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaGIF.gif" alt="India GIF" width="500">
-</div> 
-
-<div style="text-align: center;">
-    Land use changes around the ITPB project.
+    Infrastructure surrounding the booming ITPB tech park in Bangalore have been long neglected by city government (ATP).
 </div>  
 <br>
 Similarly, the ITPB, other tech parks, and the local government in Bangalore have been heavily criticized for failing to contribute quality infrastructure and basic amenities to local residents. Tech parks in the area have compounded existing transportation infrastructure issues, which are exacerbated by rural-to-urban migration and rapid unplanned urban development. Living costs in the area have also increased as a result of the rapid urbanization and tech park developments. Despite their overwhelming support for tech park development in the area, the government has failed to provide local workers and residents with basic infrastructural improvements A “Save Whitefield” protest in 2015 drew 8,000 people protesting against ‘the apathy of the local government authorities’ to the poor state of the infrastructure in the area. Protestors voiced their desire for basic amenities like roads, footpaths, and streetlights. Despite the huge investments in the area to build tech hubs, there is a clear disconnect between local and national interests. In an effort to progress India’s economic development goals and emulate Singapore’s success, basic infrastructure needs are ignored and continue to create discontent among local residents.<br> 
@@ -158,11 +150,27 @@ In Batam and Rempang Islands, Otorita Batam was established in the 1970s with th
 <br>
 #### *3.2/ Ecosystems for Displacement & Dispossession*  
 
+Massive displacement of existing local communities were conducted in the lead up to these large-scale foreign-led developments. Local communities were not only displaced from their land, but were also dispossessed of their rights in the name of economic pursuit. Local governments help to facilitate such an environment by being the active agents behind displacements.<br>
+<br>
+<br>
+<div style="text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/VSIPGif.gif" alt="VSIP GIF" width="500">
+</div> 
 
-Massive displacement of existing local communities were conducted in the lead up to these large-scale foreign-led developments. Local communities were not only displaced from their land, but were also dispossessed of their rights in the name of economic pursuit. Local governments help to facilitate such an environment by being the active agents behind displacements.
+<div style="text-align: center;">
+    Land use changes around the VSIP project show greenfield development which resulted in local displacement.
+</div>  
+<br>
+Binh Duong, the province where the first **VSIP project** was launched, was often claimed to be a greenfield development project. In other words, the land where the industrial park was slated to be developed had nothing on it prior to development. However, in comparing LandSAT images from 1995 before the groundbreaking of VSIP and 2000, significant built up land disappeared and became “green.” These images suggest mass displacement of existing local residences had indeed taken place in the effort to consolidate land for industrial development, and was led by the local authorities who were in charge of land acquisition and preparation. Language used in investment promotional materials for VSIP highlights local populations as “active workforce” or having high literacy rates, further exemplifying that local authorities and developers view local residents as expendable resources instead of active community stakeholders.<br>
+<br>
+<div style="text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaGIF.gif" alt="India GIF" width="500">
+</div> 
 
-Binh Duong, the province where the first **VSIP project** was launched, was often claimed to be a greenfield development project. In other words, the land where the industrial park was slated to be developed had nothing on it prior to development. However, in comparing LandSAT images from 1995 before the groundbreaking of VSIP and 2000, significant built up land disappeared and became “green.” These images suggest mass displacement of existing local residences had indeed taken place in the effort to consolidate land for industrial development, and was led by the local authorities who were in charge of land acquisition and preparation. Language used in investment promotional materials for VSIP highlights local populations as “active workforce” or having high literacy rates, further exemplifying that local authorities and developers view local residents as expendable resources instead of active community stakeholders.
-
+<div style="text-align: center;">
+    Land use changes around the ITPB project show water scarcity increasing over time (water presented by black space, contrasted against increasing green space and development shown in pink).
+</div>  
+<br>
 **Bangalore** is currently facing a severe water crisis, as the issue of water scarcity has reached critical levels and residents grapple with conservation measures for their daily needs. While climate change has impacted the region, the city’s government failure to invest in water management is the true culprit of the water crisis. As city officials have focused investments in bolstering the tech ecosystem in Bangalore and the surrounding area in the past decades, water management has not evolved since the 1960s as otherwise healthy aquifers continue to draw dry due to the unmitigated spread of urban wells. In recent months, the tech hubs in Whitefield have received media attention for exacerbating the water crisis. Many technology companies housed in Whitefield require workers to be in office for all of or most of the week, increasing the water needs of the area. Local residents and tech employees have united to rally against in-person work requirements, but the tech companies and local government have both been slow to act up to this point, although it is clear what steps need to be taken to mitigate and solve the crisis.
 
 LAOS
