@@ -42,11 +42,32 @@ Such impositions have made themselves explicitly known through landmarks erected
 
 
 ##### *Africa Hall*  
-*insert image and caption of Africa Hall in the 60s and in the present*  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 50%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AfricaHall1960.png" alt="Africa Hall 1960" style="width: 100%;">
+    <p>1960</p>
+  </div>
+  <div style="width: 50%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AddisAbabaToday.jpg" alt="Africa Hall Today" style="width: 100%;">
+    <p>Today</p>
+  </div>
+</div>
 
 
 ##### *Mekanisa, the African Union, and Ushering in of a New Dynamic of Influence*
-*insert Google earth pro image of Kerchele and AUCC*
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 50%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/KerchelebeforedemolishingGoogleearthpro.PNG" alt="Kerchele" style="width: 100%;">
+    <p>Kerchele before demolishment</p>
+  </div>
+  <div style="width: 50%; text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AUCCTodayAerial.png" alt="AUCC" style="width: 100%;">
+    <p>AUCC Today</p>
+  </div>
+</div>
+
 
 You can begin to understand the cultural ties residents of Addis Ababa have to the city’s landmarks through the Old Airport or Mekanisa neighborhood. What one calls it may shift depending on your or your family’s relationship to its history, or depending on the day. Old Airport was the site of Addis Ababa’s literal last airport, Lideta (which became the namesake for the micro neighborhood just north of Mekanisa. The former compound of Lideta is the current home of the Ministry of Defense, a state-of-art compound completed in 2022. On-the-ground accounts do not convey the compound as a welcoming place, as tightly guarded as its construction details are, although the Ministry made sure to release a quaintly soundscaped advertisement in which Prime Minister Abiy Ahmed states his hopes for the compound to be a place where families can roam through the gardens.
 
