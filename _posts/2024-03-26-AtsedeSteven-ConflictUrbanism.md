@@ -38,13 +38,13 @@ Pride in Ethiopian culture, considered on a collective scale, is a precarious th
 </div>
 
 
-##### **Why Landmarks?**
+##### *Why Landmarks?*
 
 
 ##### *Africa Hall*
 
 
-##### **Mekanisa, the African Union, and Ushering in the New Dynamic of Neocolonialism** 
+##### *Mekanisa, the African Union, and Ushering in a New Dynamic of Neocolonialism*
 
 You can begin to understand the cultural ties residents of Addis Ababa have to the city’s landmarks through the Old Airport or Mekanisa neighborhood. What one calls it may shift depending on your or your family’s relationship to its history, or depending on the day. Old Airport was the site of Addis Ababa’s literal last airport, Lideta (which became the namesake for the micro neighborhood just north of Mekanisa. The former compound of Lideta is the current home of the Ministry of Defense, a state-of-art compound completed in 2022. On-the-ground accounts do not convey the compound as a welcoming place, as tightly guarded as its construction details are, although the Ministry made sure to release a quaintly soundscaped advertisement in which Prime Minister Abiy Ahmed states his hopes for the compound to be a place where families can roam through the gardens.
 
@@ -53,7 +53,7 @@ Also in Old Airport/Mekanisa sits the People’s Republic of China’s $200 mill
 The AUCC is built on the site of the former Alem Bekagn prison, literally meaning “I’m tired of this world” or “Goodbye to the world”, and widely known as Kerchele prison. It was used during the Italian occupation of Ethiopia, and subsequently by Haile Selassie and Mengistu Haile Mariam to house political prisoners. The decision to construct the AU headquarters on this former prison grounds was criticized by survivors, as they were disappointed by the AU's lack of acknowledgement of the torture used on the site.
 
 
-**The following map offers an exploratory platform to learn and move from Mekanisa to Kazanchis by landmark.** 
+***The following map offers an exploratory platform to learn and move from Mekanisa to Kazanchis by landmark.*** 
 
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
     <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
@@ -80,7 +80,7 @@ We conducted research on 34 notable landmarks between the two neighborhoods, tra
 To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style Ethiopian modernism. Though such new modernism can be categorized as confused (Zeleke 2010). It is our hope that the repository (currently private) feeds into ongoing research.
 
 
-#### *Methodology*
+#### Methodology
 
 This project utilized an intersectional array of research methods and data analysis tools. Such methods included first-person research, oral history, analysis of satellite imagery, archival image and map sourcing, and GIS analysis such as through georeferencing. These methods have been stitched together to attempt to paint a detailed picture of the landmark-ification of Addis Ababa as a tool of foreign influence.
 
@@ -89,12 +89,12 @@ Though we acknowledge that the picture is not complete, not without bias, and ha
 Throughout the research we questioned the neutrality of archival images and maps of mid-20th century Ethiopia that exist, in majority, through the lens of Italian governmental agencies, Italian expatriates, or American governmental agencies. Thus lacing historical documentation, and holding hostage the historization of growth and progress with colonial biases. Which we, and many Ethiopian nationals engaged in overlapping research, have had no choice but to integrate. These challenges necessitated a flexible and holistic approach to data collection and analysis, and personally implicating ourselves within the work.
 
 
-***How does one  navigate a city using landmarks when the landmarks themselves are confused?***
+##### ***How does one  navigate a city using landmarks when the landmarks themselves are confused?***
 
 That question remains and keeps this research open to being part of a much larger project. Landmarks offered this research a lens on historical consistencies. Despite stark shifts in regimes and sociopolitical ideologies there has been a reliable focus on the image making of Addis Ababa and the Ethiopian people; so much so that it has overshadowed, and in turn disoriented the attachment one makes to a place. It’s not really about the landmark, about the grandeur of a building, or about the architect. The continuing research is about politicizing the culture of space and how one either grasps onto or reforms identity in the midst of spatial, cultural, and political tumult. As is the environment in Ethiopia today.
 
 
-Atsede Assayehgen, Steven Duncan
+Atsede Assayehgen, Steven Duncan,
 Columbia GSAPP, Department of Urban Planning
 
 
