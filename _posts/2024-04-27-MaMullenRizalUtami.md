@@ -35,7 +35,7 @@ This project aims to examine the impacts of Asia-to-Asia development. Key confli
 
 The following four case studies in Vietnam, Laos, India, and Indonesia have been selected for this analysis to show the similarities and differences across project use types and scales. Despite the key differences in use and scale, with projects ranging from 29 hectares to over 11,500 hectares, they share common conflicts pertaining to land use, resource sharing, and globalization, as discussed in a later section (section 3).  
 
-![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg1.png    
+![AsiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Asiajpg1.png)    
 
 
 
@@ -72,7 +72,6 @@ The development of this area is central to the opening of casinos, hotels, resor
 
 ![IndiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Bangalore1.png)
 
-HOLD FOR STATIC
 
 International Tech Park Bangalore (ITPB) is a tech park located in Whitefield, Bangalore, 18 km from the city center. According to a 2023 valuation, the development is valued at $610,539,832 USD. The park comprises a total 29 hectares of office space, retail mall, hotel, and amenities such as banks, restaurants, and sporting arenas. Built in 1994, ITPB served as the first large-scale example of the ‘work-live-play’ environment in India and is used as a model for IT park projects in Bangalore, which is often touted as ‘India’s Silicon Valley’. There are currently over a dozen tech parks in Bangalore housing over 67,000 companies.
 
