@@ -43,6 +43,26 @@ This project will specifically look at Africa Hall and the African Union Confere
 
 <div class="iframe-column"><iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
+<div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
+    <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+    <button onclick="toggleFullscreen()" style="position: absolute; top: 10px; right: 10px; z-index: 10;">Toggle Fullscreen</button>
+</div>
+
+<script>
+function toggleFullscreen() {
+    let elem = document.getElementById('mapContainer');
+    if (!document.fullscreenElement) {
+        elem.requestFullscreen().catch(err => {
+            alert(`Error attempting to enable fullscreen mode: ${err.message} (${err.name})`);
+        });
+    } else {
+        if (document.exitFullscreen) {
+            document.exitFullscreen();
+        }
+    }
+}
+</script>
+
 
 
  
