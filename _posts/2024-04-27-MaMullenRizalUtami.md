@@ -135,9 +135,13 @@ Foreign developers, due to the financial resources they bring and the promise of
 </div>  
 <br>
 <br>
+
 In the VSIP project, the land used for development was mostly used for agricultural purposes before development. The first industrial park, VSIP Binh Duong I, meant over 500ha of agricultural land, alongside livelihoods, homes, and food sources, were lost. Maps of the development over time, as shown above, expose the rapid urban transformation of these sites. This project was also catalytic in driving rapid urbanization and industrialization in surrounding areas, with at least three more industrial parks developed in quick succession in the area alongside new residential development. From the maps above, low-rise housing constructed from less durable materials increased in density and sprawl surrounding the industrial park, suggesting that housing development is unable to match the industrial growth of the region, particularly in areas right outside the jurisdiction of the foreign developer. This highlights the limitations of having developments led by private foreign interests, who are not beholden to local land politics or the welfare of local residents in their pursuit for profit.
 
-![IndiaGif](/conflict_urbanism_sp2024/images/AsiaDev/IndiaGIF.gif)
+<div style="text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaGIF.gif" alt="India GIF" width="400">
+</div> 
+
 <div style="text-align: center;">
     Land use changes around the ITPB project.
 </div>  
@@ -145,7 +149,10 @@ In the VSIP project, the land used for development was mostly used for agricultu
 <br>
 Similarly, the ITPB, other tech parks, and the local government in Bangalore have been heavily criticized for failing to contribute quality infrastructure and basic amenities to local residents. Tech parks in the area have compounded existing transportation infrastructure issues, which are exacerbated by rural-to-urban migration and rapid unplanned urban development. Living costs in the area have also increased as a result of the rapid urbanization and tech park developments. Despite their overwhelming support for tech park development in the area, the government has failed to provide local workers and residents with basic infrastructural improvements A “Save Whitefield” protest in 2015 drew 8,000 people protesting against ‘the apathy of the local government authorities’ to the poor state of the infrastructure in the area. Protestors voiced their desire for basic amenities like roads, footpaths, and streetlights. Despite the huge investments in the area to build tech hubs, there is a clear disconnect between local and national interests. In an effort to progress India’s economic development goals and emulate Singapore’s success, basic infrastructure needs are ignored and continue to create discontent among local residents. 
 
-![SEZGif](/conflict_urbanism_sp2024/images/AsiaDev/Conflict_catharina.gif) 
+<div style="text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/Conflict_catharina.gif" alt="India GIF" width="400">
+</div> 
+
 <div style="text-align: center;">
     Land use changes around the Golden Triangle SEZ.
 </div>  
@@ -153,8 +160,10 @@ Similarly, the ITPB, other tech parks, and the local government in Bangalore hav
 <br>
 In the Golden Triangle Special Economic Zone,
 
-
-![RempangGif](/conflict_urbanism_sp2024/images/AsiaDev/RempangGIF.gif) 
+div style="text-align: center;">
+    <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangGIF.gif" alt="India GIF" width="400">
+</div> 
+ 
 <div style="text-align: center;">
     Land use changes in Batam and Rempang Islands.
 </div>  
