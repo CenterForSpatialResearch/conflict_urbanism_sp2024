@@ -186,7 +186,7 @@ The displaced communities are said to be relocated to condos nearby, removing th
 
 #### *3.3/ Localized Sites for Global Contests*
 
-<!-- <!DOCTYPE html> -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -216,8 +216,12 @@ The displaced communities are said to be relocated to condos nearby, removing th
         .carousel-caption p {
             margin: 0; /* Remove default margins */
         }
+        .slick-slide {
+            position: relative; /* Ensure relative positioning for each slide */
+        }
         .slick-slide img {
             width: 100%;
+            display: block; /* Ensure images are displayed as block elements */
         }
     </style>
 </head>
@@ -250,6 +254,7 @@ The displaced communities are said to be relocated to condos nearby, removing th
     </script>
 </body>
 </html>
+
 
 
 The third theme of conflict surrounds these projects being localized sites for global contests, ranging on issues such as economic development, broader geopolitical dynamics, interboundary humanitarian and legal challenges such as human trafficking and money laundering, and emergence of urban sustainability in the face of climate change. 
