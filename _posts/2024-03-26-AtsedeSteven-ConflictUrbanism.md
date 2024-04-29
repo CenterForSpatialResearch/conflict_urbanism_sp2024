@@ -10,7 +10,7 @@ author: "Atsede Assayehgen, Steven Duncan"
     body {
         background-color: #FAF9f6; */
         color: #235347; /* Green color for text */
-        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-family: Helvetica;
     }
 </style>
 
@@ -22,6 +22,21 @@ This project will specifically look at Africa Hall and the African Union Confere
 
 *Image below*    
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 33%; text-align: center;">
+    <img src="images/AddisGroup_test/download1.png" alt="Description of image 1" style="width: 100%;">
+    <p>1964</p>
+  </div>
+  <div style="width: 33%; text-align: center;">
+    <img src="images/AddisGroup_test/Buildup1990.png" alt="Description of image 2" style="width: 100%;">
+    <p>1990</p>
+  </div>
+  <div style="width: 33%; text-align: center;">
+    <img src="images/AddisGroup_test/Buildup2022.png" alt="Description of image 3" style="width: 100%;">
+    <p>2022</p>
+  </div>
+</div>
+
 
 ![Map of Addis Ababa, 1964, Imperial Ethiopian Mapping & Geography Institute](/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png)  
 
@@ -30,5 +45,4 @@ This project will specifically look at Africa Hall and the African Union Confere
 
 
 
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
  
