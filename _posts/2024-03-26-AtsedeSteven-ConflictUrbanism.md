@@ -66,6 +66,35 @@ These challenges necessitated that we pursue a more flexible approach to data co
 
 
 #### **References** 
+Antonsich, Marco. “Signs of Power: Fascist Urban Iconographies in Ethiopia (1930s–1940s).” GeoJournal, vol. 52, Dec. 2000, pp. 325–38, https://doi.org/10.1023/A:1014397002570.
+
+de Waal, Alex, and Rachel Ibreck. “Alem Bekagn: The African Union’s Accidental Human Rights Memorial.” African Affairs, vol. 112, no. 447, 2013, pp. 191–215. JSTOR, http://www.jstor.org/stable/43817186.
+
+Galli, Jacopo. “Aspirations and Contradictions in Shaping a Cosmopolitan Africa: Arturo Mezzedimi in Imperial Ethiopia.” ABE Journal, no. 9–10, July 2016. DOI.org (Crossref), https://doi.org/10.4000/abe.10930.
+
+Jinollo, Girmachew Tariku, et al. “Spatial Distribution of Urban Land-Use in Addis Ababa, Ethiopia.” Urban, Planning and Transport Research, vol. 12, no. 1, Dec. 2024, p. 2307364. DOI.org (Crossref), https://doi.org/10.1080/21650020.2024.2307364.
+
+Larkin, Brian. “The Politics and Poetics of Infrastructure.” Annual Review of Anthropology, vol. 42, no. 1, Oct. 2013, pp. 327–43. DOI.org (Crossref), https://doi.org/10.1146/annurev-anthro-092412-155522.
+
+Léo Noyer Duplaix. Henri Chomette: Africa as a Terrain of Architectural Freedom. dir. Manuel Herz, Ingrid Schröder et Hans Focketynz. African Modernism: Architecture of Independence, Park Books, p. 271-281, 2015. Ffhalshs-01352037ff.
+
+Levin, Ayala. “Haile Selassie’s Imperial Modernity: Expatriate Architects and the Shaping of Addis Ababa.” Journal of the Society of Architectural Historians, vol. 75, no. 4, 2016, pp. 447–68. JSTOR, https://www.jstor.org/stable/26418940.
+
+Mezzedimi, Arturo. “Testimonies Arturo Mezzedimi: Hailé Selassié: A Testimony for Reappraisal.” Apr. 1992. Archivio Privato Mezzedimi, Mezz Group.
+
+Nyssen, Jan; Debever, Martijn; Gebremeskel, Gezahegne; De Wit, Bart; Hadgu, Kiros Meles; De Vriese, Steven; Verbeurgt, Jeffrey; Mohammed, Sultan; Frankl, Amaury; Besha, Tulu; Kropáček, Jan; Forceville, Astrid; Demissie, Biadgilgn (2020): Aerial photographs of Ethiopia 1935-1941 [dataset]. Department of Geography, Ghent University, PANGAEA, https://doi.org/10.1594/PANGAEA.920077.
+
+Nyssen, J., Petrie, G., Sultan Mohamed, Gezahegne Gebremeskel, Stal, C., Seghers, V., Debever, M., Kiros Meles Hadgu, Billi, P., Mitiku Haile, De Maeyer, Ph., Frankl, A., 2016. Recovery of the historical aerial photographs of Ethiopia in the 1930s. Journal of Cultural Heritage, 17: 170-178.
+
+Tufa, Dandena. “Historical Development of Addis Ababa: Plans and Realities.” Journal of Ethiopian Studies, vol. 41, no. 1/2, 2008, pp. 27–59. JSTOR, http://www.jstor.org/stable/41967609.
+
+Weldegebriel, Amanuel, et al. “Spatial Analysis of Intra-Urban Land Use Dynamics in Sub-Saharan Africa: The Case of Addis Ababa (Ethiopia).” Urban Science, vol. 5, no. 3, Aug. 2021, p. 57. DOI.org (Crossref), https://doi.org/10.3390/urbansci5030057.
+
+Weldegebriel, Amanuel Tadesse, et al. “Socio-Spatial Analysis of Regime Shifts in Addis Ababa’s Urbanisation.” Applied Geography, vol. 154, May 2023, p. 102918. DOI.org (Crossref), https://doi.org/10.1016/j.apgeog.2023.102918.
+
+Zeleke, Elleni Centime. “Addis Ababa as Modernist Ruin.” Callaloo, vol. 33, no. 1, 2010, pp. 117–35. JSTOR, http://www.jstor.org/stable/40732799. Accessed 29 Apr. 2024.
+
+Zeleke, E. Centime. Ethiopia in Theory: Revolution and Knowledge Production, 1964-2016. Brill, 2020.
 
 
 *Image below*    
