@@ -20,7 +20,7 @@ Pride in Ethiopian culture, considered on a collective scale, is a precarious th
 
 Such impositions have made themselves explicitly known through landmarks erected in Addis Ababa in modern and contemporary architectural styles. Nearly all landmarks, whether or not they are functional, share the characteristic of being starkly modern in design or political in purpose. To get around Ethiopia or give directions, one must give a descriptor of the neighborhood, the intersection, and the closest landmark. Thus influencing natives and diaspora to rely on foreign morphologies to define their spatial perception of home. These manifestations of modernity, which can be read as “erasure and reinscription” (Zeleke 2010), work to quiet national anxieties around backwardness and incivility which have brewed since Ethiopia’s brush with colonization. Anxieties which governments have weaponized in the country’s push towards globalization. 
 
-*This research positions, maps, and explores landmarks as personifications of tension between the dual welcome and refusal of foreign influence upon Ethiopian identity.*
+**This research positions, maps, and explores landmarks as personifications of tension between the dual welcome and refusal of foreign influence upon Ethiopian identity.**
 
 #### Why Landmarks?
 
@@ -68,7 +68,7 @@ The design intent of Africa Hall was to impose a European typology with indigeno
 </div>
 
 
-#### The African Union, Mekanisa, and an Ushering in of New Dynamics of Influence*  
+#### The African Union, Mekanisa, and an Ushering in of New Dynamics of Influence 
 <br>
 You can begin to understand the cultural ties residents of Addis Ababa have to the city’s landmarks through the Old Airport or Mekanisa neighborhood. What one calls it may shift depending on your or your family’s relationship to its history, or depending on the day. Old Airport was the site of Addis Ababa’s literal last airport, Lideta (which became the namesake for the micro neighborhood just north of Mekanisa. The former compound of Lideta is the current home of the Ministry of Defense, a state-of-art compound completed in 2022. On-the-ground accounts do not convey the compound as a welcoming place, as tightly guarded as its construction details are, although the Ministry made sure to release a quaintly soundscaped advertisement in which Prime Minister Abiy Ahmed states his hopes for the compound to be a place where families can roam through the gardens.
 
@@ -77,15 +77,15 @@ In Old Airport/Mekanisa sits the People’s Republic of China’s $200 million U
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 50%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/KercheleBeforeDemlishNew.png" alt="Kerchele" style="width: 100%;">
-    <p>*Kerchele in 2004 before demolition, source: Google Earth Pro*</p>
+    <p>Kerchele in 2004 before demolition, source: Google Earth Pro</p>
   </div>
   <div style="width: 50%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AUCCTodayAerialNew.png" alt="AUCC" style="width: 100%;">
-    <p>*The African Union Conference Center today, source: Google Earth Pro *</p>
+    <p>The African Union Conference Center today, source: Google Earth Pro</p>
   </div>
 </div>
 
-***The following map offers an exploratory platform to navigate the sites of the AUCC, Africa Hall, and surrounding landmarks that inform the navigation of Mekanisa and Kazanchis.*** 
+**The following map offers an exploratory platform to navigate the sites of the AUCC, Africa Hall, and surrounding landmarks that inform the navigation of Mekanisa and Kazanchis.** 
 <br>
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
     <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
@@ -109,7 +109,7 @@ function toggleFullscreen() {
 
 <br>
 
-We conducted research on 34 notable landmarks between the two neighborhoods and primary nodes, tracing their contemporary histories, architectural influences, and financing intersections. The clustering of landmarks around and between Africa Hall and the African Union Conference Center loosely follows the pattern of palace-centered axial development that characterized Addis Ababa’s urban growth up until the the fall of the last empire (Tufa 2008). The pattern has been blurred by informal development which upticks in times of conflict, reflective of extreme overcrowding occuring in the Kazanxhis neighborhood today. The intermingling of imposed form and informality have contributed to the prevalence of landmark-named micro-neighborhoods throughout the city.
+We conducted research on 34 notable landmarks between the two neighborhoods and primary nodes, tracing their contemporary histories, architectural influences, and financing intersections. The clustering of landmarks around and between Africa Hall and the African Union Conference Center loosely follows the pattern of palace-centered axial development that characterized Addis Ababa’s urban growth up until the the fall of the last empire (Tufa 2008). The pattern has been blurred by informal development which upticks in times of conflict, reflective of extreme overcrowding occuring in the Kazanchis neighborhood today. The intermingling of imposed form and informality have contributed to the prevalence of landmark-named micro-neighborhoods throughout the city.
 
 To support the platform and color the story of landmark development, on-the-ground experience, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style OF Ethiopian modernism. Though such new modernism can be categorized as confused rather than seamlessly hybridized (Zeleke 2010). It is our hope that the repository (currently private) feeds into ongoing research.  
 
@@ -123,9 +123,9 @@ Though we acknowledge that the picture is not complete, not without bias, and ha
 Throughout the research we questioned the neutrality of archival images and maps of mid-20th century Ethiopia that exist, in majority, through the lens of Italian governmental agencies, Italian expatriates, or American governmental agencies. Thus lacing historical documentation, and holding hostage the historization of growth and progress with colonial biases. Which we, and many Ethiopian nationals engaged in overlapping research, have had no choice but to integrate. These challenges necessitated a flexible and holistic approach to data collection and analysis, and personally implicating ourselves within the work.  
 
 
-#### ***How does one  navigate a city using landmarks when the landmarks themselves are confused?***
+##### ***How does one  navigate a city using landmarks when the landmarks themselves are confused?***
 
-That question remains and keeps this research open to being part of a much larger project. Landmarks offered this research a lens on historical consistencies. Despite stark shifts in regimes and sociopolitical ideologies there has been a reliable focus on the image making of Addis Ababa and the Ethiopian people; so much so that it has overshadowed, and in turn disoriented the attachment one makes to a place. It’s not really about the landmark, about the grandeur of a building, or about the architect. The continuing research is about politicizing the culture of space and how one either grasps onto or reforms identity in the midst of spatial, cultural, and political tumult. As is the environment in Ethiopia today.  
+That question remains and keeps this research open to being part of a much larger project. Landmarks offered this research a lens on historical consistencies. Despite stark shifts in regimes and sociopolitical ideologies there has been a reliable focus on the image making of Addis Ababa and the Ethiopian people; so much so that it has overshadowed, and in turn disoriented the attachment one makes to a place. It’s not entirely about the landmark, about the grandeur of a building, or about the architect. The continuing research is about politicizing the culture of space and how one either grasps onto or reforms identity in the midst of spatial, cultural, and political tumult. As is the environment in Ethiopia today.  
 
 
 Atsede Assayehgen, Steven Duncan,  
