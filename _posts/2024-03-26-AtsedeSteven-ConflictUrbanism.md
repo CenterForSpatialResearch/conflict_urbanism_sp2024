@@ -22,9 +22,16 @@ Such impositions have made themselves explicitly known through landmarks erected
 
 *This research positions, maps, and explores landmarks as personifications of tension between the dual welcome and refusal of foreign influence upon Ethiopian identity.*
 
-#### *Why Landmarks?*
+#### Why Landmarks?
 
-*Build up, constituting land with visible roof coverage, shows incredible architectural and infrastructural growth in Addis Ababa from 1964 (left), to 1990 (center), to 2022 (right)*    
+Landmarks and monuments in Addis Ababa are critical tools to navigate and situate oneself in the city.  Neighborhoods are imprecise, street names change, but landmarks remain. From regime to regime there is hardly a political or social habit of tearing down landmarks, even if dedicated to the bloodiest of dictators. Landmarks are so important in Addis Ababa that they become the defining characteristic of micro neighborhoods that clutter the city and are colloquially favored to bureaucratic neighborhood titles. 
+
+Landmarks are most notably tied to political victories and losses, becoming physical reminders of the nation’s earned right of independence and belief in cultural exceptionalism. Many are also random, manifesting as gas stations, banks, or electric buildings. The defining feature that graduates a landmark from a statue or building to a navigation tool is the depth of contrast the design imparts upon the city’s landscape and residents’ reservoir of collective memory.
+
+This research identifies two primary landmarks of interest - Africa Hall and the African Union Conference Center - as central nodes of understanding and perceiving political and cultural space in Addis Ababa and as catalytic moments of growth for the city.  
+
+
+*(The growth of Addis Ababa has been characterized by axial planning that's succumbed to informal development, the outcome being explosive longitudinal development with latitudinal growth following commmon transit ways. The following images show incredible change in Addis Ababa's build up (land with visible roof coverage) from 1964 (left), to 1990 (center), to 2022 (right)*    
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 33%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png" alt="Description of image 1" style="width: 100%;">
