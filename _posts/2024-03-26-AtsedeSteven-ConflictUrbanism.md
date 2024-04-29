@@ -51,11 +51,11 @@ This research identifies two primary landmarks of interest - Africa Hall and the
 #### Africa Hall and Kazanchis
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AfricaHall1960.png" alt="Africa Hall 1960" style="width: 100%;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AfricaHall1960New.png" alt="Africa Hall 1960" style="width: 100%;">
     <p>1960</p>
   </div>
   <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AddisAbabaToday.jpg" alt="Africa Hall Today" style="width: 100%;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AddisAbabaTodayNew.jpg" alt="Africa Hall Today" style="width: 100%;">
     <p>Today</p>
   </div>
 </div>
@@ -70,12 +70,12 @@ Also in Old Airport/Mekanisa sits the People’s Republic of China’s $200 mill
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/KerchelebeforedemolishingGoogleearthpro.PNG" alt="Kerchele" style="width: 100%;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/KercheleBeforeDemlishNew.png" alt="Kerchele" style="width: 100%;">
     <p>*Kerchele in 2004 before demolition, source: Google Earth Pro*</p>
   </div>
   <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AUCCTodayAerial.png" alt="AUCC" style="width: 100%;">
-    <p>*The African Union Conference Center today, source: *</p>
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AUCCTodayAerialNew.png" alt="AUCC" style="width: 100%;">
+    <p>*The African Union Conference Center today, source: Google Earth Pro *</p>
   </div>
 </div>
 
