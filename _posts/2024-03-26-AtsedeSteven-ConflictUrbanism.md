@@ -16,8 +16,13 @@ author: "Atsede Assayehgen, Steven Duncan"
 
 ![*Grid of various landmarks in Addis Ababa*, Ethiopia](/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollageGrain.png)  
 
-*Pride in Ethiopian culture, considered on a collective scale, is a precarious thing. It’s propped up by the narrative of being the only country in Africa that has never been colonized - a narrative that is factually untrue but socially indispensable. That narrative has been further bolstered by political empires and regimes that have strived to translate colonial definitions of modernity and civilization in native forms, confusing and creating distance between power, people, and the city.  Such goals of modernity and civility can be traced from Le Corbusier’s plan for Addis Ababa in which he drew not from experience but the allure of a tabula rasa for his portfolio and the fascist movement, to Emperor Haile Selassie’s intense desire for respect on the stage of international diplomacy, to Prime Minister Abiy Ahmed’s globalist understanding of prosperity. With each of these examples there is foreign cultural imposition, or material contributions, that sneakily shape the way Ethiopians and diaspora have grown to perceive and navigate their social, political, and built environments.*  
+Pride in Ethiopian culture, considered on a collective scale, is a precarious thing. It’s propped up by the narrative of being the only country in Africa that has never been colonized - a narrative that is factually untrue but socially indispensable. That narrative has been further bolstered by political empires and regimes that have strived to translate colonial definitions of modernity and civilization in native forms, confusing and creating distance between power, people, and the city.  Such goals of modernity and civility can be traced from Le Corbusier’s plan for Addis Ababa in which he drew not from experience but the allure of a tabula rasa for his portfolio and the fascist movement, to Emperor Haile Selassie’s intense desire for respect on the stage of international diplomacy, to Prime Minister Abiy Ahmed’s globalist understanding of prosperity. With each of these examples there is foreign cultural imposition, or material contributions, that sneakily shape the way Ethiopians and diaspora have grown to perceive and navigate their social, political, and built environments.   
 
+Such impositions have made themselves explicitly known through landmarks erected in the city of Addis Ababa in modern and contemporary architectural styles. Nearly all landmarks, whether or not they are functional, share the characteristic of being starkly modern in design or political in purpose. Thus influencing natives and diaspora to rely on foreign morphologies to define their spatial perception of home. These manifestations of modernity, which can be read as “erasure and reinscription” (Zeleke 2010), work to quiet national anxieties around backwardness and incivility which have brewed since Ethiopia’s brush with colonization. Anxieties which governments have weaponized in the country’s push towards globalization. 
+
+*This research positions, maps, and explores landmarks as personifications of tension between the dual welcome and refusal of foreign influence upon Ethiopian identity.*
+
+##### *Why Landmarks?*
 
 *Build up, constituting land with visible roof coverage, shows incredible architectural and infrastructural growth in Addis Ababa from 1964 (left), to 1990 (center), to 2022 (right)*    
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -34,9 +39,6 @@ author: "Atsede Assayehgen, Steven Duncan"
     <p>2022</p>
   </div>
 </div>
-
-
-##### *Why Landmarks?*
 
 
 ##### *Africa Hall*  
