@@ -22,13 +22,13 @@ An aquifer is an underground layer of permeable or “leaky” rock. The mixture
 The Aquifer ies beneath portions of, including Texas, New Mexico, Kansas, Oklahoma, Colorado, Nebraska, Wyoming and South Dakota. The Ogallala has been the source of substantial, large-scale irrigation development, beginning in the 1950s, when affordable technology became available for extracting groundwater and applying it to large fields of cotton, corn, winter wheat, and sorghum.
 
 
-## *Why Kansas?*
+###### *Why Kansas?*
 
 
 Kansans rely on ground water for 85% of their water needs, including municipal, industrial, agricultural, and rural domestic water supplies. In fact, Kansas relies on ground water to supply a higher percentage of its water needs than almost any other state in the U.S. Eastern and western Kansas differ dramatically in their reliance on ground water. In the western two-thirds of the state, where precipitation amounts are usually small, relatively abundant ground-water due to the Ogallala Aquifer provides most of the water. 
 
 
-## *Agriculture in Kansas*
+###### *Agriculture in Kansas*
 
 
 Agriculture has been a significant part of Kansas' economy since it was settled by European Americans in the mid-19th century. The Homestead Act of 1862 encouraged this settlement by offering land for farming. Over the decades, agricultural practices evolved with technological advancements in farming equipment and methods, significantly boosting the state's agricultural output. Agriculture contributes significantly to Kansas's GDP, making water usage a critical economic issue. Agriculture directly contributes billions to Kansas's Gross State Product (GSP). According to the Kansas Department of Agriculture, the agriculture and food sector contributes about **$67.5 billion** annually to the Kansas economy and supports over **247,000 jobs**.
