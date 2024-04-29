@@ -61,25 +61,23 @@ This research identifies two primary landmarks of interest - Africa Hall and the
 </div>
 
 
-#### The African Union, Mekanisa, and an Ushering in of a New Dynamic of Influence*
-
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/KerchelebeforedemolishingGoogleearthpro.PNG" alt="Kerchele" style="width: 100%;">
-    <p>Kerchele before demolishment</p>
-  </div>
-  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AUCCTodayAerial.png" alt="AUCC" style="width: 100%;">
-    <p>AUCC Today</p>
-  </div>
-</div>
+#### The African Union, Mekanisa, and an Ushering in of a New Dynamic of Influence*  
 
 
 You can begin to understand the cultural ties residents of Addis Ababa have to the city’s landmarks through the Old Airport or Mekanisa neighborhood. What one calls it may shift depending on your or your family’s relationship to its history, or depending on the day. Old Airport was the site of Addis Ababa’s literal last airport, Lideta (which became the namesake for the micro neighborhood just north of Mekanisa. The former compound of Lideta is the current home of the Ministry of Defense, a state-of-art compound completed in 2022. On-the-ground accounts do not convey the compound as a welcoming place, as tightly guarded as its construction details are, although the Ministry made sure to release a quaintly soundscaped advertisement in which Prime Minister Abiy Ahmed states his hopes for the compound to be a place where families can roam through the gardens.
 
 Also in Old Airport/Mekanisa sits the People’s Republic of China’s $200 million USD gift to the continent of Africa, the African Union Conference Center (AUCC). The AUCC was constructed in 2012, to promote the image of excellency and modernity for the African Union, whose main objective was once “ridding the continent of vestiges of colonization and apartheid, to promote unity and solidarity amongst African States.” Although, the site’s predecessor, the notoriously inhumane Kerchele prison is attached to stories of political prisoners escaping to the OAU in search of amnesty. Those stories end with the escaped prisoners being ignored and returned so as to not violate the sworn neutrality of African Union members. The decision to construct the newest African Union headquarters on the former grounds of Kerchele is continually criticized by survivors, particularly for the lack of acknowledgement or memorial. A shiny new building whose rounded face reflects the future prosperity of the country through international cooperation feels much more in tune with the country’s freshly opened arms to the free market world.  
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/KerchelebeforedemolishingGoogleearthpro.PNG" alt="Kerchele" style="width: 100%;">
+    <p>*Kerchele in 2004 before demolition, source: Google Earth Pro*</p>
+  </div>
+  <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AUCCTodayAerial.png" alt="AUCC" style="width: 100%;">
+    <p>*The African Union Conference Center today, source: *</p>
+  </div>
+</div>
 
 ***The following map offers an exploratory platform to navigate the sites of the AUCC, Africa Hall, and surrounding landmarks that inform the navigation of Mekanisa and Kazanchis.*** 
 
