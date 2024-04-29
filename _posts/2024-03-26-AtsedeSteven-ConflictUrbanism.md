@@ -38,82 +38,20 @@ This project will specifically look at Africa Hall and the African Union Confere
   </div>
 </div>
 
----
-layout: post
-title: "Your Post Title"
-date: YYYY-MM-DD
----
-
 <div class="carousel">
-  <div class="carousel-images">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png" alt="1964">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup1990.png" alt="1990">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup2022.png.jpg" alt="2022">
-  </div>
-  <button class="prev" onclick="changeSlide(-1)">❮</button>
-  <button class="next" onclick="changeSlide(1)">❯</button>
-</div>
-
-<p id="caption">1964</p>
-
-<style>
-.carousel {
-  position: relative;
-  max-width: 100%;
-  margin: auto;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-}
-
-.carousel-images img {
-  width: 100%;
-  display: none;
-}
-
-button {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background-color: transparent;
-  border: none;
-  font-size: 24px;
-  color: black;
-  padding: 10px;
-}
-
-.prev {
-  left: 10px;
-}
-
-.next {
-  right: 10px;
-}
-</style>
-
-<script>
-let slideIndex = 0;
-showSlides(slideIndex);
-
-function changeSlide(n) {
-  showSlides(slideIndex += n);
-}
-
-function showSlides(n) {
-  let slides = document.querySelectorAll('.carousel-images img');
-  let caption = document.getElementById('caption');
-  if (n >= slides.length) {slideIndex = 0}
-  if (n < 0) {slideIndex = slides.length - 1}
-  for (let i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-  }
-  slides[slideIndex].style.display = "block";
-  // Update caption based on the image alt attribute
-  caption.innerHTML = slides[slideIndex].alt;
-}
-</script>
-
+        <div>
+            <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png" alt="1964">
+            <div class="carousel-caption">1964</div>
+        </div>
+        <div>
+            <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup1990.png" alt="1990">
+            <div class="carousel-caption">Caption for Image 2</div>
+        </div>
+        <div>
+            <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup2022.png" alt="2022">
+            <div class="carousel-caption">Caption for Image 3</div>
+        </div>
+    </div>
 ![Map of Addis Ababa, 1964, Imperial Ethiopian Mapping & Geography Institute](/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png)  
 
 
