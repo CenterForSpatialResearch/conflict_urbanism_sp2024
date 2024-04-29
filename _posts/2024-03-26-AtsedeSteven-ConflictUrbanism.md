@@ -14,19 +14,19 @@ author: "Atsede Assayehgen, Steven Duncan"
     }
 </style>
 
-#### Introduction
+#### **Introduction**
 
-#### Brief History
+#### **Brief History**
 
-#### Why Landmarks? 
+#### **Why Landmarks?** 
 
-#### On Africa Hall
+#### **On Africa Hall**
 
 **On Kazanchis**
 
 **On Arturo Mezzedimi** 
 
-#### On AUCC - Moving into the Present Necolonial Dynamic 
+#### **On AUCC - Moving into the Present Necolonial Dynamic** 
 
 **On Mekanisa**
 
@@ -52,7 +52,7 @@ function toggleFullscreen() {
 }
 </script>
 
-#### Methodology 
+#### **Methodology** 
 
 This project has utilized a wide-ranging intersection of research and data methods. Such methods include first-person research, practice of oral history, analysis of satellite imagery, archival map sourcing and tracing, and georeferencing. The methods have been stitched together to attempt to paint a detailed picture of the cultural, political, and spatial impact of landmarks in Addis Ababa.
 
@@ -61,7 +61,7 @@ Though we acknowledge that the picture we paint is not complete, not without bia
 These challenges necessitated that we pursue a more flexible approach to data collection and analysis, requiring us to triangulate information from multiple sources or to adapt our methods as new data becomes available. Despite these limitations, our methods have already yielded some insights into the urban and cultural evolution of Addis Ababa, reflecting both its colonial past and its modern development trajectories. 
 
 
-#### Looking Ahead 
+#### **Looking Ahead** 
 
 
 #### References 
