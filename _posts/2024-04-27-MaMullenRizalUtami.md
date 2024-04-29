@@ -49,12 +49,13 @@ The Vietnam-Singapore Industrial Parks (VSIP) began in 1996 as a bilateral gover
 </div>  
 <br>
 VSIP is a joint venture project between Becamex Investment and Industrial Development Corporation (Becamex IDC), a Vietnam state-owned enterprise, and Sembcorp Development, a Singaporean land and real estate developer. Becamex IDC provided the land bank for the developments, while Sembcorp Development provided their expertise in green and mixed-use urban planning, global marketing outreach, and the Singapore reputation and branding. The first project was a 500-hectare development in Binh Duong province, an hour outside of Ho Chi Minh City. Since then, there have been a total of 14 VSIP projects throughout the country dedicated to light manufacturing industries and supplementary residential developments. Each project ranges from 150 to 2,045 hectares in size and totals over 11,500 hectares, approximately the size of Queens.
-   
-*System Diagrams: Development partners (top) & Secondary foreign-direct investment/industrial park tenants (bottom)*
 
 ![VietSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramVSIP.jpg) 
 
 ![VietSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramVSIP2.jpg) 
+
+*System Diagrams: Development partners (top) & Secondary foreign-direct investment/industrial park tenants (bottom)*
+
 <br>
 <br>
 #### *2.2/ Laos: Golden Triangle Special Economic Zone (SEZ)*  
@@ -73,13 +74,12 @@ Located on the Laos bank of the Mekong River, this SEZ is strategically located 
 <br>
 The development of this area is central to the opening of casinos, hotels, resorts, and an international airport. The area primarily attracts Chinese tourists and uses Chinese renminbi and Thai baht as the main currencies. This area has been closely associated with illegal industries such as wildlife trade, human trafficking, sex trade, narcotics smuggling, and money laundering that cater to transactions for Chinese, Hong Kong, and Australian clients. This SEZ is part of the government’s “Turning Land Into Capital” policy established in 2006, rooted in the marketization of land for profit and government revenue. Apart from the significant land use change, smallholder landowners who rely on their livelihood through agriculture are evicted from their land as the government reallocates the state land for foreign investors.   
 
-*System Diagrams: Development partners (top) & Secondary foreign-direct investment (bottom)*
 
 ![LaosSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramGoldenTriangle.jpg) 
 
 ![LaosSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramGoldenTriangle2.jpg) 
 
-
+*System Diagrams: Development partners (top) & Secondary foreign-direct investment (bottom)*
 
 #### *2.3/ India: International Tech Park Bangalore*    
 
@@ -98,11 +98,12 @@ International Tech Park Bangalore (ITPB) is a tech park located in Whitefield, B
 <br>
 The park was created as a joint venture between India and Singapore in 1994 to replicate Singapore’s infrastructure. Capitaland Ascendas is the lead partner of the Singapore consortium of ownership, owning 94 percent of the park. Karnataka Industrial Area Development Board (KIADB), a State-led organization responsible for land acquisitions for industrial and infrastructure purposes controls the remaining 6 percent. The project has also attracted Indian companies such as Taj hospitality group.  
 
-*System Diagrams: Development partners (top) & Tech park Industry Partners (bottom)*
-
 ![IndiaSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramBangalore.jpg) 
 
 ![IndiaSD2](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramBangalore2.jpg) 
+
+*System Diagrams: Development partners (top) & Tech park Industry Partners (bottom)*
+
 <br>
 #### *2.4/ Indonesia: Rempang Eco City*  
 
@@ -132,10 +133,11 @@ While the Rempang Eco city project is yet to be built, its immediate surrounds c
 
 
 
-*System Diagram: Development partners*
+
 
 ![IndiaSD1](/conflict_urbanism_sp2024/images/AsiaDev/SystemDiagramRempang.jpg)
 
+*System Diagram: Development partners*
 
 
 #### 3/ Themes of Conflict  
@@ -146,7 +148,7 @@ Along all four of the projects described above, three key themes of conflict eme
 
 Foreign developers, due to the financial resources they bring and the promise of local economic development, wield significant influence on local land use dynamics. Typically, local governments are responsible for land use planning, approving development permits or zoning changes for their jurisdiction. However, in such large-scale urban and industrial developments, foreign developers are given substantial concessions or quasi-governmental authority over large masses of land, getting to make decisions on land use. In situations as such, the interests of foreign developers can be prioritized over local interests because of the promised local economic development these projects claim to bring. These concessions and prioritization can be seen in the blanket approval of master plans for large plots of land, tax incentives, and streamlined approval processes which often come at the expense of local communities’ concerns.
 
-In the VSIP project, the land used for development was mostly used for agricultural purposes before development. The first industrial park, VSIP Binh Duong I, meant over 500ha of agricultural land, alongside livelihoods, homes, and food sources, were lost. Maps of the development over time, as shown above, expose the rapid urban transformation of these sites. This project was also catalytic in driving rapid urbanization and industrialization in surrounding areas, with at least three more industrial parks developed in quick succession in the area alongside new residential development. From the maps above, low-rise housing constructed from less durable materials increased in density and sprawl surrounding the industrial park, suggesting that housing development is unable to match the industrial growth of the region, particularly in areas right outside the jurisdiction of the foreign developer. This highlights the limitations of having developments led by private foreign interests, who are not beholden to local land politics or the welfare of local residents in their pursuit for profit.<br>
+In the **VSIP project**, the land used for development was mostly used for agricultural purposes before development. The first industrial park, VSIP Binh Duong I, meant over 500ha of agricultural land, alongside livelihoods, homes, and food sources, were lost. Maps of the development over time, as shown above, expose the rapid urban transformation of these sites. This project was also catalytic in driving rapid urbanization and industrialization in surrounding areas, with at least three more industrial parks developed in quick succession in the area alongside new residential development. From the maps above, low-rise housing constructed from less durable materials increased in density and sprawl surrounding the industrial park, suggesting that housing development is unable to match the industrial growth of the region, particularly in areas right outside the jurisdiction of the foreign developer. This highlights the limitations of having developments led by private foreign interests, who are not beholden to local land politics or the welfare of local residents in their pursuit for profit.<br>
 <br>
 <div style="text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AsiaDev/India Tech Park Road.jpg" alt="IndiaInfra" width="500">
@@ -156,7 +158,7 @@ In the VSIP project, the land used for development was mostly used for agricultu
     Infrastructure surrounding the booming ITPB tech park in Bangalore have been long neglected by city government (ATP).
 </div>  
 <br>
-Similarly, the ITPB, other tech parks, and the local government in Bangalore have been heavily criticized for failing to contribute quality infrastructure and basic amenities to local residents. Tech parks in the area have compounded existing transportation infrastructure issues, which are exacerbated by rural-to-urban migration and rapid unplanned urban development. Living costs in the area have also increased as a result of the rapid urbanization and tech park developments. Despite their overwhelming support for tech park development in the area, the government has failed to provide local workers and residents with basic infrastructural improvements A “Save Whitefield” protest in 2015 drew 8,000 people protesting against ‘the apathy of the local government authorities’ to the poor state of the infrastructure in the area. Protestors voiced their desire for basic amenities like roads, footpaths, and streetlights. Despite the huge investments in the area to build tech hubs, there is a clear disconnect between local and national interests. In an effort to progress India’s economic development goals and emulate Singapore’s success, basic infrastructure needs are ignored and continue to create discontent among local residents.<br> 
+Similarly, the **ITPB**, other tech parks, and the local government in Bangalore have been heavily criticized for failing to contribute quality infrastructure and basic amenities to local residents. Tech parks in the area have compounded existing transportation infrastructure issues, which are exacerbated by rural-to-urban migration and rapid unplanned urban development. Living costs in the area have also increased as a result of the rapid urbanization and tech park developments. Despite their overwhelming support for tech park development in the area, the government has failed to provide local workers and residents with basic infrastructural improvements A “Save Whitefield” protest in 2015 drew 8,000 people protesting against ‘the apathy of the local government authorities’ to the poor state of the infrastructure in the area. Protestors voiced their desire for basic amenities like roads, footpaths, and streetlights. Despite the huge investments in the area to build tech hubs, there is a clear disconnect between local and national interests. In an effort to progress India’s economic development goals and emulate Singapore’s success, basic infrastructure needs are ignored and continue to create discontent among local residents.<br> 
 <br>
 <div style="text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AsiaDev/Conflict_catharina.gif" alt="Laos GIF" width="500">
@@ -166,7 +168,7 @@ Similarly, the ITPB, other tech parks, and the local government in Bangalore hav
     Land use changes around the Golden Triangle SEZ.
 </div>  
 <br>
-In the Golden Triangle Special Economic Zone,<br>
+The **Golden Triangle SEZ** is part of Laos market-oriented economic reform program started in 1986, which targets private sector growth in order to strengthen the local economy. It is also intended to accelerate socio-economic development at the national level by attracting foreign investment and diversifying the economy that initially relies largely on agriculture. Despite the incentives given to the developer such as generous tax breaks and import/export exemptions, the government has faced challenges of ineffective land use despite the request from the developer for more occupation of the land. There is also a disproportionate benefit between what the developer gained compared to the local community, as evidenced by the developer’s failure to build infrastructures for the local community as agreed upon in the masterplan. Instead, the developer has decided to pursue their own business development agenda by building a $150 million international airport along with a new port on the Mekong River made specifically to improve tourism access to the Golden Triangle casino area. <br>
 <br>
 
 <div style="text-align: center;">
@@ -177,7 +179,7 @@ In the Golden Triangle Special Economic Zone,<br>
     Land use changes in Batam and Rempang Islands.
 </div>  
 <br>
-In Batam and Rempang Islands, Otorita Batam was established in the 1970s with the aim of transforming Batam Island into a prominent economic hub in Asia, rivaling Singapore. Otorita Batam “is a government agency responsible for economic development and management – in the 1970s to transform the island into Asia’s powerful economic hub due to its strategic trade route. At that time, Batam was intended to compete with Singapore.” Presidential decrees in 1973 and 1992 expanded Otorita Batam’s authority to only manage Batam Island, but also the neighboring islands of Rempang and Galang,and granted Land Management Rights on the islands, which has significant implications for local land use dynamics. The local indigenous groups of the islands, including the Indigenous People’s Alliance of Nusantara (AMAN), on the other hand have raised concerns about the impact of granting land rights to Otorita Batam, which ultimately obstructs residents from obtaining regal recognition of the land rights. Furthermore, issues of lack of consultation and consent with local indigenous groups regarding land use decisions have been raised, regardless of several political promises made. Despite the unresolved land tenure issues in Rempang, the Rempang Eco-city Project has been designated a National Strategic Project, indicating continued prioritization of development initiatives over local community concerns.<br>
+In **Batam and Rempang Islands**, Otorita Batam was established in the 1970s with the aim of transforming Batam Island into a prominent economic hub in Asia, rivaling Singapore. Otorita Batam “is a government agency responsible for economic development and management – in the 1970s to transform the island into Asia’s powerful economic hub due to its strategic trade route. At that time, Batam was intended to compete with Singapore.” Presidential decrees in 1973 and 1992 expanded Otorita Batam’s authority to only manage Batam Island, but also the neighboring islands of Rempang and Galang,and granted Land Management Rights on the islands, which has significant implications for local land use dynamics. The local indigenous groups of the islands, including the Indigenous People’s Alliance of Nusantara (AMAN), on the other hand have raised concerns about the impact of granting land rights to Otorita Batam, which ultimately obstructs residents from obtaining regal recognition of the land rights. Furthermore, issues of lack of consultation and consent with local indigenous groups regarding land use decisions have been raised, regardless of several political promises made. Despite the unresolved land tenure issues in Rempang, the Rempang Eco-city Project has been designated a National Strategic Project, indicating continued prioritization of development initiatives over local community concerns.<br>
 <br>
 #### *3.2/ Ecosystems for Displacement & Dispossession*  
 
@@ -204,7 +206,7 @@ Binh Duong, the province where the first **VSIP project** was launched, was ofte
 <br>
 **Bangalore** is currently facing a severe water crisis, as the issue of water scarcity has reached critical levels and residents grapple with conservation measures for their daily needs. While climate change has impacted the region, the city’s government failure to invest in water management is the true culprit of the water crisis. As city officials have focused investments in bolstering the tech ecosystem in Bangalore and the surrounding area in the past decades, water management has not evolved since the 1960s as otherwise healthy aquifers continue to draw dry due to the unmitigated spread of urban wells. In recent months, the tech hubs in Whitefield have received media attention for exacerbating the water crisis. Many technology companies housed in Whitefield require workers to be in office for all of or most of the week, increasing the water needs of the area. Local residents and tech employees have united to rally against in-person work requirements, but the tech companies and local government have both been slow to act up to this point, although it is clear what steps need to be taken to mitigate and solve the crisis.
 
-LAOS
+The development of the special economic zones in the **Bokeo Province** has put vulnerable communities at risk of displacement. As the Lao government exercises its eminent domain, many smallholder farmers' ancestral land plots have been taken away. In the case where the communities refuse to transfer their land use rights, there will be prolonged disputes over the compensation while the developer holding the current rights of use through the contract with the government would continue conducting land clearing and construction of projects as scheduled in their own timeline. Since 2007, the development of the Golden Triangle casino and hotel areas has been aggressively pursued, with a palace-like architecture style and large water feature areas mimicking the staple luxurious casino establishments in other cities worldwide. Meanwhile, the province’s local community poverty rate reached over 44.4%, the second highest in Laos, with minimal infrastructure built in the village areas.
 
 Building the **Rempang Eco-City** in Indonesia, will also involve displacing 7,500 local indigenous groups in Rempang 60 km inland, particularly those that rely on fishing for their livelihoods. The indigenous community has occupied Rempang for over 200 years, but in 2001-2002, the government granted land rights to a private company, leading to conflicting land use claims. Despite living on the island and close to the sea for generations, these community groups do not have legal land ownership and, therefore, have limited say in the use of the land in the current day.
 
