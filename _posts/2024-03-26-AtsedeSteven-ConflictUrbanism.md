@@ -58,7 +58,7 @@ Africa Hall was the monumental structure of Haile Selassie’s dreams; imagined 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 50%; text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/MezzedimiSelassieRasArateKassa1963.jpg" alt="Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa" style="width: 50%;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/MezzedimiSelassieRasArateKassa1963.jpg" alt="Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa" style="width: 100%;">
     <p></p>
   </div>
 *Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa*
