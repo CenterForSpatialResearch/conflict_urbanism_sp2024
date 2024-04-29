@@ -33,7 +33,7 @@ The project touches upon the themes of memory, identity, resilience, and heritag
 Suplemented Data Set
 <div class="iframe-column"><iframe src="https://docs.google.com/spreadsheets/d/1jsyGmqab0Q3TOsVMA511_CZyRcXz-2pEs08YYK2FKBk/edit#gid=0 " style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
-Download the full dataset [here](https://docs.google.com/spreadsheets/d/1jsyGmqab0Q3TOsVMA511_CZyRcXz-2pEs08YYK2FKBk/edit#gid=0).
+Download the full dataset [here](https://docs.google.com/spreadsheets/d/1jsyGmqab0Q3TOsVMA511_CZyRcXz-2pEs08YYK2FKBk/).
  
  
  
