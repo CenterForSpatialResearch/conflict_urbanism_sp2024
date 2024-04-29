@@ -134,7 +134,7 @@ To support the platform and color the story of landmark development, on-the-grou
     <p>Ras Hotel in the 1960s, source: Google Images</p>
   </div>
   <div style="width: 50%; text-align: center;">
-    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasToday.jfif" alt="Ras Hotel in recent years" style="width: 100%;">
+    <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasHotelNew.png" alt="Ras Hotel in recent years" style="width: 100%;">
     <p>Ras Hotel in recent years, source: Google Images</p>
   </div>
 </div>
