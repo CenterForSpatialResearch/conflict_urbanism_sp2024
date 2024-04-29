@@ -10,7 +10,7 @@ author: "Atsede Assayehgen, Steven Duncan"
     body {
         background-color: #FAF9f6; */
         color: #235347; /* Green color for text */
-        font-family: 'Helvetica Neue', helvetica;
+        font-family: 'Helvetica Neue', Helvetica;
     }
 </style>
 
@@ -38,20 +38,6 @@ This project will specifically look at Africa Hall and the African Union Confere
   </div>
 </div>
 
-<div class="carousel">
-        <div>
-            <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png" alt="1964">
-            <div class="carousel-caption">1964</div>
-        </div>
-        <div>
-            <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup1990.png" alt="1990">
-            <div class="carousel-caption">Caption for Image 2</div>
-        </div>
-        <div>
-            <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/Buildup2022.png" alt="2022">
-            <div class="carousel-caption">Caption for Image 3</div>
-        </div>
-    </div>
 
 ![Map of Addis Ababa, 1964, Imperial Ethiopian Mapping & Geography Institute](/conflict_urbanism_sp2024/images/AddisGroup_test/download1.png)  
 
