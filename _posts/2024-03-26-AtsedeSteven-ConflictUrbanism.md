@@ -41,10 +41,12 @@ Pride in Ethiopian culture, considered on a collective scale, is a precarious th
 ##### *Why Landmarks?*
 
 
-##### *Africa Hall*
+##### *Africa Hall*  
+*insert image and caption of Africa Hall in the 60s and in the present*  
 
 
 ##### *Mekanisa, the African Union, and Ushering in of a New Dynamic of Influence*
+*insert Google earth pro image of Kerchele and AUCC*
 
 You can begin to understand the cultural ties residents of Addis Ababa have to the city’s landmarks through the Old Airport or Mekanisa neighborhood. What one calls it may shift depending on your or your family’s relationship to its history, or depending on the day. Old Airport was the site of Addis Ababa’s literal last airport, Lideta (which became the namesake for the micro neighborhood just north of Mekanisa. The former compound of Lideta is the current home of the Ministry of Defense, a state-of-art compound completed in 2022. On-the-ground accounts do not convey the compound as a welcoming place, as tightly guarded as its construction details are, although the Ministry made sure to release a quaintly soundscaped advertisement in which Prime Minister Abiy Ahmed states his hopes for the compound to be a place where families can roam through the gardens.
 
