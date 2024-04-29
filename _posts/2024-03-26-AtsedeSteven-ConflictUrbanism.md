@@ -48,7 +48,7 @@ This research identifies two primary landmarks of interest - Africa Hall and the
 </div>
 
 
-##### *Africa Hall*  
+#### Africa Hall and Kazanchis
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 50%; text-align: center; overflow: hidden; height: 300px;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/AfricaHall1960.png" alt="Africa Hall 1960" style="width: 100%;">
@@ -61,7 +61,7 @@ This research identifies two primary landmarks of interest - Africa Hall and the
 </div>
 
 
-##### *Mekanisa, the African Union, and Ushering in of a New Dynamic of Influence*
+#### The African Union, Mekanisa, and an Ushering in of a New Dynamic of Influence*
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
