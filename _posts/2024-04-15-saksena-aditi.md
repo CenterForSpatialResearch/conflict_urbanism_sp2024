@@ -9,7 +9,7 @@ author: "Aditi Saksena"
 ![Land Usage Breakdown in Kansas](/conflict_urbanism_sp2024/images/AquiferKansas/GoogleEarth2.JPG)
 
 
-#### Introduction
+#### *Introduction*
 
 
 Water scarcity and its management in today’s time has become central to understanding the balance and future of urbanization, rural development and water- particularly in regions heavily reliant on agriculture. The conflict over groundwater in Kansas can be immediately related to the "hydraulic society" thesis (Wittfogel, 1957), where control over water resources is the crux on which power dynamics, social relations, and economic activities revolve. Wittfogel's theory, often referred to as "hydraulic civilization" theory, says that societies developing in arid regions will naturally evolve complex administrative and governance structures to manage water resources effectively. This theory emphasizes the central role of water control in societal development and the potential for conflict over water resources as a fundamental aspect of societal power dynamics. 
@@ -71,7 +71,7 @@ Water wells tapping into the Ogallala Aquifer are for agricultural irrigation, w
 
 
 
-#### **The High Plains Aquifer is depleting at a rate that current practices cannot sustain. The aquifer regains a mere half an inch per year currently. Current predictions state that if the depletion rate remains constant the Aquifer will be completely diminished in the next 50-75 years**
+#### **The High Plains Aquifer is depleting at a rate that current practices cannot sustain. The aquifer regains a mere half an inch per year currently. Current predictions state that if the depletion rate remains constant the Aquifer will be 2/3rd diminished in the next 50-75 years**
 
 
 
@@ -133,7 +133,7 @@ The economic pressure to maximize agricultural yields has led to the intensifica
 
 
 
-*The relationship between water-intensive crops and those most commonly grown highlights the stress on water resources.* 
+#### *The relationship between water-intensive crops and those most commonly grown highlights the stress on water resources.* 
 
 
 
@@ -141,17 +141,14 @@ The economic pressure to maximize agricultural yields has led to the intensifica
 ![cropinfo](/conflict_urbanism_sp2024/images/AquiferKansas/generalcrops.gif)
 
 
+#### *Why Corn?*
+
+
 Corn is a highly profitable crop, especially when market conditions are favorable. Kansas has a large livestock industry, including cattle feeding, which is one of the largest sectors in the state's agricultural economy. Corn is a primary component of livestock feed, particularly for cattle. The proximity of corn fields to feedlots reduces transportation costs and supports the economic efficiency of livestock production. Corn is also used to produce ethanol, a biofuel that has become an important part of the energy sector. Kansas has several ethanol production facilities, and the demand for biofuel has increased the cultivation of corn specifically for this purpose. Federal farm policies, including subsidies and insurance programs, often support corn production, making it a less risky crop for farmers. 
 
 
 
-Corn is a water-intensive crop, especially during its mid-growth stage. It requires significant amounts of water to achieve optimal growth and yields. 
-
-
 ![cropinfo](/conflict_urbanism_sp2024/images/AquiferKansas/cropinfo.png)
-
-
-
 
 
 ![cropinfo](/conflict_urbanism_sp2024/images/AquiferKansas/change.png)
@@ -159,9 +156,16 @@ Corn is a water-intensive crop, especially during its mid-growth stage. It requi
 ![cropinfo](/conflict_urbanism_sp2024/images/AquiferKansas/changeincorn.gif)
 
 
+Corn is a water-intensive crop, especially during its mid-growth stage. It requires significant amounts of water to achieve optimal growth and yields. 
+
+
 ![cropinfo](/conflict_urbanism_sp2024/images/AquiferKansas/corn_waterstress.gif)
 
 
+#### *Conclusion*
+
+
+The challenges facing the Ogallala Aquifer in Kansas, stemming from agricultural demands, urban expansion, and economic development, underscore a critical junction in water resource management. The nexus of agriculture, urbanization, and water conflict reveals a multifaceted dilemma requiring comprehensive and innovative solutions. 
 
 
 #### References
