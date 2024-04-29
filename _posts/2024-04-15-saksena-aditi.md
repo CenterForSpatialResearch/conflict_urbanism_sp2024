@@ -101,7 +101,7 @@ Water depletion is a measure of the fraction of available renewable water consum
 
 
 
-**Depletion is a structural problem embedded in agricultural policies. Groundwater depletion is a policy choice made by federal, state and local officials.**
+#### **Depletion is a structural problem embedded in agricultural policies. Groundwater depletion is a policy choice made by federal, state and local officials.**
 
 
 
@@ -112,16 +112,54 @@ Water depletion is a measure of the fraction of available renewable water consum
 The economic pressure to maximize agricultural yields has led to the intensification of farming practices in Kansas. High-value, water-intensive crops demand significant groundwater withdrawal. Advances in irrigation technology, often driven by private investment, have enabled farmers to extract groundwater more efficiently. While such technologies can lead to more precise water use, they also facilitate the expansion of irrigated acreage and can increase the total volume of water extracted from the aquifer. The economic benefits of expanding irrigation, including increased land values and crop yields, can incentivize over-extraction.
 
 
+
+
+
+
+
+
+
+
+
 ![DepletedGIF](/conflict_urbanism_sp2024/images/AquiferKansas/Newspaper1.png)
 
 
-The relationship between water-intensive crops and those most commonly grown highlights the stress on water resources. Corn is a water-intensive crop, especially during its mid-growth stage. It's widely grown across the United States, including Kansas, and requires significant amounts of water to achieve optimal growth and yields. It is a major crop in Kansas, grown both for grain and as feed for livestock.
+
+
+
+
+
+
+
+
+
+*The relationship between water-intensive crops and those most commonly grown highlights the stress on water resources.* 
+
+
+
+
+![cropinfo](/conflict_urbanism_sp2024/images/AquiferKansas/generalcrops.gif)
+
+
+Corn is a highly profitable crop, especially when market conditions are favorable. Kansas has a large livestock industry, including cattle feeding, which is one of the largest sectors in the state's agricultural economy. Corn is a primary component of livestock feed, particularly for cattle. The proximity of corn fields to feedlots reduces transportation costs and supports the economic efficiency of livestock production. Corn is also used to produce ethanol, a biofuel that has become an important part of the energy sector. Kansas has several ethanol production facilities, and the demand for biofuel has increased the cultivation of corn specifically for this purpose. Federal farm policies, including subsidies and insurance programs, often support corn production, making it a less risky crop for farmers. 
+
+
+
+Corn is a water-intensive crop, especially during its mid-growth stage. It requires significant amounts of water to achieve optimal growth and yields. 
 
 
 ![cropinfo](/conflict_urbanism_sp2024/images/AquiferKansas/cropinfo.png)
 
 
 
+
+
+![cropinfo](/conflict_urbanism_sp2024/images/AquiferKansas/change.png)
+
+![cropinfo](/conflict_urbanism_sp2024/images/AquiferKansas/changeincorn.gif)
+
+
+![cropinfo](/conflict_urbanism_sp2024/images/AquiferKansas/corn_waterstress.gif)
 
 
 
@@ -155,42 +193,3 @@ Bakker, K. (2010). Privatizing water: Governance failure and the world's urban w
 
 Brauman, KA, BD Richter, S Postel, M Malby, M Flörke. (2016) “Water Depletion: An improved metric for incorporating seasonal and dry-year water scarcity into water risk assessments.” Elementa: Science of the Anthropocene. http://doi.org/10.12952/journal.elementa.000083
 
-#### Please use level 4 headings for major section divisions  
-(make sure to put two spaces after the end of the heading)
-
-Write **words in bold** like this.  
-
-Italics are *similar* and are formatted like this.  
-
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
-
-See this is now a new paragraph.  
-
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
-
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
-
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
-
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
-
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
-
-![description of image](/conflict_urbanism_sp2024/images/sample_image.png)
-
-If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
-
-<div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
-
-
-All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
-
-<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
