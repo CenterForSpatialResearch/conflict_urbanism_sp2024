@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2023-03-26
-image: "/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollage.png"
+image: "/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollageSquare.png"
 title:  "Navigating Addis Ababa: Analyzing landmarks as nodes of neocolonial infiltration in the capital of African independence"
 author: "Atsede Assayehgen, Steven Duncan"
 ---
@@ -9,7 +9,7 @@ author: "Atsede Assayehgen, Steven Duncan"
 <style>
     body {
         background-color: #14110F; */
-        text-color: #FAF9f6; /* Off white color for text */
+        color: White; /* Off white color for text */
         font-family: 'Helvetica Neue', Helvetica;
     }
 </style>
