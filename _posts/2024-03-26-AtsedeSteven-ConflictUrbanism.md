@@ -3,7 +3,6 @@ layout: post
 date:   2023-03-26
 image: "/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollageSquareGrain.png"
 title:  "Addis Ababa's Landmarks: Nodes of neocolonial infiltration in the capital of African independence"
-author: "Atsede Assayehgen, Steven Duncan"
 ---
 
 <style>
@@ -57,7 +56,7 @@ Kazanchis, a neighborhood bordering east of Addis Ababa’s three imperial palac
 Africa Hall was the monumental structure of Haile Selassie’s dreams; imagined as soon as it was decided that the OAU headquarters would be in Addis Ababa at a 1955 Cairo meeting. Within the span of 4 years Haile Selassie launched an international design competition to show “people that it is possible to construct grand buildings here too”, stimulate investment, and “make this ‘great village’ a city and a true great capital”. Ultimately, Selassie scrapped the submission ideas in favor of Arturo Mezzedimi’s interpretation. Mezzedimi was an Italian expatriate raised in Eritrea and slowly building a body of work in both countries. Mezzedimi’s charge of Africa Hall was his big break, the launching pad for his appointment as Addis Ababa’s chief architect realizing over 100 buildings and site plans, and it grounded his 23-year working relationship with Haile Selassie. (Mezzedimi 1992).
 
 ![Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa](/conflict_urbanism_sp2024/images/AddisGroup_test/MezzedimiSelassieRasArateKassa1963halftone.png) 
-*Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa*
+###### *Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa*
 <br>  
 
 The design intent of Africa Hall was to mold a European typology with indigenous materials. However, it’s understood that less than 50% of native Ethiopian materials were used due to construction expediting. Regardless, Africa Hall’s inauguration heralded a wave of foriegn modernism; the city becoming augmented by architects from Israel (Zalman Enav), France (Henri Chomette), and the Czech Republic (Kosek Ivo). Altogether forming an architectural landscape that was both transformational and invasive. 51 years later, the negotiation of cultural and political autonomy continued through the construction of the African Union Conference Center (AUCC) in 2012. And so began the chain of monumental landmark precedents - the measure of Ethiopian political achievement being Africa’s largest, tallest, and brightest.
@@ -120,15 +119,15 @@ We conducted research on 34 notable landmarks between the two neighborhoods and 
 
 To support the platform and add color to the story of landmark development, on-the-ground experiencing, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style of Ethiopian modernism. Though such new modernism can be categorized as confused rather than seamlessly hybridized (Zeleke 2010). It is our hope that the repository, which is currently private, feeds into ongoing research.  
 <br>   
-*Examples of urban landmarks existing in the repository, Ras Hotel*
+###### *Examples of urban landmarks existing in the repository: Ras Hotel in its 1960s glory (left) and in recent years (right), source: Pinterest, Google Images*
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 50%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasHotelYearUnknown.jpg" alt="Ras Hotel in the 1960s" style="width: 100%;">
-    <p>Ras Hotel in the 1960s, source: Google Images</p>
+    <p></p>
   </div>
   <div style="width: 50%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasHotelNew.png" alt="Ras Hotel in recent years" style="width: 100%;">
-    <p>Ras Hotel in recent years, source: Google Images</p>
+    <p></p>
   </div>
 </div>
 <br> 
@@ -151,7 +150,7 @@ That question remains and keeps this research open to being part of a much large
 
 Atsede Assayehgen, Steven Duncan,  
 M.S. Urban Planning, Columbia GSAPP
-
+<bk>  
 
 #### References
 Antonsich, Marco. “Signs of Power: Fascist Urban Iconographies in Ethiopia (1930s–1940s).” GeoJournal, vol. 52, Dec. 2000, pp. 325–38, https://doi.org/10.1023/A:1014397002570.
