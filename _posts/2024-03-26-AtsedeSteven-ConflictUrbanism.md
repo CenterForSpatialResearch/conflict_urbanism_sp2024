@@ -29,7 +29,7 @@ Landmarks and monuments in Addis Ababa are critical tools to navigate and situat
 Landmarks are most notably tied to political victories and losses, becoming physical reminders of the nation’s earned right of independence and belief in cultural exceptionalism. Many are also random, manifesting as gas stations, banks, or electric buildings. The defining feature that graduates a landmark from a statue or building to a navigation device is the depth of contrast the design imparts upon the city’s landscape and residents’ reservoir of collective memory.
 
 This research identifies two primary landmarks of interest - Africa Hall and the African Union Conference Center - as central nodes of understanding and perceiving political and cultural space in Addis Ababa and as catalytic moments encouraging non-native urban development.
-
+<bk>  
 ###### *(The growth of Addis Ababa has been characterized by Western adaption to axial planning that's succumbed to informal development, the outcome being explosive longitudinal development with latitudinal growth following commmon transit ways. The following images show incredible change in Addis Ababa's build up (land with visible roof coverage))*    
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 33%; text-align: center;">
@@ -147,7 +147,8 @@ That question remains and keeps this research open to being part of a much large
 
 Atsede Assayehgen, Steven Duncan,  
 M.S. Urban Planning, Columbia GSAPP
-<bk>  
+
+
 #### References
 Antonsich, Marco. “Signs of Power: Fascist Urban Iconographies in Ethiopia (1930s–1940s).” GeoJournal, vol. 52, Dec. 2000, pp. 325–38, https://doi.org/10.1023/A:1014397002570.
 
