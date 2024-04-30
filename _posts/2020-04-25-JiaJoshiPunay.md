@@ -6,6 +6,14 @@ title:  "Dangerous by Design: Assessing Urban Mobility and Traffic Safety along 
 author: "Olivia Jia, Ruju Joshi, & Lance Mikhail Punay"
 ---
 
+<style>
+body {
+    background-color: black;
+    color: white;
+}
+
+</style>
+
 #### **Introduction**   
 
 Ensuring the safety of our streets is a multifaceted endeavor that transcends mere infrastructural and political efforts – it is a complex landscape that weaves social, economic, design, and public health interests together. This case study explores how different modes of transportation interact within the built environment, and how policy and design informs both mobility and safety for these users. This research also highlights how private interests can eclipse public governance and collective needs with devastating effects on the safety and mobility of communities.  
