@@ -148,7 +148,6 @@ That question remains and keeps this research open to being part of a much large
 Atsede Assayehgen, Steven Duncan,  
 M.S. Urban Planning, Columbia GSAPP
 <bk>  
-
 #### References
 Antonsich, Marco. “Signs of Power: Fascist Urban Iconographies in Ethiopia (1930s–1940s).” GeoJournal, vol. 52, Dec. 2000, pp. 325–38, https://doi.org/10.1023/A:1014397002570.
 
