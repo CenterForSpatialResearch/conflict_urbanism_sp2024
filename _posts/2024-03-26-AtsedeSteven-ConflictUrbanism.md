@@ -12,8 +12,9 @@ title:  "Addis Ababa's Landmarks: Nodes of neocolonial infiltration in the capit
         font-family: 'Helvetica Neue', Helvetica;
     }
 </style>
+
 **Atsede Assayehgen, Steven Duncan**
-<bk>  
+
 ![*Grid of various landmarks in Addis Ababa*, Ethiopia](/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollageGrain.png)  
 *Grid of notable landmarks in Addis Ababa*
 <br>  
