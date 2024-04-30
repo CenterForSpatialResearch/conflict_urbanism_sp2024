@@ -14,8 +14,7 @@ title:  "Addis Ababa's Landmarks: Nodes of neocolonial infiltration in the capit
 </style>  
 
 ![*Grid of various landmarks in Addis Ababa*, Ethiopia](/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollageGrain.png)  
-*Grid of notable landmarks in Addis Ababa*
-<br>  
+###### *Grid of notable landmarks in Addis Ababa* 
 
 Pride in Ethiopian culture, considered on a collective scale, is a precarious thing. It’s propped up by the narrative of being the only country in Africa that has never been colonized - a narrative that is factually untrue but socially indispensable. That narrative has been further bolstered by political empires and regimes that have strived to translate colonial definitions of modernity and civilization in native forms, confusing and creating distance between power, people, and the city. Such goals of modernity and civility can be traced from Le Corbusier’s 1936 plan for Addis Ababa in which he drew not from experience but the allure of a *tabula rasa* for his portfolio and the fascist movement, to Emperor Haile Selassie’s intense desire for respect on the stage of international diplomacy, to Prime Minister Abiy Ahmed’s globalist understanding of prosperity. With each of these examples there are foreign cultural impositions or material contributions, that sneakily shape the way Ethiopians and diaspora have grown to perceive and navigate their social, political, and built spaces.   
 
@@ -30,7 +29,6 @@ Landmarks and monuments in Addis Ababa are critical tools to navigate and situat
 Landmarks are most notably tied to political victories and losses, becoming physical reminders of the nation’s earned right of independence and belief in cultural exceptionalism. Many are also random, manifesting as gas stations, banks, or electric buildings. The defining feature that graduates a landmark from a statue or building to a navigation device is the depth of contrast the design imparts upon the city’s landscape and residents’ reservoir of collective memory.
 
 This research identifies two primary landmarks of interest - Africa Hall and the African Union Conference Center - as central nodes of understanding and perceiving political and cultural space in Addis Ababa and as catalytic moments encouraging non-native urban development.
-
 
 ###### *(The growth of Addis Ababa has been characterized by Western adaption to axial planning that's succumbed to informal development, the outcome being explosive longitudinal development with latitudinal growth following commmon transit ways. The following images show incredible change in Addis Ababa's build up (land with visible roof coverage))*    
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -57,7 +55,6 @@ Africa Hall was the monumental structure of Haile Selassie’s dreams; imagined 
 
 ![Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa](/conflict_urbanism_sp2024/images/AddisGroup_test/MezzedimiSelassieRasArateKassa1963halftone.png) 
 ###### *Arturo Mezzedimi showing Emperor Haile Selassie the construction of Africa Hall, alongside former Viceroy to Eritrea Aserate Kassa*
-<br>  
 
 The design intent of Africa Hall was to mold a European typology with indigenous materials. However, it’s understood that less than 50% of native Ethiopian materials were used due to construction expediting. Regardless, Africa Hall’s inauguration heralded a wave of foriegn modernism; the city becoming augmented by architects from Israel (Zalman Enav), France (Henri Chomette), and the Czech Republic (Kosek Ivo). Altogether forming an architectural landscape that was both transformational and invasive. 51 years later, the negotiation of cultural and political autonomy continued through the construction of the African Union Conference Center (AUCC) in 2012. And so began the chain of monumental landmark precedents - the measure of Ethiopian political achievement being Africa’s largest, tallest, and brightest.
 
@@ -91,7 +88,7 @@ In Old Airport sits the People’s Republic of China’s $200 million USD gift t
 </div>
 <br>  
 
-**The following map offers an exploratory platform to navigate the sites of the AUCC, Africa Hall, and surrounding landmarks that inform the navigation of Old Airport and Kazanchis.** 
+***The following map offers an exploratory platform to navigate the sites of the AUCC, Africa Hall, and surrounding landmarks that inform the navigation of Old Airport and Kazanchis.***
 <br>
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
     <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
@@ -119,7 +116,7 @@ We conducted research on 34 notable landmarks between the two neighborhoods and 
 
 To support the platform and add color to the story of landmark development, on-the-ground experiencing, and care we developed an image repository. The repository includes additional landmarks constructed along modernist design principles and those that emerged from the so-called new style of Ethiopian modernism. Though such new modernism can be categorized as confused rather than seamlessly hybridized (Zeleke 2010). It is our hope that the repository, which is currently private, feeds into ongoing research.  
 <br>   
-###### *Examples of urban landmarks existing in the repository: Ras Hotel in its 1960s glory (left) and in recent years (right), source: Pinterest, Google Images*
+###### *Examples of urban landmarks existing in the repository: Ras Hotel in its 1960s glory (left), and in recent years (right),         source: Pinterest, Google Images*
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 50%; text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AddisGroup_test/RasHotelYearUnknown.jpg" alt="Ras Hotel in the 1960s" style="width: 100%;">
