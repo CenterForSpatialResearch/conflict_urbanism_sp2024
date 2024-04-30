@@ -6,14 +6,6 @@ title:  "Dangerous by Design: Assessing Urban Mobility and Traffic Safety along 
 author: "Olivia Jia, Ruju Joshi, & Lance Mikhail Punay"
 ---
 
-<style>
-body {
-    background-color: black;
-    color: white;
-}
-
-</style>
-
 #### **Introduction**   
 
 Ensuring the safety of our streets is a multifaceted endeavor that transcends mere infrastructural and political efforts – it is a complex landscape that weaves social, economic, design, and public health interests together. This case study explores how different modes of transportation interact within the built environment, and how policy and design informs both mobility and safety for these users. This research also highlights how private interests can eclipse public governance and collective needs with devastating effects on the safety and mobility of communities.  
@@ -22,7 +14,7 @@ Our work focuses on the Greenpoint neighborhood in Brooklyn, at  intersections a
 
 *McGuinness Boulevard Vision Zero Improvements Map*
 ![Vision Zero](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_VisionZeroMap.png)
-Source: Authors' Own  
+*Source: Authors' Own*  
 
 This project was conducted in collaboration with the Legal Aid Society and students at Fordham Law School. Through this multidisciplinary research, we have supported advocacy for sentence mitigation for Legal Aid Society clients through innovative methods, including the production of visual data narratives to enhance Legal Aid Society’s video mitigation projects. These video mitigation efforts aim for various judicial outcomes, including reduced sentences, case dismissals for justice, and advocating for release on recognizance rather than bail. 
 
@@ -51,13 +43,13 @@ Since its implementation in 2014, Vision Zero has aimed to eliminate traffic fat
 
 *McGuinness Boulevard Collisions Resulting in Injured Persons from 2019 to 2024 Map*
 ![Collisions](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_CollisionMap.png)
-Source: Authors' Own  
+*Source: Authors' Own*  
 
 This approach gains particular relevance in the focal intersection of Meeker Avenue and McGuinness Boulevard—an area historically neglected regarding safety enhancements despite being recognized as one of the borough's most dangerous. A proposed redesign of McGuinness Boulevard, which included protected bike lanes aimed at improving safety for micro-mobility users, was initially supported but ultimately abandoned due to opposition from private interests and Mayor Eric Adams' aide, Ingrid Lewis-Martin. This decision, which contradicted previous approvals and grassroots advocacy for the redesign, has drawn criticism and raised concerns about the commitment to future safety improvements in the area.  
 
 *News Coverage*
 ![News Coverage](/conflict_urbanism_sp2024/images/LAS_Batista/JiaJoshiPunay_NewsCoverCoverage.png)
-Sources:  [CBS News](https://www.cbsnews.com/newyork/news/the-latest-on-the-mcguinness-boulevard-redesign-proposal/), [Curbed](https://www.curbed.com/2023/10/mcguinness-boulevard-compromise-bike-lane.html), [Gothamist](https://gothamist.com/news/nyc-has-new-plan-for-mcguinness-boulevard-in-brooklyn-after-months-of-controversy), [Greenpointers](https://greenpointers.com/2023/05/08/big-changes-are-coming-to-mcguinness-boulevard-with-a-full-road-diet/), [Greenpointers](https://greenpointers.com/2023/10/02/dot-starts-work-on-mcguinness-boulevard-bike-lanes/), [Spectrum News](https://ny1.com/nyc/all-boroughs/news/2023/08/17/dot-moves-forward-with-scaled-down-redesign-of-mcguiness-boulevard), [Streetsblog NYC](https://nyc.streetsblog.org/2023/07/05/mayor-yields-to-opposition-orders-alternatives-to-dot-plan-for-deadly-mcguinness-blvd), [The City](https://www.thecity.nyc/2023/07/06/argento-eric-adams-mcguinness-redesign/)  
+Sources:  *[CBS News](https://www.cbsnews.com/newyork/news/the-latest-on-the-mcguinness-boulevard-redesign-proposal/), [Curbed](https://www.curbed.com/2023/10/mcguinness-boulevard-compromise-bike-lane.html), [Gothamist](https://gothamist.com/news/nyc-has-new-plan-for-mcguinness-boulevard-in-brooklyn-after-months-of-controversy), [Greenpointers](https://greenpointers.com/2023/05/08/big-changes-are-coming-to-mcguinness-boulevard-with-a-full-road-diet/), [Greenpointers](https://greenpointers.com/2023/10/02/dot-starts-work-on-mcguinness-boulevard-bike-lanes/), [Spectrum News](https://ny1.com/nyc/all-boroughs/news/2023/08/17/dot-moves-forward-with-scaled-down-redesign-of-mcguiness-boulevard), [Streetsblog NYC](https://nyc.streetsblog.org/2023/07/05/mayor-yields-to-opposition-orders-alternatives-to-dot-plan-for-deadly-mcguinness-blvd), [The City](https://www.thecity.nyc/2023/07/06/argento-eric-adams-mcguinness-redesign/)*  
 
 In examining these dynamics, our research aims to illuminate how existing street conditions and systemic failures in implementing safety measures exacerbate circumstances on the road. This thematic exploration underscores the need for a holistic approach to road safety that transcends individual blame and focuses on systemic changes to prevent such tragedies. This approach is not just a theoretical proposition but a practical necessity, as outlined in the cited works and the ongoing debates around Vision Zero's implementation and challenges.  
 
@@ -81,7 +73,7 @@ The focal point of this case is a hazardous intersection of Meeker Avenue and Mc
 
 *Video*
 <iframe src="https://player.vimeo.com/video/940412475?h=b077767e37&title=0&byline=0&portrait=0" width="640" height="359" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-Source: Authors' Own  
+*Source: Authors' Own*  
   
 
 #### **Takeaways**  
