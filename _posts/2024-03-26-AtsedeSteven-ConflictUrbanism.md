@@ -3,6 +3,7 @@ layout: post
 date:   2023-03-26
 image: "/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollageSquareGrain.png"
 title:  "Addis Ababa's Landmarks: Nodes of neocolonial infiltration in the capital of African independence"
+author: "Atsede Assayehgen, Steven Duncan"
 ---
 
 <style>
@@ -11,9 +12,7 @@ title:  "Addis Ababa's Landmarks: Nodes of neocolonial infiltration in the capit
         color: #F2F2F2; /* Off white color for text */
         font-family: 'Helvetica Neue', Helvetica;
     }
-</style>
-
-##### Atsede Assayehgen, Steven Duncan
+</style>  
 
 ![*Grid of various landmarks in Addis Ababa*, Ethiopia](/conflict_urbanism_sp2024/images/AddisGroup_test/AddisLandmarkCollageGrain.png)  
 *Grid of notable landmarks in Addis Ababa*
