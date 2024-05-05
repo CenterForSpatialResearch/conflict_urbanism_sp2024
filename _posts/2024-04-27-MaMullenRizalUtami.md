@@ -11,7 +11,6 @@ body {
     color: white;
     font-family: 'Courier Prime', monospace;
     font-size: 14px;
-    text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
