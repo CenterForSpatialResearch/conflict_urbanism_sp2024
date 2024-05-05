@@ -302,10 +302,14 @@ In the case of the Rempang Eco-city, while the project is touted to be a sustain
 <br>
 <br>
 <br>
+Conflict Urbanism 2024- *Student projects from the Spring 2024 Conflict Urbanism seminar.*<br>
+<br>
+Please contact Laura Kurgan with any questions or requests.
+ljk33@columbia.edu
 <br>
 <br>
-<hr>
-
+<br>
+<br>
 **Sources**
 
 “Anti-China demonstrators shouted slogans during a rally in Ho Chi Minh City,” Getty Images, May 2014, 
@@ -374,11 +378,3 @@ Sidiq, A. (2023, November 22). China in land rights battle for Rempang Island: T
 https://www.bbc.com/mundo/noticias/2014/05/140514_asia_china_vietnam_ataques_nc 
 
 Webmaster. (2024, March 1). Rempang Eco-City Development: Nearly 70 Percent Completion in Model Home Construction. BNA - Breaking News in Batam and beyond: Batam News Asia. https://batamnewsasia.com/2024/03/01/rempang-eco-city-development-nearly-70-percent-completion-in-model-home-construction/
-<br>
-<br>
-<br>
-<br>
-Conflict Urbanism 2024- *Student projects from the Spring 2024 Conflict Urbanism seminar.*<br>
-<br>
-Please contact Laura Kurgan with any questions or requests.
-ljk33@columbia.edu
