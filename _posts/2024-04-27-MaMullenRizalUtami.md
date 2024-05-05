@@ -71,7 +71,6 @@ VSIP is a joint venture project between Becamex Investment and Industrial Develo
 <br>
 Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease agreement with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of duty-free zone, called the Golden Triangle SEZ. The development aims to attract foreign direct investment and boost economic growth in the region.<br>
 <br>
-<br>
 <div style="text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png" alt="IndiaInfra">
 </div> 
@@ -117,7 +116,6 @@ The Rempang Eco City project is a joint project between the Batam Indonesia Free
 <div style="text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic1.png" alt="VSIP Static">
 </div> 
-<br>
 <div style="text-align: center;">
     Development on Batam Island highlights Rempang Island's likely future.
 </div>  
