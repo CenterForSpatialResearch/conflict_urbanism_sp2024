@@ -68,7 +68,9 @@ VSIP is a joint venture project between Becamex Investment and Industrial Develo
 
 ![LaosMap](/conflict_urbanism_sp2024/images/AsiaDev/GoldenTriangle.png)
 <br>
-Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease agreement with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of duty-free zone, called the Golden Triangle SEZ. The development aims to attract foreign direct investment and boost economic growth in the region.
+<br>
+Located on the Laos bank of the Mekong River, this SEZ is strategically located at the intersection of Thailand, Myanmar, and Laos. The Laos Government signed an agreement of 99 years lease agreement with Hong Kong-registered Kings Romans Group in 2007 to develop a 10,000-hectare area in Ton Pheung, Bokeo Province – 3,000 hectares of duty-free zone, called the Golden Triangle SEZ. The development aims to attract foreign direct investment and boost economic growth in the region.<br>
+<br>
 <br>
 <div style="text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AsiaDev/LaosStatic.png" alt="IndiaInfra">
@@ -78,7 +80,7 @@ Located on the Laos bank of the Mekong River, this SEZ is strategically located 
     Development in the Golden Triangle SEZ.
 </div>  
 <br>
-The development of this area is central to the opening of casinos, hotels, resorts, and an international airport. The area primarily attracts Chinese tourists and uses Chinese renminbi and Thai baht as the main currencies. This area has been closely associated with illegal industries such as wildlife trade, human trafficking, sex trade, narcotics smuggling, and money laundering that cater to transactions for Chinese, Hong Kong, and Australian clients. This SEZ is part of the government’s “Turning Land Into Capital” policy established in 2006 (Kuaycharoen, et al, 2020), rooted in the marketization of land for profit and government revenue. Apart from the significant land use change, smallholder landowners who rely on their livelihood through agriculture are evicted from their land as the government reallocates the state land for foreign investors.   
+The development of this area is central to the opening of casinos, hotels, resorts, and an international airport. The area primarily attracts Chinese tourists and uses Chinese renminbi and Thai baht as the main currencies. This area has been closely associated with illegal industries such as wildlife trade, human trafficking, sex trade, narcotics smuggling, and money laundering that cater to transactions for Chinese, Hong Kong, and Australian clients. This SEZ is part of the government’s “Turning Land Into Capital” policy established in 2006 (Kuaycharoen, et al, 2020), rooted in the marketization of land for profit and government revenue. Apart from the significant land use change, smallholder landowners who rely on their livelihood through agriculture are evicted from their land as the government reallocates the state land for foreign investors.<br>   
 <br>
 *System Diagram: Development partners  & Secondary foreign-direct investment partners*
 
@@ -89,7 +91,7 @@ The development of this area is central to the opening of casinos, hotels, resor
 ![IndiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Bangalore1.png)
 
 
-International Tech Park Bangalore (ITPB) is a tech park located in Whitefield, Bangalore, 18 km from the city center. According to a 2023 valuation, the development is valued at $610,539,832 USD (Capitaland). The park comprises a total 29 hectares of office space, retail mall, hotel, and amenities such as banks, restaurants, and sporting arenas. Built in 1994, ITPB served as the first large-scale example of the ‘work-live-play’ environment in India and is used as a model for IT park projects in Bangalore, which is often touted as ‘India’s Silicon Valley’. There are currently over a dozen tech parks in Bangalore housing over 67,000 companies.
+International Tech Park Bangalore (ITPB) is a tech park located in Whitefield, Bangalore, 18 km from the city center. According to a 2023 valuation, the development is valued at $610,539,832 USD (Capitaland). The park comprises a total 29 hectares of office space, retail mall, hotel, and amenities such as banks, restaurants, and sporting arenas. Built in 1994, ITPB served as the first large-scale example of the ‘work-live-play’ environment in India and is used as a model for IT park projects in Bangalore, which is often touted as ‘India’s Silicon Valley’. There are currently over a dozen tech parks in Bangalore housing over 67,000 companies.<br>
 <br>
 <div style="text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AsiaDev/IndiaStatic.png" alt="VSIP Static">
@@ -110,7 +112,7 @@ The park was created as a joint venture between India and Singapore in 1994 to r
 
 ![IndonesiaMap](/conflict_urbanism_sp2024/images/AsiaDev/Rempang1.png)
 
-The Rempang Eco City project is a joint project between the Batam Indonesia Free Zone Authority (BP Batam), local Indonesian company PT Makmur Elok Graha (MEG), and China’s Xinyi Glass, the world’s largest producer of glass and solar panels (Llewellyn, 2023). BP Batam is a central government institution responsible for managing, developing, and constructing free trade zones and free ports in Batam, Indonesia (BP Batam, 2024). 
+The Rempang Eco City project is a joint project between the Batam Indonesia Free Zone Authority (BP Batam), local Indonesian company PT Makmur Elok Graha (MEG), and China’s Xinyi Glass, the world’s largest producer of glass and solar panels (Llewellyn, 2023). BP Batam is a central government institution responsible for managing, developing, and constructing free trade zones and free ports in Batam, Indonesia (BP Batam, 2024).<br> 
 <br>
 <div style="text-align: center;">
     <img src="/conflict_urbanism_sp2024/images/AsiaDev/RempangStatic1.png" alt="VSIP Static">
@@ -120,7 +122,7 @@ The Rempang Eco City project is a joint project between the Batam Indonesia Free
     Development on Batam Island highlights Rempang Island's likely future.
 </div>  
 <br>
-Located on Rempang Island, the project site is close to Malaysia and Singapore and encircled by several smaller local Indonesian islands. The project is not yet built and is anticipated to cover around 42,000 acres (17,000 hectares) of land, with the development of industrial, service, and tourism areas being built on Rempang Island (Clark, 2023). The project, titled “Rempang Eco-City,” is claimed to include several sustainability elements, such as green infrastructure, renewable energy, eco-friendly building design, recycling infrastructure, and sustainable transportation options. It is also advertised to hold immense potential for economic development and local job creation, utilizing the locally available quartz sand resources, an important resource in the production of glass and solar panels (Herwinda, 2023).
+Located on Rempang Island, the project site is close to Malaysia and Singapore and encircled by several smaller local Indonesian islands. The project is not yet built and is anticipated to cover around 42,000 acres (17,000 hectares) of land, with the development of industrial, service, and tourism areas being built on Rempang Island (Clark, 2023). The project, titled “Rempang Eco-City,” is claimed to include several sustainability elements, such as green infrastructure, renewable energy, eco-friendly building design, recycling infrastructure, and sustainable transportation options. It is also advertised to hold immense potential for economic development and local job creation, utilizing the locally available quartz sand resources, an important resource in the production of glass and solar panels (Herwinda, 2023).<br>
 <br>
 
 <div style="text-align: center;">
@@ -379,7 +381,7 @@ Webmaster. (2024, March 1). Rempang Eco-City Development: Nearly 70 Percent Comp
 <br>
 <br>
 <br>
-Conflict Urbanism 2024- *Student projects from the Spring 2024 Conflict Urbanism seminar.<br>
+Conflict Urbanism 2024- *Student projects from the Spring 2024 Conflict Urbanism seminar.*<br>
 <br>
 Please contact Laura Kurgan with any questions or requests.
 ljk33@columbia.edu
