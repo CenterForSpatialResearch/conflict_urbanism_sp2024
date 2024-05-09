@@ -2,7 +2,7 @@
 layout: post
 date:   2024-04-28
 image: "/conflict_urbanism_sp2024/images/LAS_KIM/Main_Image.jpg"
-title:  "Geonarratives for Video Mitigation: Contextualizing the Relationship Between Immigration, Cultural Norms, and Domestic Violence"
+title:  "Geonarratives for Video Mitigation: Contextualizing Immigration, Cultural Norms, and Domestic Violence"
 author: "Jane Cole, Bryce Emerson, Serena Stedeford"
 ---
 
@@ -29,14 +29,14 @@ Because our work centers around a legal case, the data and information provided 
 Because the client, for this case, has limited English proficiency, it is relevant to explore language ecology and forms of language injustice prevalent throughout New York City; it is also essential to discuss the story of place, the client’s migration history, why they moved to the US, and how traditional patriarchal culture in the client’s home country of South Korea negatively impacted the their ability to ask for and receive help in an abusive situation.  
 
 ![Client was subject to traditional South Korean social norms surrounding patriarchal gender roles, anti-feminism, and domestic violence in marriage](/conflict_urbanism_sp2024/images/LAS_KIM/South_Korean_Protest.png)  
-*Client was subject to traditional South Korean social norms surrounding patriarchal gender roles, anti-feminism, and domestic violence in marriage*
+*Client was subject to traditional South Korean social norms surrounding patriarchal gender roles, anti-feminism, and domestic violence in marriage* | *Source: Authors Jane Cole, Bryce Emerson, Serena Stedeford*  
 
 It is also important to note that there is significant concern for the public’s faith in the criminal justice system if there is punishment and imprisonment for a victim of domestic abuse.  
 
 Another critical aspect is that the client is a senior, and the impact incarceration has on the elderly inevitably adds to their trauma and stressful life events pre-dating their prison experience. The lack of research as to their potential threat to the community at their age, as well as the negative impacts that mass incarceration has on their lives, is understudied. Older prisoners are at a higher risk of dying in prison, which impacts their health and potential injury than those who are younger (Maschi et al. 2011, 676). Thus, there needs to be an eradication of older adults being imprisoned.  
 
 ![33.3% of households in the neighborhood of Flushing are also limited English-speaking](/conflict_urbanism_sp2024/images/LAS_KIM/Limited_English_Speaking_.png)  
-*33.3% of households in the neighborhood of Flushing are also limited English-speaking*
+*33.3% of households in the neighborhood of Flushing are also limited English-speaking* | *Source: Authors Jane Cole, Bryce Emerson, Serena Stedeford*  
 
 We hope that by publishing this work, we will contribute to and aid more extensive conversations about the plausibility of restorative justice and prison abolition.    
 
@@ -45,22 +45,22 @@ We hope that by publishing this work, we will contribute to and aid more extensi
 The central focus of this case is how domestic violence and available service providers need to be readily available to those who require aid all around the world, and in our case, specifically within New York City. The lack of available resources with an array of language service offerings is abysmal and tragic, pushing many people to feel isolated and stay in their situations, and how immigration struggles can exasperate domestic violence and abuse and can occur within immigrant families. In our case, within Korean partnerships, there is an emphasis on staying together and maintaining a family home that remains prevalent within Korean immigrant families due to their societal and cultural norms, which further problematizes seeking help and safety due to the lack of available language resources.    
 
 ![The area surrounding the client's home is particularly densely populated with Korean immigrants.](/conflict_urbanism_sp2024/images/LAS_KIM/Korean_Immigrant_.png)  
-*The area surrounding the client's home is particularly densely populated with Korean immigrants.*
+*The area surrounding the client's home is particularly densely populated with Korean immigrants.* | *Source: Authors Jane Cole, Bryce Emerson, Serena Stedeford*  
 
 While the person accused lived in South Korea for almost fifty years, they moved to New York City in the early 2000s, when there was a massive influx of Korean immigrants prior to and during this time (Lee et al. 2008). Before their move, they were seeped into Korean culture, one that promotes patriarchal gender norms, encouraging and producing subservient wives to their husbands, and maintaining the patrilineal family system (Rhee 1997, 70). It is imperative to understand the rights that women had in South Korea, noting that the Ministry of Gender Equality and Family “was established in 2001 to provide resources for girls suffering from sexual and domestic violence and ensure policies do not discriminate based on gender” (Ahn 2022). This means that for the majority of the client’s life while in Korea, almost forty-eight years, there was no protection for women in abusive marriages, and also, even when some victims reported their situation, they were often sent home, convinced to return to their abuser. Today, the Ministry of Gender Equality and Family is under seizure and attack in hopes of the eradication of the ministry, instigating many feminist movement protests to erupt in South Korea. So, while they made steps forward through the implementation of this ministry and its assistance to women, they are currently attempting to roll back the policy and return to their “traditional” attitudes toward women (Rhee 1997, 69).  
 
 ![Research shows that predominantly Korean immigrant communities in the U.S., like Murray Hill-Broadway Flushing, tend to retain and perpetuate Korean social norms and values, particularly with regard to patriarchal gender roles, a women's subservience to her husband, and a culture of stigma, shame, and silence surrounding matters of domestic abuse](/conflict_urbanism_sp2024/images/LAS_KIM/Neighborhood_Immigrant.png)  
-*Research shows that predominantly Korean immigrant communities in the U.S., like Murray Hill-Broadway Flushing, tend to retain and perpetuate Korean social norms and values, particularly with regard to patriarchal gender roles, a women's subservience to her husband, and a culture of stigma, shame, and silence surrounding matters of domestic abuse*
+*Research shows that predominantly Korean immigrant communities in the U.S., like Murray Hill-Broadway Flushing, tend to retain and perpetuate Korean social norms and values, particularly with regard to patriarchal gender roles, a women's subservience to her husband, and a culture of stigma, shame, and silence surrounding matters of domestic abuse* | *Source: Authors Jane Cole, Bryce Emerson, Serena Stedeford*  
 
 One study found that after migrating to the United States, “there is no indication that Korean husbands have changed their traditional beliefs of rigid marital roles,” meaning that the Korean immigrant men have held firm to their core values of the family (Rhee 1997, 67). In a questionnaire provided to Korean immigrants in Los Angeles, the immigrants reveal that they are still attached to their culture, finding that 91.6% of females believe in the importance of familial commitment, with 78.5% of men continuing the traditionalist views on gender and gender roles (Junaid). Due to the adherence to societal norms, “research findings indicate that wife abuse is much more prevalent among the immigrant Korean population in comparison to other ethnic groups” (Rhee 1997, 63). The impact of their cultural background, including the emphasis on patriarchy and family harmony, the lack of language access, and economic hardship that pairs with social discrimination of immigrants, leaves an opening for physical abuse to occur and continue without any ramifications, assistance, or help (Anderson 2014). In interviews with Korean immigrant women in Los Angeles, 60% reported being battered during the entire marriage period. This is compared to 12% of American women who reported battery in their marriage, an astounding difference in experience (Rhee 1997, 68).  
 
 ![Mapping the available women's resources in Queens, showing the sparcity of accessible resources within the borough of Queens in comparison to Manhattan or Brooklyn](/conflict_urbanism_sp2024/images/LAS_KIM/Queens_Overall_Resource.png)  
-*Mapping the available women's resources in Queens, showing the sparcity of accessible resources within the borough of Queens in comparison to Manhattan or Brooklyn*
+*Mapping the available women's resources in Queens, showing the sparcity of accessible resources within the borough of Queens in comparison to Manhattan or Brooklyn* | *Source: Authors Jane Cole, Bryce Emerson, Serena Stedeford*  
 
 Our research and mapping found that even though these statistics are jarring and evident, access to resources is still limited, even in New York City. Queens, specifically Flushing, comprises many Asian-born immigrants, with large populations of Korean-born immigrants, specifically in Flushing, Queens, where the client and her husband reside. There are a few resources available in the client’s neighborhood that employ Korean-speaking staff, but the impacts of domestic violence and battery result in shame, embarrassment, fear, depression, a damaged sense of self, and helplessness, meaning that even when resources are accessible, victims may resist seeking help (Rhee 1997,74). Youn Mi Lee mentions in the text “Theoretical Perspectives for Understanding Marital Abuse among Korean Immigrant Women in the United States” further that “Korean immigrant women who experience abuse are likely to be physically, psychologically, and socially vulnerable because of language barriers, isolation from their family of origin, and unfamiliarity with a new country” (Lee 2010, 3). This proves the importance of language justice and access to resources conducive to their native language so they can share their experiences and ask for help. In the text “Global Language Justice Inside the Donut,” Suzanne Romaine, the author, writes, “Information in languages and formats people can understand can help save lives in a crisis, but language is usually not seen as a priority in emergency responses. Misinformation, mistrust, fear, and panic spread quickly, leading people to hide… secretly” (Romaine 2023, 77). This massive inequality occurs in New York City and around the world. The importance of language justice can save people’s lives and in our case and research, can allow for a safe place for someone to be seen, heard, assisted, and potentially saved from their abusive and violent situations rather than further reinforcing the feeling of isolation, mistrust, and fear.  
 
 ![Walkability Map](/conflict_urbanism_sp2024/images/LAS_KIM/Walkability.png)  
-*While there are three social services located within the neighborhood of Flushing, Queens, only one offers domestic violence assistance and they are not walkable from her home. This further creates a diversion from obtaining help in her situation.*
+*While there are three social services located within the neighborhood of Flushing, Queens, only one offers domestic violence assistance and they are not walkable from her home. This further creates a diversion from obtaining help in her situation.* | *Source: Authors Jane Cole, Bryce Emerson, Serena Stedeford*  
 
 #### Takeaways  
 
@@ -79,7 +79,7 @@ Our research and mapping found that even though these statistics are jarring and
 - **Cultural Awareness/Relativism:** Cultural and social values affect people’s ability to see a future outside of their traumatic and painful experiences, especially in predominantly Korean immigrant communities, where harmful gender norms are deeply entrenched and reinforced.   
 
 <iframe src="https://player.vimeo.com/video/940587818?h=99a110765b" width="640" height="424" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>  
-*Video*
+*Video* | *Source: Authors Jane Cole, Bryce Emerson, Serena Stedeford*  
 
 #### Bibliography  
 
