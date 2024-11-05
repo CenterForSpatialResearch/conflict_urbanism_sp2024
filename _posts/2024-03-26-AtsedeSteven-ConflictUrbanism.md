@@ -91,7 +91,7 @@ In Old Airport sits the People’s Republic of China’s $200 million USD gift t
 ***The following map offers an exploratory platform to navigate the sites of the AUCC, Africa Hall, and surrounding landmarks that inform the navigation of Old Airport and Kazanchis.***
 <br>
 <div id="mapContainer" style="position: relative; height: 500px; overflow: hidden;">
-    <iframe src="https://sfdduncan.github.io/PersonalProjects/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+    <iframe src="https://sfdduncan.github.io/PersonalProjects/](https://sfdduncan.github.io/AddisAbabaLandmarks/"style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
     <button onclick="toggleFullscreen()" style="position: absolute; top: 10px; right: 10px; z-index: 10; color: black;">Toggle Fullscreen</button>
 </div>
 
